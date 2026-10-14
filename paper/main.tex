@@ -36,41 +36,51 @@
 
 \title{Klasterisasi Kondisi Operasi Turbin Angin Kelmarsh Menggunakan K-Means++ pada Representasi Temporal SCADA Multivariat}
 
-\author{
-\IEEEauthorblockN{
+\author{%
 \begin{tabular}{ccc}
 \begin{tabular}{c}
-Alfon Darren Witanto\\
-\footnotesize\texttt{alfon24001@mail.unpad.ac.id}
+\sublargesize Alfon Darren Witanto\\
+\itshape\normalsize dept. Ilmu Komputer\\
+\itshape\normalsize Universitas Padjadjaran\\
+\itshape\normalsize Sumedang, Indonesia\\
+\itshape\normalsize alfon24001@mail.unpad.ac.id
 \end{tabular}
 &
 \begin{tabular}{c}
-Dean Frederic Wijaya\\
-\footnotesize\texttt{dean24001@mail.unpad.ac.id}
+\sublargesize Dean Frederic Wijaya\\
+\itshape\normalsize dept. Ilmu Komputer\\
+\itshape\normalsize Universitas Padjadjaran\\
+\itshape\normalsize Sumedang, Indonesia\\
+\itshape\normalsize dean24001@mail.unpad.ac.id
 \end{tabular}
 &
 \begin{tabular}{c}
-Hansel Stevan Boike\\
-\footnotesize\texttt{hansel24001@mail.unpad.ac.id}
+\sublargesize Hansel Stevan Boike\\
+\itshape\normalsize dept. Ilmu Komputer\\
+\itshape\normalsize Universitas Padjadjaran\\
+\itshape\normalsize Sumedang, Indonesia\\
+\itshape\normalsize hansel24001@mail.unpad.ac.id
 \end{tabular}
-\\[2.5em]
-\multicolumn{3}{c}{
+\\[1.5em]
+\multicolumn{3}{c}{%
 \begin{tabular}{cc}
 \begin{tabular}{c}
-Syamil Azzimul Bashry\\
-\footnotesize\texttt{syamil24004@mail.unpad.ac.id}
+\sublargesize Syamil Azzimul Bashry\\
+\itshape\normalsize dept. Ilmu Komputer\\
+\itshape\normalsize Universitas Padjadjaran\\
+\itshape\normalsize Sumedang, Indonesia\\
+\itshape\normalsize syamil24004@mail.unpad.ac.id
 \end{tabular}
 &
 \begin{tabular}{c}
-Valensius Alven\\
-\footnotesize\texttt{valensius24001@mail.unpad.ac.id}
+\sublargesize Valensius Alven\\
+\itshape\normalsize dept. Ilmu Komputer\\
+\itshape\normalsize Universitas Padjadjaran\\
+\itshape\normalsize Sumedang, Indonesia\\
+\itshape\normalsize valensius24001@mail.unpad.ac.id
 \end{tabular}
-\end{tabular}
-}
-\end{tabular}
-\\[1em]\normalfont\small Dept. Ilmu Komputer, Universitas Padjadjaran, Sumedang, Indonesia
-}
-}
+\end{tabular}}
+\end{tabular}}
 
 \maketitle
 \raggedbottom
@@ -94,7 +104,7 @@ Seleksi literatur mengikuti alur Preferred Reporting Items for Systematic Review
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.72\columnwidth]{prisma_scr.png}
+\includegraphics[width=0.66\columnwidth]{prisma_scr.png}
 \caption{Diagram alir seleksi studi berdasarkan PRISMA-ScR.}
 \label{fig:prisma}
 \end{figure}
@@ -166,7 +176,7 @@ Gambar~\ref{fig:geom_a} merangkum ketimpangan skala pada audit sebelum clusterin
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{geom_a.pdf}
+\includegraphics[width=0.48\columnwidth]{geom_a.pdf}
 \caption{Simpangan baku sinyal terpilih pada satuan asli (sumbu log). W/P/Q: angin/daya aktif/reaktif; Ta/Tb/To: ambien/bearing/oli; R/G: rotor/generator; B: pitch; f: frekuensi.}
 \label{fig:geom_a}
 \end{figure}
@@ -175,7 +185,7 @@ Pearson rotor--generator 0,99998, angin--daya 0,88293, dan reaktif--aktif $-0,88
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{geom_b.pdf}
+\includegraphics[width=0.48\columnwidth]{geom_b.pdf}
 \caption{Korelasi Pearson sensor skalar yang tersimpan.}
 \label{fig:geom_b}
 \end{figure}
@@ -184,7 +194,7 @@ Kontribusi maksimum jarak (Gambar~\ref{fig:geom_c}) berubah dari 48,90\% tanpa s
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{geom_c.pdf}
+\includegraphics[width=0.48\columnwidth]{geom_c.pdf}
 \caption{Kontribusi maksimum sensor pada jarak kuadrat tiap scaler.}
 \label{fig:geom_c}
 \end{figure}
@@ -193,14 +203,14 @@ Gambar~\ref{fig:qual_a} dan Gambar~\ref{fig:qual_b} membedakan kehilangan slot d
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{qual_a.pdf}
+\includegraphics[width=0.48\columnwidth]{qual_a.pdf}
 \caption{Fraksi slot tanpa availability=1 per turbin.}
 \label{fig:qual_a}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{qual_b.pdf}
+\includegraphics[width=0.48\columnwidth]{qual_b.pdf}
 \caption{Missingness sensor pada baris tersedia (setpoint hanya konteks).}
 \label{fig:qual_b}
 \end{figure}
@@ -209,7 +219,7 @@ Pada kelengkapan 100\%, retensi window seleksi adalah 99,49\% (1 jam), 98,96\% (
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.52\columnwidth]{qual_c.pdf}
+\includegraphics[width=0.48\columnwidth]{qual_c.pdf}
 \caption{Retensi window Juli--Desember pada threshold 90/95/100\%.}
 \label{fig:qual_c}
 \end{figure}
