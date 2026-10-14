@@ -36,6 +36,7 @@ Screening flow (Scopus, accessed 1 October 2026): 766 records -> 474 (year 2021-
 ├─ README.md
 ├─ requirements.txt          # top-level dependencies
 ├─ data/README.md            # dataset placement instructions
+├─ artifacts/kelmarsh_2022/  # frozen inputs to run clustering (windows, scaler, selection)
 ├─ paper/                    # IEEE LaTeX source (main.tex, methodology.tex, gap_analysis.tex) + main.pdf
 ├─ kelmarsh_2022.py          # raw loader + preprocessing helpers
 ├─ kelmarsh_stage3.py        # clustering engine (Experiment)
@@ -78,9 +79,12 @@ python run_local_notebook.py notebooks/02_clustering.ipynb
 python verify_stage3_results.py
 ```
 
-> The clustering notebook reads the frozen preprocessing artifacts
-> (`artifacts/kelmarsh_2022/`), not the raw CSV. Raw input is only needed to reproduce
-> preprocessing.
+> The clustering notebook and the experiments read the **frozen preprocessing artifacts** in
+> `artifacts/kelmarsh_2022/` (`windows_2022.csv.gz`, `fitted_preprocessing.pkl`,
+> `preprocessing_selection.json`, `preprocessed_2022.csv.gz`), not the raw CSV.
+> **These artifacts are included in this repository**, so clustering and the ablations run
+> without the raw data. Raw input (from the link in `data/README.md`) is only needed to
+> reproduce the preprocessing stage.
 
 ## Controlled ablations
 

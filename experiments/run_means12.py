@@ -5,7 +5,7 @@ Same 52,241 windows; each window described by the 12 coordinate MEANS only
 StandardScaler fit on Jan-Jun; KMeans sweep k=2..10 on the Jul-Dec selection
 period; plus seed stability and temporal persistence for k=2.
 
-Outputs go to _experiments/level2/. Original artifacts are never touched.
+Outputs go to experiments/results/. Original artifacts are never touched.
 """
 from pathlib import Path
 import json
@@ -17,9 +17,9 @@ from sklearn.metrics import (silhouette_score, davies_bouldin_score,
                              calinski_harabasz_score, adjusted_rand_score,
                              normalized_mutual_info_score)
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 CP = ROOT / 'artifacts' / 'kelmarsh_2022'
-OUT = Path(__file__).resolve().parent
+OUT = Path(__file__).resolve().parent / 'results'
 SEEDS = [2022, 2023, 2024, 2025, 2026]
 KM = dict(init='k-means++', n_init=20, max_iter=500, tol=1e-4, algorithm='lloyd')
 SIGNALS = ['wind', 'power', 'reactive', 'ambient', 'bearing', 'oil',

@@ -9,7 +9,7 @@ the SAME chronological split, scaler and KMeans k=2 setting. We compare:
   * cross-representation agreement (ARI) after mapping window labels to their
     six 10-minute member observations.
 
-Outputs go to _experiments/level2/. Original artifacts are never touched.
+Outputs go to experiments/results/. Original artifacts are never touched.
 """
 from pathlib import Path
 import json
@@ -20,9 +20,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import (silhouette_score, davies_bouldin_score,
                              calinski_harabasz_score, adjusted_rand_score)
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 CP = ROOT / 'artifacts' / 'kelmarsh_2022'
-OUT = Path(__file__).resolve().parent
+OUT = Path(__file__).resolve().parent / 'results'
 SEED = 2022
 KM = dict(init='k-means++', n_init=20, max_iter=500, tol=1e-4, algorithm='lloyd')
 SIGNALS = ['wind', 'power', 'reactive', 'ambient', 'bearing', 'oil',

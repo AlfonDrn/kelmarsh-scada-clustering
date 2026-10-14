@@ -1,7 +1,7 @@
 """Level 2 experiments: re-transform the frozen window features.
 
 Reads existing preprocessing artifacts (windows_2022.csv.gz, preprocessed_2022.csv.gz)
-and writes ALL outputs to _experiments/level2/. It never touches or overwrites the
+and writes ALL outputs to experiments/results/. It never touches or overwrites the
 original artifacts, notebooks or modules.
 
 Baseline = reproduce the published KMeans_k2 (StandardScaler on the 60 coordinate
@@ -18,9 +18,9 @@ from sklearn.preprocessing import (StandardScaler, RobustScaler,
 from sklearn.metrics import (silhouette_score, davies_bouldin_score,
                              calinski_harabasz_score, adjusted_rand_score)
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 CP = ROOT / 'artifacts' / 'kelmarsh_2022'
-OUT = Path(__file__).resolve().parent
+OUT = Path(__file__).resolve().parent / 'results'
 SEED = 2022
 KM = dict(init='k-means++', n_init=20, max_iter=500, tol=1e-4, algorithm='lloyd')
 SIGNALS = ['wind', 'power', 'reactive', 'ambient', 'bearing', 'oil',

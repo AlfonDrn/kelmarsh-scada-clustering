@@ -18,4 +18,5 @@ Kelmarsh_SCADA_2022_4457/
 
 The clustering notebook does **not** need the raw CSV: it reads the frozen preprocessing
 artifacts under `artifacts/kelmarsh_2022/` (`windows_2022.csv.gz`, `fitted_preprocessing.pkl`,
-`preprocessing_selection.json`), which are produced by the preprocessing stage.
+`preprocessing_selection.json`, `preprocessed_2022.csv.gz`), which are **included in this
+repository**. Raw data is only required to reproduce the preprocessing stage.

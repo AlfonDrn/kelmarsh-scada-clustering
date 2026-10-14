@@ -10,7 +10,7 @@ Windows-based factors (scale, redundancy, noise) reuse the artifact window table
 The missing-value factor rebuilds 1-hour windows directly from the cleaned
 10-minute series with different fill policies.
 
-All outputs go to _experiments/level2/. Original artifacts are never touched.
+All outputs go to experiments/results/. Original artifacts are never touched.
 """
 from pathlib import Path
 import json
@@ -21,9 +21,9 @@ from sklearn.preprocessing import StandardScaler, RobustScaler, MinMaxScaler
 from sklearn.metrics import (silhouette_score, davies_bouldin_score,
                              calinski_harabasz_score, adjusted_rand_score)
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 CP = ROOT / 'artifacts' / 'kelmarsh_2022'
-OUT = Path(__file__).resolve().parent
+OUT = Path(__file__).resolve().parent / 'results'
 SEED = 2022
 SEEDS = [2022, 2023, 2024, 2025, 2026]
 KM = dict(init='k-means++', n_init=20, max_iter=500, tol=1e-4, algorithm='lloyd')

@@ -1,7 +1,15 @@
 # Data and large artifacts (not tracked)
 data/**/*.csv
 Kelmarsh_SCADA_2022_4457/
-artifacts/
+
+# Artifacts: keep ONLY the frozen inputs needed to run clustering/ablations
+artifacts/*
+!artifacts/kelmarsh_2022/
+artifacts/kelmarsh_2022/*
+!artifacts/kelmarsh_2022/windows_2022.csv.gz
+!artifacts/kelmarsh_2022/preprocessed_2022.csv.gz
+!artifacts/kelmarsh_2022/fitted_preprocessing.pkl
+!artifacts/kelmarsh_2022/preprocessing_selection.json
 
 # Python
 __pycache__/
