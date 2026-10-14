@@ -22,6 +22,13 @@ Representasi Temporal SCADA Multivariat*.
       ... (six turbines)
   ```
 
+## Literature selection
+
+![PRISMA-ScR flow](paper/assets/prisma_scr.png)
+
+Screening flow (Scopus, accessed 1 October 2026): 766 records -> 474 (year 2021--2026) -> 202
+(open access) -> 201 (English) -> 164 (articles) -> 103 (domain filter) -> 11 studies synthesized.
+
 ## Repository structure
 
 ```
@@ -40,8 +47,8 @@ Representasi Temporal SCADA Multivariat*.
 ├─ notebooks/
 │   ├─ 01_preprocessing.ipynb    # Tahap 2 (preprocessing benchmark, executed)
 │   └─ 02_clustering.ipynb       # Tahap 3 (clustering, executed)
-├─ experiments/              # controlled ablations (RQ1, RQ2, 12-mean)
-│   ├─ run_rq1_ablation.py   run_rq2.py   run_means12.py
+├─ experiments/              # controlled ablations (preprocessing, temporal, 12-mean)
+│   ├─ run_ablation_preprocessing.py   run_ablation_temporal.py   run_means12.py
 │   └─ results/                  # outputs
 └─ results/
     ├─ preprocessing/        # summary CSVs (skewness, correlation, benchmarks)
@@ -81,9 +88,9 @@ One-factor controls around a frozen reference (StandardScaler, 60 features), mea
 Silhouette/DBI/CHI and agreement (ARI) versus the reference partition:
 
 ```powershell
-python experiments/run_rq1_ablation.py   # scale, redundancy, noise, missing-value policies
-python experiments/run_rq2.py            # pointwise 10-min vs 1-hour window
-python experiments/run_means12.py        # 12-mean representation sweep
+python experiments/run_ablation_preprocessing.py   # scale, redundancy, noise, missing-value policies
+python experiments/run_ablation_temporal.py        # pointwise 10-min vs 1-hour window
+python experiments/run_means12.py                  # 12-mean representation sweep
 ```
 
 ## Key results (selection period, July–December)

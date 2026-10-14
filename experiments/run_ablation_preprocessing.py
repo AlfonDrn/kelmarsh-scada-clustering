@@ -1,10 +1,10 @@
-"""RQ1 ablation: how do preprocessing choices affect clustering structure?
+"""Preprocessing ablation: how do preprocessing choices affect clustering structure?
 
 One-factor-at-a-time around a frozen reference (StandardScaler, 60 features,
 no clipping, ambient-only missing policy). For every variant we report the
 internal validity metrics, the agreement (ARI) with the reference partition,
 cluster sizes, seed stability, temporal persistence and the physical profile,
-so RQ1 can be answered by magnitude-of-structure-change rather than by score.
+so the effect can be measured by magnitude-of-structure-change rather than by score.
 
 Windows-based factors (scale, redundancy, noise) reuse the artifact window table.
 The missing-value factor rebuilds 1-hour windows directly from the cleaned
@@ -166,7 +166,7 @@ def main():
         evaluate('noise', f'winsor_{q[0]}_{q[1]}', f'winsor_{q[0]}_{q[1]}',
                  s.transform(C), s.transform(D), frame_va, ref, sp, results)
 
-    pd.DataFrame(results).to_csv(OUT / 'rq1_ablation.csv', index=False)
+    pd.DataFrame(results).to_csv(OUT / 'ablation_preprocessing.csv', index=False)
     audit('\n' + pd.DataFrame(results).to_string(index=False))
 
     # ---- factor 4: missing-value policy (rebuild 1h windows from 10-min) ----
@@ -223,9 +223,9 @@ def main():
                  np.arange(int(wv.sum())), mres, ref_ari=False)
 
 
-    pd.DataFrame(mres).to_csv(OUT / 'rq1_ablation_missing.csv', index=False)
+    pd.DataFrame(mres).to_csv(OUT / 'ablation_preprocessing_missing.csv', index=False)
     audit('\n' + pd.DataFrame(mres).to_string(index=False))
-    (OUT / 'rq1_ablation.json').write_text(json.dumps(
+    (OUT / 'ablation_preprocessing.json').write_text(json.dumps(
         dict(windows=results, missing=mres), indent=2), encoding='utf-8')
     audit(f'\nsaved -> {OUT}')
 

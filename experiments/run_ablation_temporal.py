@@ -1,4 +1,4 @@
-"""RQ2: does temporal aggregation (1-hour windows) matter versus clustering
+"""Temporal ablation: does aggregation (1-hour windows) matter versus clustering
 individual 10-minute SCADA observations?
 
 Both representations use the SAME 12 signals (10 scalars + direction sin/cos),
@@ -141,8 +141,8 @@ def main():
     audit(cross)
 
     out = pd.DataFrame(summary)
-    out.to_csv(OUT / 'rq2_pointwise_vs_window.csv', index=False)
-    (OUT / 'rq2_cross_agreement.json').write_text(json.dumps(cross, indent=2), encoding='utf-8')
+    out.to_csv(OUT / 'ablation_temporal_pointwise_vs_window.csv', index=False)
+    (OUT / 'ablation_temporal_cross_agreement.json').write_text(json.dumps(cross, indent=2), encoding='utf-8')
     audit('\n' + out.to_string(index=False))
     audit(f'\nsaved -> {OUT}')
 

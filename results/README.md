@@ -46,5 +46,5 @@ stored here). All numbers use the frozen preprocessing configuration.
 | `final_verification.json` | Reproducibility / consistency checks |
 | `input_manifest.json` / `experiment_configuration.json` / `feature_columns.json` | Input checksums, configuration, feature order |
 
-Ablation outputs (RQ1 scale/redundancy/noise/missing, RQ2 pointwise-vs-window, 12-mean) are in
-`../experiments/`.
+Ablation outputs (preprocessing scale/redundancy/noise/missing; temporal pointwise-vs-window;
+12-mean) are in `../experiments/results/`.
