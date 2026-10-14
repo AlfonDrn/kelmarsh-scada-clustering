@@ -1,0 +1,3 @@
+representation,n_objects,n_train,n_val,silhouette,dbi,chi,idle_fraction,idle_power_median,active_power_median,mean_run_hours,median_run_hours,switches_per_hour,n_runs
+pointwise_10min,314018,155714,158304,0.43017,1.22583,47321.033,0.15511,-1.73,416.27,5.127,0.5,1.1586,5146
+windowed_1h,52241,25881,26360,0.41362,1.29133,6425.379,0.16582,-1.3,433.8,18.964,4.0,0.308,1390

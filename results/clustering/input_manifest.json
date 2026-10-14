@@ -1,0 +1,150 @@
+{
+  "status": "VERIFIED",
+  "files": [
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_1_2022-01-01_-_2023-01-01_228.csv",
+      "bytes": 210172708,
+      "sha256": "e66d536e5f04725cbcea91b13a3305cb8bb2fefb3183f57b54e5648112bc83fc",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_2_2022-01-01_-_2023-01-01_229.csv",
+      "bytes": 212049815,
+      "sha256": "df8718ffd72aecc4c2e2e52b49c8abadab6d535dfe9c7960c09789f47b39f965",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_3_2022-01-01_-_2023-01-01_230.csv",
+      "bytes": 211668784,
+      "sha256": "6a3efd09bea535a47b5cd37f63b5c53e81047be4e79ab2ec4699241e0370100a",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_4_2022-01-01_-_2023-01-01_231.csv",
+      "bytes": 210493135,
+      "sha256": "d7744ad056809db2b0340323c254944ea0ae57e35bf4832423bc5cc46a197f45",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_5_2022-01-01_-_2023-01-01_232.csv",
+      "bytes": 212029127,
+      "sha256": "755396bbac0f6499f4018dc4d476477dd6adcb504dce3279655b66831e36e9f2",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Turbine_Data_Kelmarsh_6_2022-01-01_-_2023-01-01_233.csv",
+      "bytes": 211776348,
+      "sha256": "be5d8b59d1409009734a8b683a65ccc135ce75161914e4e41f9e3f32921824c5",
+      "role": "raw_scada"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_1_2022-01-01_-_2023-01-01_228.csv",
+      "bytes": 1078946,
+      "sha256": "db56688eac695814a05920e2c39a412dac9a2e4f3d35ba4e29cb384ae3dac3ee",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_2_2022-01-01_-_2023-01-01_229.csv",
+      "bytes": 1016367,
+      "sha256": "32744ee5a0773f50a03fdabb88688449aeea1465e429c5eec01b9753a767d337",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_3_2022-01-01_-_2023-01-01_230.csv",
+      "bytes": 1299716,
+      "sha256": "6c0ff892676fab74d9514a2a95ebcb192c0699b0e05e60e0da81a2510a2a755b",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_4_2022-01-01_-_2023-01-01_231.csv",
+      "bytes": 907096,
+      "sha256": "113938862aa9ce402a3f7c488d80c3b5f47dc429875fe3cb76bbd6ab126aa19c",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_5_2022-01-01_-_2023-01-01_232.csv",
+      "bytes": 1064886,
+      "sha256": "03aba1ae0ee580516df4069bcc786ed11b9885915f4a5a5756a00753e1f99d5f",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\Status_Kelmarsh_6_2022-01-01_-_2023-01-01_233.csv",
+      "bytes": 1266310,
+      "sha256": "e1ec362020570e68acd18363e23d6006d8e452fc786010e6f1ab81a741699a7c",
+      "role": "status_context_not_ground_truth"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_2022_Preprocessing_Literature_Benchmark.ipynb",
+      "bytes": 4848784,
+      "sha256": "c46c9a473ffaf2d9c01dbfc702dd318dee2516a82d08c6389f4aaf00deed1bcf",
+      "role": "original_preprocessing_notebook"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\windows_2022.csv.gz",
+      "bytes": 56416167,
+      "sha256": "1165215e960379a4a17b5d28e9e8ac0f848b334738129f5c2625cf3e8942b94c",
+      "role": "preprocessing_artifact"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\preprocessing_selection.json",
+      "bytes": 1084,
+      "sha256": "24ae05fa67222fb0aee42318c0fc1faacfb0b3bc8e6a072835721aaaa55d7d73",
+      "role": "preprocessing_artifact"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\fitted_preprocessing.pkl",
+      "bytes": 1346748,
+      "sha256": "fc559965783cb6f401a9be8806bb60cd762093317c7f494779a4440a652755df",
+      "role": "preprocessing_artifact"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\manual_preprocessing_decision.csv",
+      "bytes": 2173,
+      "sha256": "3356de352858775001b2e5cb18072391f106362b8ef87f8ae9db97b49bcd09dc",
+      "role": "preprocessing_artifact"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\local_preprocessing_changes.json",
+      "bytes": 33267,
+      "sha256": "3ebade37845aec21dcd7e63309af95acea42b5e41bd0d3ae13199b56535743e3",
+      "role": "preprocessing_artifact"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\kelmarsh_2022.py",
+      "sha256": "7950c3c7afcb851c2841168c0cbad6410e5c7b70ad375ee9afd6651acb7bca4a",
+      "role": "implementation"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\kelmarsh_stage3.py",
+      "sha256": "d666ef93b5cdba900b11dd997c3934157e235a9b8f4c23b1c0e3d9554250b2a6",
+      "role": "implementation"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\stage3_structural.py",
+      "sha256": "6c1b2d0d61f3f9d07a65969dec924e98ce2b9e54b25f7569b887b091f52b14ed",
+      "role": "implementation"
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\prepare_local_preprocessing.py",
+      "sha256": "9f7c80d73fccf5461a4bc9d11590358a4b4b63b1ad7edc8a078fcf57d2f935e8",
+      "role": "implementation"
+    }
+  ],
+  "clustering_input": {
+    "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\windows_2022.csv.gz",
+    "sha256": "1165215e960379a4a17b5d28e9e8ac0f848b334738129f5c2625cf3e8942b94c",
+    "shape": [
+      52241,
+      244
+    ],
+    "feature_shape": [
+      52241,
+      60
+    ],
+    "train_windows": 25881,
+    "selection_windows": 26360,
+    "first_timestamp": "2022-01-01 00:00:00+00:00",
+    "last_timestamp": "2022-12-31 23:00:00+00:00"
+  },
+  "checks": "finite, unique, UTC-aligned, complete, 60 declared coordinates, frozen training scaler reproduced"
+}

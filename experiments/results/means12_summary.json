@@ -1,0 +1,99 @@
+{
+  "sweep": [
+    {
+      "k": 2,
+      "silhouette": 0.41362,
+      "dbi": 1.29133,
+      "chi": 6425.379,
+      "min_cluster_fraction": 0.16582,
+      "persistence": 0.94842,
+      "turbine_nmi": 0.000284
+    },
+    {
+      "k": 3,
+      "silhouette": 0.27092,
+      "dbi": 1.23157,
+      "chi": 5882.026,
+      "min_cluster_fraction": 0.12458,
+      "persistence": 0.89562,
+      "turbine_nmi": 0.001479
+    },
+    {
+      "k": 4,
+      "silhouette": 0.25923,
+      "dbi": 1.20981,
+      "chi": 5249.105,
+      "min_cluster_fraction": 0.04837,
+      "persistence": 0.87979,
+      "turbine_nmi": 0.002738
+    },
+    {
+      "k": 5,
+      "silhouette": 0.26963,
+      "dbi": 0.98091,
+      "chi": 12026.703,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.87967,
+      "turbine_nmi": 0.0028
+    },
+    {
+      "k": 6,
+      "silhouette": 0.22323,
+      "dbi": 1.19994,
+      "chi": 11286.394,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.85973,
+      "turbine_nmi": 0.002389
+    },
+    {
+      "k": 7,
+      "silhouette": 0.20764,
+      "dbi": 1.20187,
+      "chi": 10457.449,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.85703,
+      "turbine_nmi": 0.002746
+    },
+    {
+      "k": 8,
+      "silhouette": 0.18118,
+      "dbi": 1.24457,
+      "chi": 9733.712,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.80944,
+      "turbine_nmi": 0.003066
+    },
+    {
+      "k": 9,
+      "silhouette": 0.18267,
+      "dbi": 1.28194,
+      "chi": 8758.038,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.8039,
+      "turbine_nmi": 0.003306
+    },
+    {
+      "k": 10,
+      "silhouette": 0.17596,
+      "dbi": 1.29081,
+      "chi": 8170.871,
+      "min_cluster_fraction": 0.0003,
+      "persistence": 0.79828,
+      "turbine_nmi": 0.003484
+    }
+  ],
+  "seed_stability": [
+    {
+      "k": 2,
+      "seed_ari_mean": 0.99955,
+      "seed_ari_min": 0.99886,
+      "n_seeds": 5
+    },
+    {
+      "k": 3,
+      "seed_ari_mean": 0.99724,
+      "seed_ari_min": 0.99462,
+      "n_seeds": 5
+    }
+  ]
+}

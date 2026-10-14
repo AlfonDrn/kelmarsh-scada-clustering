@@ -1,0 +1,25 @@
+method,split,regime,rows,flagged_or_changed,removed,loss_fraction,affected_fraction
+IQR trimming,train,all,156384,34057,34057,0.2177780335584203,0.2177780335584203
+IQR trimming,train,low-power/high-wind,2632,2632,2632,1.0,1.0
+IQR trimming,train,rated-like,12515,6864,6864,0.548461845785058,0.548461845785058
+IQR trimming,validation,all,158976,35869,35869,0.22562525161030597,0.22562525161030597
+IQR trimming,validation,low-power/high-wind,1135,1135,1135,1.0,1.0
+IQR trimming,validation,rated-like,6160,2937,2937,0.4767857142857143,0.4767857142857143
+z-score trimming,train,all,156384,11351,11351,0.0725841518313894,0.0725841518313894
+z-score trimming,train,low-power/high-wind,2632,2622,2622,0.9962006079027356,0.9962006079027356
+z-score trimming,train,rated-like,12515,1022,1022,0.08166200559328805,0.08166200559328805
+z-score trimming,validation,all,158976,13523,13523,0.0850631541867955,0.0850631541867955
+z-score trimming,validation,low-power/high-wind,1135,1104,1104,0.9726872246696036,0.9726872246696036
+z-score trimming,validation,rated-like,6160,85,85,0.013798701298701298,0.013798701298701298
+IQR winsorization,train,all,156384,34057,0,0.0,0.2177780335584203
+IQR winsorization,train,low-power/high-wind,2632,2632,0,0.0,1.0
+IQR winsorization,train,rated-like,12515,6864,0,0.0,0.548461845785058
+IQR winsorization,validation,all,158976,35869,0,0.0,0.22562525161030597
+IQR winsorization,validation,low-power/high-wind,1135,1135,0,0.0,1.0
+IQR winsorization,validation,rated-like,6160,2937,0,0.0,0.4767857142857143
+physical flag-only,train,all,156384,2078,0,0.0,0.0132878043789646
+physical flag-only,train,low-power/high-wind,2632,114,0,0.0,0.04331306990881459
+physical flag-only,train,rated-like,12515,0,0,0.0,0.0
+physical flag-only,validation,all,158976,1765,0,0.0,0.011102304750402577
+physical flag-only,validation,low-power/high-wind,1135,55,0,0.0,0.048458149779735685
+physical flag-only,validation,rated-like,6160,0,0,0.0,0.0

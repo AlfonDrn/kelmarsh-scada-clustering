@@ -1,0 +1,54 @@
+{
+  "seed": 2022,
+  "seeds": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "kmeans": {
+    "init": "k-means++",
+    "n_init": 20,
+    "max_iter": 500,
+    "tol": 0.0001,
+    "algorithm": "lloyd"
+  },
+  "fcm": {
+    "m": 2.0,
+    "error": 1e-05,
+    "maxiter": 500
+  },
+  "kmeans_initial_k_range": [
+    2,
+    10
+  ],
+  "fcm_k_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "ward_k_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "silhouette_sample_size": 3000,
+  "ward_target_sample": 4000,
+  "tiny_cluster_threshold": 0.01,
+  "ambiguity_membership_threshold": 0.6,
+  "selection_period": "July–December reused in preprocessing, not an unbiased test",
+  "feature_scaler_refit": false
+}

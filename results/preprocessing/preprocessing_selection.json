@@ -1,0 +1,32 @@
+{
+  "fit_period": "2022-01-01/2022-06-30 UTC",
+  "selection_period": "2022-07-01/2022-12-31 UTC",
+  "scalar_scaler": "standard",
+  "scalar_features": [
+    "wind",
+    "power",
+    "reactive",
+    "ambient",
+    "bearing",
+    "oil",
+    "rotor",
+    "generator",
+    "pitch",
+    "frequency"
+  ],
+  "gap_fill_signals": [
+    "ambient"
+  ],
+  "max_whole_gap_steps": 2,
+  "direction": "sin/cos, shared unit scale, never scalar interpolated",
+  "setpoint": "raw context only, never interpolated",
+  "outliers": "retain raw/flags and scalar coordinates; invalid direction unencoded; no empirical row trimming",
+  "smoothing": "none",
+  "window_hours": 1,
+  "window_completeness": 1.0,
+  "validation_window_coverage": 0.9948671497584541,
+  "PCA_final": "not applied; preservation diagnostics exported",
+  "window_coordinate_missingness": "training-median fill with coordinate_imputed flags",
+  "metrics": "data quality and geometric diagnostics, not clustering truth",
+  "validation_reuse": "July-December used for selection, no unbiased final test claim"
+}

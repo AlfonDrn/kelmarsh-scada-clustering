@@ -1,0 +1,13 @@
+feature,2022_header,header_unit,mapping_unit,unit_source
+wind,Wind speed (m/s),m/s,,actual 2022 CSV header
+direction,Wind direction (°),°,,actual 2022 CSV header
+power,Power (kW),kW,,actual 2022 CSV header
+reactive,Reactive power (kvar),kvar,,actual 2022 CSV header
+ambient,Nacelle ambient temperature (°C),°C,,actual 2022 CSV header
+bearing,Generator bearing front temperature (°C),°C,,actual 2022 CSV header
+oil,Gear oil temperature (°C),°C,,actual 2022 CSV header
+rotor,Rotor speed (RPM),RPM,,actual 2022 CSV header
+generator,Generator RPM (RPM),RPM,,actual 2022 CSV header
+pitch,Blade angle (pitch position) A (°),°,,actual 2022 CSV header
+frequency,Grid frequency (Hz),Hz,,actual 2022 CSV header
+setpoint,Turbine Power setpoint (kW),kW,,actual 2022 CSV header

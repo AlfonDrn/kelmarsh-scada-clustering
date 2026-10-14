@@ -1,0 +1,28 @@
+% Gap Analysis table: No | Paper | Domain | Clustering | Preprocessing | Limitasi/Kesenjangan.
+\begin{table*}[!t]
+\centering
+\caption{Gap Analysis sebelas paper sintesis kerja.}
+\label{tab:gap}
+\scriptsize
+\setlength{\tabcolsep}{2.5pt}
+\renewcommand{\arraystretch}{0.98}
+\begin{tabularx}{\textwidth}{@{}P{.02\textwidth}P{.11\textwidth}P{.135\textwidth}P{.125\textwidth}P{.145\textwidth}Y@{}}
+\toprule
+\textbf{No} & \textbf{Paper} & \textbf{Domain} & \textbf{Clustering} & \textbf{Preprocessing} & \textbf{Limitasi dan/atau Kesenjangan yang Diselesaikan Paper} \\
+\midrule
+1 & Marti-Puig dan N\'{u}\~{n}ez-Vilaplana \cite{martipuig2024} & SCADA turbin angin (5 turbin, 5 menit) & Hierarkis aglomeratif pada window & Window bergeser; transformasi kosinus diskret (DCT) & Mengelompokkan turbin per window temporal; sinyal tunggal dan DCT membatasi transfer ke statistik multivariat, dan jumlah klaster berubah tiap frame. \\
+2 & Bonifati dkk. \cite{bonifati2022} & MTS umum (18 dataset UEA) & K-Means berbasis fitur & Fitur intra/inter-sinyal; cleaning; normalisasi; seleksi PFA & Representasi fitur bernama mendukung interpretasi; ribuan fitur dan Principal Feature Analysis (PFA) berbeda dari 60 statistik dan mengaburkan keterlacakan ke sensor. \\
+3 & Ngo dan Phan \cite{ngophan2025} & Sensor gedung dalam ruangan & K-Means/DTW, HDBSCAN, K-Shape, SOM & Normalisasi Min--Max; turunan pertama & Membandingkan banyak algoritma dan validitas internal; hasil khusus domain gedung sehingga tak menjamin rezim turbin dan tak menyediakan label operasi. \\
+4 & Mazgu\l{}a dkk. \cite{mazgula2024} & KPI 5G + akselerometer & Spectral dengan DTW terbatas & Standardisasi; moving average & Menyetarakan skala berbeda via standardisasi; jarak DTW berbeda dari Euclidean pada statistik window dan smoothing meredam transisi operasi. \\
+5 & Cai dkk. \cite{cai2025} & SCADA angin lepas pantai + NWP & Optimized FCM; pengelompokan tren & Penanganan missing/outlier; seleksi fitur; scaling & Menangani missing/outlier untuk forecasting; sasaran prediksi dan FCM teroptimasi tidak sama dengan pengelompokan deskriptif tanpa label. \\
+6 & Ghaderi dkk. \cite{ghaderi2023} & Deret waktu klinis (TBI) & SLAC-Time berbasis pembelajaran mandiri & Observation triplets; window; tanpa imputasi konvensional & Menghindari imputasi konvensional lewat observation triplet; arsitektur dan interval tidak teratur tidak diterapkan pada SCADA 10 menit yang teratur. \\
+7 & Draayer dkk. \cite{draayer2026} & Sinyal sensor umum (EEG, gerak) & Deep clustering untuk segmentasi & Subsequence; autoencoder; augmentasi & Menemukan segmen homogen lewat representasi neural; pelatihan embedding mengubah ruang fitur dan menambah biaya komputasi. \\
+8 & Bel-Hadj dkk. \cite{belhadj2026} & Vibrasi nacelle turbin angin lepas pantai & Deep Embedded Clustering; K-Means inisialisasi & Spektrum akselerasi; percentile scaling; denoising & Menafsirkan kondisi operasi turbin; modalitas akselerasi frekuensi tinggi berbeda resolusi dari SCADA 10 menit. \\
+9 & Lang dkk. \cite{lang2026} & Monitoring operasi kapal (tanker, 1 Hz) & Toeplitz Inverse Covariance-based Clustering (TICC) & Averaging 15 menit; window; change-point & Menyegmentasi stream multivariat dengan konsistensi waktu; agregasi dapat melebur kejadian pendek dan domain kapal berbeda dari turbin. \\
+10 & Bette dkk. \cite{bette2023} & SCADA turbin angin lepas pantai frekuensi tinggi & Klasterisasi matriks korelasi & Averaging; epoch 30 menit; Z-score; Pearson & Menunjukkan struktur korelasi berubah menurut angin dan kontrol; matriks korelasi epoch bukan 60 statistik window, sehingga representasi tidak langsung dipindahkan. \\
+11 & Li dan Li \cite{li2026} & SCADA turbin angin onshore (anomali) & VGO-K-Means; pembanding K-Means/DBSCAN & Statistik $3\sigma$; Z-score; variable grid & Menapis anomali lewat grid variabel dan Z-score; tujuan penapisan berbeda dari pemetaan seluruh window dan bukan replikasi K-Means++. \\
+\bottomrule
+\end{tabularx}
+\par\vspace{2pt}
+{\footnotesize\textit{Catatan:} DTW menyelaraskan dua deret; K-Shape memakai kemiripan bentuk; SOM memetakan objek ke kisi prototipe; spectral clustering memakai eigenvektor graf; autoencoder dan DEC adalah representasi neural; pembelajaran mandiri memperoleh sinyal latihan dari data sendiri; TICC memakai kovariansi Toeplitz antarwaktu; change-point menandai perubahan distribusi. Istilah ini pembanding di luar cakupan, bukan eksperimen Kelmarsh.\par}
+\end{table*}

@@ -1,0 +1,5 @@
+factor,level,silhouette,dbi,chi,ari_vs_ref,min_cluster_fraction,idle_fraction,idle_power_median,active_power_median,seed_ari_mean,seed_ari_min,persistence
+missing,ambient_only_rebuilt,0.32564,1.85678,4068.635,,0.20467,0.20467,-0.94,462.68,1.0,1.0,0.93353
+missing,median_fill,0.33057,1.85182,4743.696,,0.20433,0.20433,-0.93,459.86,1.0,1.0,0.93311
+missing,forward_fill,0.35053,1.96121,3653.594,,0.20682,0.20682,-0.91,461.73,1.0,1.0,0.93386
+missing,listwise_drop,0.32564,1.85678,4068.635,,0.20467,0.20467,-0.94,462.68,1.0,1.0,0.93353

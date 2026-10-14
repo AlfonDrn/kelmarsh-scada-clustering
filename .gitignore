@@ -1,0 +1,22 @@
+# Data and large artifacts (not tracked)
+data/**/*.csv
+Kelmarsh_SCADA_2022_4457/
+artifacts/
+
+# Python
+__pycache__/
+*.py[cod]
+.stage3_deps/
+.venv/
+.runtime/
+.jupyter/
+.ipynb_checkpoints/
+
+# Notebooks / outputs
+*.execution.json
+
+# OS / editors
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,211 @@
+{
+  "preprocessing_sources_and_core_artifacts_unchanged_during_steering": true,
+  "Kelmarsh_2022_Preprocessing_Local_Reconstructed": {
+    "all_code_cells_executed": 30,
+    "no_error_outputs": true,
+    "fresh_kernel_runtime_seconds": 218.69558660000075
+  },
+  "Kelmarsh_Clustering_Stage3_Local": {
+    "all_code_cells_executed": 15,
+    "no_error_outputs": true,
+    "fresh_kernel_runtime_seconds": 50.24893150000025
+  },
+  "original_notebook_unchanged": true,
+  "original_numerical_cells_preserved": 23,
+  "fixed_seed_full_year_assignment_labels_identical": true,
+  "fixed_seed_centroid_max_abs_difference": 0.0,
+  "fixed_seed_centroid_comparison_tolerance": {
+    "rtol": 1e-12,
+    "atol": 1e-12
+  },
+  "fixed_seed_inertia_abs_difference": 0.0,
+  "saved_model_assignments_match_all_windows": true,
+  "fcm_nonconverged_initializations": 3,
+  "matching_method_k_ranges": {
+    "KMeans": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "FCM": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "Ward": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "candidate_rows": 18,
+  "same_selection_population_and_silhouette_sample": true,
+  "hdbscan_six_configurations_and_54_matched_coverage_comparisons": true,
+  "saved_hdbscan_models_reproduce_256_fixed_selection_labels_and_strengths_each": true,
+  "feature_diagnosis_and_separate_redundancy_sensitivity": true,
+  "original_full_array_equivalence_proven": false,
+  "high_resolution_figures": [
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\cluster_sizes.png",
+      "pixels": [
+        2068,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\feature_space_diagnosis.png",
+      "pixels": [
+        3600,
+        1200
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\hdbscan_coverage_scores.png",
+      "pixels": [
+        3900,
+        1440
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\k_chi.png",
+      "pixels": [
+        2067,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\k_dbi.png",
+      "pixels": [
+        2067,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\k_inertia.png",
+      "pixels": [
+        2067,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\k_silhouette.png",
+      "pixels": [
+        2067,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\method_comparison.png",
+      "pixels": [
+        2667,
+        1164
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\physical_profiles.png",
+      "pixels": [
+        5067,
+        2066
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\temporal_distribution.png",
+      "pixels": [
+        2967,
+        1467
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\transition_matrix.png",
+      "pixels": [
+        1721,
+        1503
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\turbine_distribution.png",
+      "pixels": [
+        2967,
+        1467
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    },
+    {
+      "path": "C:\\College\\Sem5\\DATMIN\\Kelmarsh_SCADA_2022_4457\\artifacts\\kelmarsh_2022\\clustering\\figures\\wind_power.png",
+      "pixels": [
+        2367,
+        1464
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    }
+  ],
+  "runtime_seconds": 18.596580400000676
+}

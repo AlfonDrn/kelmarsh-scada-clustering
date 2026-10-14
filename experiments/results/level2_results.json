@@ -1,0 +1,82 @@
+[
+  {
+    "variant": "baseline_standard",
+    "silhouette": 0.32927,
+    "dbi": 1.85678,
+    "chi": 4068.635,
+    "ari_vs_baseline": 1.0,
+    "min_cluster_fraction": 0.20467
+  },
+  {
+    "variant": "yeo_johnson",
+    "silhouette": -0.46908,
+    "dbi": 2.02992,
+    "chi": 1.407,
+    "ari_vs_baseline": 0.75844,
+    "min_cluster_fraction": 0.25941
+  },
+  {
+    "variant": "robust",
+    "silhouette": 0.83788,
+    "dbi": 0.3848,
+    "chi": 15553.923,
+    "ari_vs_baseline": 0.17239,
+    "min_cluster_fraction": 0.0352
+  },
+  {
+    "variant": "quantile_normal",
+    "silhouette": 0.21994,
+    "dbi": 1.78281,
+    "chi": 6865.623,
+    "ari_vs_baseline": 0.60127,
+    "min_cluster_fraction": 0.2981
+  },
+  {
+    "variant": "yj_then_robust",
+    "silhouette": -0.03111,
+    "dbi": 2.01215,
+    "chi": 3.815,
+    "ari_vs_baseline": 0.00282,
+    "min_cluster_fraction": 0.48703
+  },
+  {
+    "variant": "drop_frequency",
+    "silhouette": 0.31741,
+    "dbi": 1.7844,
+    "chi": 6304.114,
+    "ari_vs_baseline": 0.99965,
+    "min_cluster_fraction": 0.20459
+  },
+  {
+    "variant": "winsor_1_99",
+    "silhouette": 0.28245,
+    "dbi": 1.8632,
+    "chi": 5757.365,
+    "ari_vs_baseline": 0.9919,
+    "min_cluster_fraction": 0.20516
+  },
+  {
+    "variant": "winsor_drop_frequency",
+    "silhouette": 0.30726,
+    "dbi": 1.76827,
+    "chi": 6469.798,
+    "ari_vs_baseline": 0.99155,
+    "min_cluster_fraction": 0.20531
+  },
+  {
+    "variant": "level_plus_dynamics_24",
+    "silhouette": 0.33606,
+    "dbi": 1.89603,
+    "chi": 3044.293,
+    "ari_vs_baseline": 0.76895,
+    "min_cluster_fraction": 0.15527
+  },
+  {
+    "variant": "means_only_12",
+    "silhouette": 0.41362,
+    "dbi": 1.29133,
+    "chi": 6425.379,
+    "ari_vs_baseline": 0.82274,
+    "min_cluster_fraction": 0.16582
+  }
+]

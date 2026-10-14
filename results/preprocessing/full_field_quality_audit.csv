@@ -1,0 +1,1813 @@
+turbine,signal,valid_rows,missing,missing_pct,constant_or_empty,minimum,maximum,all_missing,observed_constant
+KWF1,Wind speed (m/s),52006,0,0.0,False,0.0,23.683293724060057,False,False
+KWF1,"Wind speed, Standard deviation (m/s)",52006,0,0.0,False,0.0,8.124358720404468,False,False
+KWF1,"Wind speed, Minimum (m/s)",52006,0,0.0,False,-14.9624996185303,16.2596244812012,False,False
+KWF1,"Wind speed, Maximum (m/s)",52006,0,0.0,False,0.0,31.138500213623,False,False
+KWF1,Long Term Wind (m/s),52006,0,0.0,False,5.26,7.21,False,False
+KWF1,Wind speed Sensor 1 (m/s),52006,215,0.4134138368649771,False,0.0,24.54520387649536,False,False
+KWF1,"Wind speed Sensor 1, Standard deviation (m/s)",52006,215,0.4134138368649771,False,0.0,7.612975185757008,False,False
+KWF1,"Wind speed Sensor 1, Minimum (m/s)",52006,960,1.8459408529785024,False,-11.4399995803833,17.3518161773682,False,False
+KWF1,"Wind speed Sensor 1, Maximum (m/s)",52006,215,0.4134138368649771,False,0.0,32.4177093505859,False,False
+KWF1,Wind speed Sensor 2 (m/s),52006,0,0.0,False,-15.0,22.906312656402587,False,False
+KWF1,"Wind speed Sensor 2, Standard deviation (m/s)",52006,0,0.0,False,0.0,11.01022188676444,False,False
+KWF1,"Wind speed Sensor 2, Minimum (m/s)",52006,0,0.0,False,-15.0,16.6680736541748,False,False
+KWF1,"Wind speed Sensor 2, Maximum (m/s)",52006,0,0.0,False,-15.0,30.3479995727539,False,False
+KWF1,Density adjusted wind speed (m/s),52006,43,0.08268276737299543,False,0.0,23.63627008666735,False,False
+KWF1,Wind direction (°),52006,0,0.0,False,0.0058120803374208,359.99461571609504,False,False
+KWF1,Nacelle position (°),52006,0,0.0,False,0.0404025430526644,359.97510403460615,False,False
+KWF1,"Wind direction, Standard deviation (°)",52006,0,0.0,False,0.0,113.75541713519964,False,False
+KWF1,"Wind direction, Minimum (°)",52006,0,0.0,False,0.00091552734375,349.210968017578,False,False
+KWF1,"Wind direction, Maximum (°)",52006,0,0.0,False,10.42401885986328,359.999542236328,False,False
+KWF1,"Nacelle position, Standard deviation (°)",52006,0,0.0,False,0.0,92.42859131284392,False,False
+KWF1,"Nacelle position, Minimum (°)",52006,0,0.0,False,0.1007319539785385,359.464141845703,False,False
+KWF1,"Nacelle position, Maximum (°)",52006,0,0.0,False,0.5606689453125,359.969024658203,False,False
+KWF1,Vane position 1+2 (°),52006,43,0.08268276737299543,False,-172.87587814331056,168.39451751708998,False,False
+KWF1,"Vane position 1+2, Max (°)",52006,43,0.08268276737299543,False,-160.751663208008,179.968688964844,False,False
+KWF1,"Vane position 1+2, Min (°)",52006,43,0.08268276737299543,False,-179.982360839844,161.271072387695,False,False
+KWF1,"Vane position 1+2, StdDev (°)",52006,43,0.08268276737299543,False,0.0,175.47434061773296,False,False
+KWF1,Energy Export (kWh),52006,6,0.01153713033111564,False,0.0,412.0,False,False
+KWF1,Energy Export counter (kWh),52006,6571,12.635080567626812,False,31311268.0,36477090.0,False,False
+KWF1,Energy Import (kWh),52006,67,0.128831288697458,False,0.0,3.0,False,False
+KWF1,Energy Import counter (kWh),52006,49175,94.5563973387686,False,13969.0,16947.0,False,False
+KWF1,Lost Production (Contractual) (kWh),52006,0,0.0,False,0.0,341.5083333333333,False,False
+KWF1,Lost Production (Time-based IEC B.2.2) (kWh),52006,0,0.0,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Time-based IEC B.2.3) (kWh),52006,289,0.5557051109487366,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Time-based IEC B.2.4) (kWh),52006,22,0.04230281121409068,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Time-based IEC B.3.2) (kWh),52006,329,0.6326193131561743,False,0.0,341.5083333333333,False,False
+KWF1,Lost Production (Production-based IEC B.2.2) (kWh),52006,289,0.5557051109487366,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Production-based IEC B.2.3) (kWh),52006,7369,14.169518901665192,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Production-based IEC B.3.2) (kWh),52006,329,0.6326193131561743,False,0.0,341.5083333333333,False,False
+KWF1,Energy Budget - Default (kWh),52006,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF1,Energy Theoretical (kWh),52006,0,0.0,False,0.0,342.6583333333333,False,False
+KWF1,Lost Production to Downtime (kWh),52006,0,0.0,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production to Performance (kWh),52006,0,0.0,False,-170.81323832911693,161.78510053356473,False,False
+KWF1,Lost Production Total (kWh),52006,0,0.0,False,-170.81323832911693,342.4497834024429,False,False
+KWF1,Lost Production to Curtailment (Total) (kWh),52006,0,0.0,False,0.0,118.09554281446648,False,False
+KWF1,Lost Production to Curtailment (Grid) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Noise) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Shadow) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Bats) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Birds) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Ice) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Sector Management) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Technical) (kWh),52006,0,0.0,False,0.0,118.09554281446648,False,False
+KWF1,Lost Production to Curtailment (Marketing) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Curtailment (Boat Action) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Compensated Lost Production (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Virtual Production (kWh),52006,0,0.0,False,0.0,412.0,False,False
+KWF1,Lost Production to Curtailment (Grid Constraint) (kWh),52006,0,0.0,True,0.0,0.0,False,True
+KWF1,Lost Production to Downtime and Curtailment Total (kWh),52006,0,0.0,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Contractual Global) (kWh),52006,0,0.0,False,0.0,342.4497834024429,False,False
+KWF1,Lost Production (Contractual Custom) (kWh),52006,0,0.0,False,0.0,341.66666666666663,False,False
+KWF1,Power (kW),52006,0,0.0,False,-17.21736271381378,2082.6919372558623,False,False
+KWF1,Potential power default PC (kW),52006,0,0.0,False,0.0,2050.0,False,False
+KWF1,"Power, Standard deviation (kW)",52006,0,0.0,False,0.0,1030.466483391307,False,False
+KWF1,"Power, Minimum (kW)",52006,0,0.0,False,-73.4242858886719,2044.43591308594,False,False
+KWF1,"Power, Maximum (kW)",52006,0,0.0,False,-10.7233505249023,2224.05541992188,False,False
+KWF1,Potential power learned PC (kW),52006,0,0.0,False,0.0,2055.95,False,False
+KWF1,Potential power reference turbines (kW),52006,245,0.47109948852055533,False,0.0,2062.041337890628,False,False
+KWF1,Cascading potential power (kW),52006,0,0.0,False,0.0,2055.95,False,False
+KWF1,Cascading potential power for performance (kW),52006,0,0.0,False,0.0,2055.95,False,False
+KWF1,Potential power met mast anemometer (kW),52006,52006,100.0,True,,,True,False
+KWF1,Potential power primary reference turbines (kW),52006,824,1.5844325654732145,False,0.0,2064.55245819092,False,False
+KWF1,Potential power secondary reference turbines (kW),52006,539,1.0364188747452217,False,0.0,2065.2548767089866,False,False
+KWF1,Turbine Power setpoint (kW),52006,43,0.08268276737299543,False,205.0,2060.0,False,False
+KWF1,Potential power estimated (kW),52006,52006,100.0,True,,,True,False
+KWF1,Potential power MPC (kW),52006,0,0.0,False,0.0,2050.0,False,False
+KWF1,Potential power met mast anemometer MPC (kW),52006,52006,100.0,True,,,True,False
+KWF1,Potential Power Energy Budget (kW),52006,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF1,"Turbine Power setpoint, Max (kW)",52006,43,0.08268276737299543,False,205.0,2060.0,False,False
+KWF1,"Turbine Power setpoint, Min (kW)",52006,43,0.08268276737299543,False,205.0,2060.0,False,False
+KWF1,"Turbine Power setpoint, StdDev (kW)",52006,43,0.08268276737299543,False,0.0,824.0,False,False
+KWF1,Available Capacity for Production (kW),52006,0,0.0,False,0.0,2050.0,False,False
+KWF1,Available Capacity for Production (Planned) (kW),52006,0,0.0,True,2050.0,2050.0,False,True
+KWF1,Manufacturer Potential Power (SCADA) (kW),52006,52006,100.0,True,,,True,False
+KWF1,Power factor (cosphi),52006,0,0.0,False,-0.9999872326850892,1.0,False,False
+KWF1,"Power factor (cosphi), Max",52006,0,0.0,False,-1.0,1.0,False,False
+KWF1,"Power factor (cosphi), Min",52006,0,0.0,False,-1.0,1.0,False,False
+KWF1,"Power factor (cosphi), Standard deviation",52006,0,0.0,False,0.0,0.999999347329556,False,False
+KWF1,Reactive power (kvar),52006,0,0.0,False,-636.8352630615234,3.990757669508457,False,False
+KWF1,"Reactive power, Max (kvar)",52006,0,0.0,False,-598.666809082031,246.630004882813,False,False
+KWF1,"Reactive power, Min (kvar)",52006,0,0.0,False,-839.066162109375,0.0,False,False
+KWF1,"Reactive power, Standard deviation (kvar)",52006,0,0.0,False,0.0,293.73862074916315,False,False
+KWF1,Front bearing temperature (°C),52006,43,0.08268276737299543,False,8.100000381469728,81.11249885559081,False,False
+KWF1,Rear bearing temperature (°C),52006,43,0.08268276737299543,False,8.600000381469728,79.55750007629395,False,False
+KWF1,Stator temperature 1 (°C),52006,0,0.0,False,6.40000009536743,98.48499984741213,False,False
+KWF1,Nacelle ambient temperature (°C),52006,43,0.08268276737299543,False,-4.144999790191651,39.16052667718186,False,False
+KWF1,Nacelle temperature (°C),52006,43,0.08268276737299543,False,0.2075000032782551,41.95750064849854,False,False
+KWF1,Transformer temperature (°C),52006,43,0.08268276737299543,False,-273.20001220703114,110.60999832153308,False,False
+KWF1,Gear oil inlet temperature (°C),52006,0,0.0,False,5.240000009536743,59.09250030517577,False,False
+KWF1,Generator bearing rear temperature (°C),52006,0,0.0,False,2.4000000953674308,75.34750480651854,False,False
+KWF1,Generator bearing front temperature (°C),52006,0,0.0,False,5.3000001907348615,64.26250114440919,False,False
+KWF1,Gear oil temperature (°C),52006,0,0.0,False,10.159999895095805,64.90000038146972,False,False
+KWF1,Temp. top box (°C),52006,0,0.0,False,9.527500104904174,46.20000076293948,False,False
+KWF1,Hub temperature (°C),52006,0,0.0,False,5.1,40.1,False,False
+KWF1,Ambient temperature (converter) (°C),52006,2,0.00384571011037188,False,-113.30000534057608,44.18750019073487,False,False
+KWF1,Rotor bearing temp (°C),52006,0,0.0,False,0.8999999761581419,48.6299997329712,False,False
+KWF1,Transformer cell temperature (°C),52006,43,0.08268276737299543,False,-273.20001220703114,45.56842081170333,False,False
+KWF1,"Front bearing temperature, Max (°C)",52006,43,0.08268276737299543,False,8.10000038146973,81.4000015258789,False,False
+KWF1,"Front bearing temperature, Min (°C)",52006,43,0.08268276737299543,False,8.10000038146973,80.6999969482422,False,False
+KWF1,"Front bearing temperature, Standard deviation (°C)",52006,43,0.08268276737299543,False,0.0,15.22036007502856,False,False
+KWF1,"Rear bearing temperature, Max (°C)",52006,43,0.08268276737299543,False,8.60000038146973,80.1999969482422,False,False
+KWF1,"Rear bearing temperature, Min (°C)",52006,43,0.08268276737299543,False,8.60000038146973,78.6999969482422,False,False
+KWF1,"Rear bearing temperature, Standard deviation (°C)",52006,43,0.08268276737299543,False,0.0,13.0126024782468,False,False
+KWF1,Temperature motor axis 1 (°C),52006,0,0.0,False,8.0,81.0,False,False
+KWF1,Temperature motor axis 2 (°C),52006,0,0.0,False,9.0,82.4,False,False
+KWF1,Temperature motor axis 3 (°C),52006,0,0.0,False,8.0,78.25,False,False
+KWF1,CPU temperature (°C),52006,0,0.0,False,37.5,74.275,False,False
+KWF1,"Nacelle temperature, Max (°C)",52006,43,0.08268276737299543,False,0.300000011920929,42.5999984741211,False,False
+KWF1,"Nacelle temperature, Min (°C)",52006,43,0.08268276737299543,False,0.100000001490116,41.9000015258789,False,False
+KWF1,"Generator bearing front temperature, Max (°C)",52006,0,0.0,False,5.30000019073486,64.5,False,False
+KWF1,"Generator bearing front temperature, Min (°C)",52006,0,0.0,False,5.30000019073486,64.0,False,False
+KWF1,"Generator bearing rear temperature, Max (°C)",52006,0,0.0,False,2.40000009536743,75.4000015258789,False,False
+KWF1,"Generator bearing rear temperature, Min (°C)",52006,0,0.0,False,2.40000009536743,75.3000030517578,False,False
+KWF1,"Generator bearing front temperature, Std (°C)",52006,0,0.0,False,0.0,2.523731148939369,False,False
+KWF1,"Generator bearing rear temperature, Std (°C)",52006,0,0.0,False,0.0,3.723254704825116,False,False
+KWF1,"Nacelle temperature, Standard deviation (°C)",52006,43,0.08268276737299543,False,0.0,3.2492266915168138,False,False
+KWF1,"Gear oil temperature, Max (°C)",52006,0,0.0,False,10.3000001907349,65.3000030517578,False,False
+KWF1,"Gear oil temperature, Min (°C)",52006,0,0.0,False,9.89999961853027,64.4000015258789,False,False
+KWF1,"Gear oil temperature, Standard deviation (°C)",52006,0,0.0,False,0.0,3.673562406054166,False,False
+KWF1,"Hub temperature, min (°C)",52006,0,0.0,False,5.0,40.0,False,False
+KWF1,"Hub temperature, max (°C)",52006,0,0.0,False,6.0,41.0,False,False
+KWF1,"Hub temperature, standard deviation (°C)",52006,0,0.0,False,0.0,1.469693845669907,False,False
+KWF1,"Ambient temperature (converter), Max (°C)",52006,2,0.00384571011037188,False,-1.70000004768372,44.5,False,False
+KWF1,"Ambient temperature (converter), Min (°C)",52006,3,0.00576856516555782,False,-2.0,43.9499969482422,False,False
+KWF1,"Ambient temperature (converter), StdDev (°C)",52006,1,0.00192285505518594,False,0.0,0.6277141495908514,False,False
+KWF1,"Gear oil inlet temperature, Max (°C)",52006,0,0.0,False,6.59999990463257,59.9500007629395,False,False
+KWF1,"Gear oil inlet temperature, Min (°C)",52006,0,0.0,False,3.09999990463257,58.9000015258789,False,False
+KWF1,"Gear oil inlet temperature, StdDev (°C)",52006,0,0.0,False,0.0,16.820289123840688,False,False
+KWF1,"Nacelle ambient temperature, Max (°C)",52006,43,0.08268276737299543,False,-4.09999990463257,39.5,False,False
+KWF1,"Nacelle ambient temperature, Min (°C)",52006,43,0.08268276737299543,False,-4.19999980926514,38.9000015258789,False,False
+KWF1,"Nacelle ambient temperature, StdDev (°C)",52006,43,0.08268276737299543,False,0.0,1.5887180862403794,False,False
+KWF1,"Rotor bearing temp, Max (°C)",52006,0,0.0,False,0.899999976158142,48.7000007629395,False,False
+KWF1,"Rotor bearing temp, Min (°C)",52006,0,0.0,False,0.899999976158142,48.5999984741211,False,False
+KWF1,"Rotor bearing temp, StdDev (°C)",52006,0,0.0,False,0.0,0.4932735881629854,False,False
+KWF1,"CPU temperature, Max (°C)",52006,0,0.0,False,38.0,75.0,False,False
+KWF1,"CPU temperature, Min (°C)",52006,0,0.0,False,37.0,74.0,False,False
+KWF1,"CPU temperature, StdDev (°C)",52006,0,0.0,False,0.0,1.6315253599009734,False,False
+KWF1,"Transformer cell temperature, Max (°C)",52006,43,0.08268276737299543,False,-273.200012207031,45.9000015258789,False,False
+KWF1,"Transformer cell temperature, Min (°C)",52006,43,0.08268276737299543,False,-273.200012207031,45.3000030517578,False,False
+KWF1,"Transformer cell temperature, StdDev (°C)",52006,43,0.08268276737299543,False,0.0,145.749858058824,False,False
+KWF1,"Transformer temperature, Max (°C)",52006,43,0.08268276737299543,False,-273.200012207031,110.900001525879,False,False
+KWF1,"Transformer temperature, Min (°C)",52006,43,0.08268276737299543,False,-273.200012207031,110.349998474121,False,False
+KWF1,"Transformer temperature, StdDev (°C)",52006,43,0.08268276737299543,False,0.0,155.57988825375602,False,False
+KWF1,"Stator temperature 1, Max (°C)",52006,0,0.0,False,6.40000009536743,98.5999984741211,False,False
+KWF1,"Stator temperature 1, Min (°C)",52006,0,0.0,False,6.40000009536743,98.3499984741211,False,False
+KWF1,"Stator temperature 1, StdDev (°C)",52006,0,0.0,False,0.0,3.2460847081764777,False,False
+KWF1,"Temp. top box, Max (°C)",52006,0,0.0,False,9.60000038146973,46.2000007629395,False,False
+KWF1,"Temp. top box, Min (°C)",52006,0,0.0,False,9.0,46.2000007629395,False,False
+KWF1,"Temp. top box, StdDev (°C)",52006,0,0.0,False,0.0,2.119347489977007,False,False
+KWF1,"Temperature motor axis 1, Max (°C)",52006,0,0.0,False,8.0,83.0,False,False
+KWF1,"Temperature motor axis 1, Min (°C)",52006,0,0.0,False,8.0,81.0,False,False
+KWF1,"Temperature motor axis 1, StdDev (°C)",52006,0,0.0,False,0.0,10.638050065773504,False,False
+KWF1,"Temperature motor axis 2, Max (°C)",52006,0,0.0,False,9.0,85.0,False,False
+KWF1,"Temperature motor axis 2, Min (°C)",52006,0,0.0,False,9.0,82.0,False,False
+KWF1,"Temperature motor axis 2, StdDev (°C)",52006,0,0.0,False,0.0,11.497821142692326,False,False
+KWF1,"Temperature motor axis 3, Max (°C)",52006,0,0.0,False,8.0,81.0,False,False
+KWF1,"Temperature motor axis 3, Min (°C)",52006,0,0.0,False,8.0,77.0,False,False
+KWF1,"Temperature motor axis 3, StdDev (°C)",52006,0,0.0,False,0.0,11.218458838427422,False,False
+KWF1,Voltage L1 / U (V),52006,43,0.08268276737299543,False,0.0,414.2285476684571,False,False
+KWF1,Voltage L2 / V (V),52006,43,0.08268276737299543,False,0.0,414.4553985595703,False,False
+KWF1,Voltage L3 / W (V),52006,43,0.08268276737299543,False,0.0,414.2032485961916,False,False
+KWF1,Grid voltage (V),52006,0,0.0,False,0.0,711.289978027344,False,False
+KWF1,"Grid voltage, Max (V)",52006,0,0.0,False,0.0,718.47998046875,False,False
+KWF1,"Grid voltage, Min (V)",52006,0,0.0,False,0.0,710.760009765625,False,False
+KWF1,"Grid voltage, Standard deviation (V)",52006,0,0.0,False,0.0,199.84985073569527,False,False
+KWF1,"Voltage L1 / U, Min (V)",52006,43,0.08268276737299543,False,0.0,413.436004638672,False,False
+KWF1,"Voltage L1 / U, Max (V)",52006,43,0.08268276737299543,False,0.0,416.705017089844,False,False
+KWF1,"Voltage L1 / U, Standard deviation (V)",52006,43,0.08268276737299543,False,0.0,199.64978315146868,False,False
+KWF1,"Voltage L2 / V, Min (V)",52006,43,0.08268276737299543,False,0.0,413.501007080078,False,False
+KWF1,"Voltage L2 / V, Max (V)",52006,43,0.08268276737299543,False,0.0,418.467010498047,False,False
+KWF1,"Voltage L2 / V, Standard deviation (V)",52006,43,0.08268276737299543,False,0.0,200.03090281436064,False,False
+KWF1,"Voltage L3 / W, Min (V)",52006,43,0.08268276737299543,False,0.0,413.335998535156,False,False
+KWF1,"Voltage L3 / W, Max (V)",52006,43,0.08268276737299543,False,0.0,417.066009521484,False,False
+KWF1,"Voltage L3 / W, Standard deviation (V)",52006,43,0.08268276737299543,False,0.0,199.87400842438333,False,False
+KWF1,Current L1 / U (A),52006,43,0.08268276737299543,False,0.0,1815.4470031738283,False,False
+KWF1,Current L2 / V (A),52006,43,0.08268276737299543,False,0.0,1824.646740722657,False,False
+KWF1,Current L3 / W (A),52006,43,0.08268276737299543,False,0.0,1811.4717529296895,False,False
+KWF1,Grid current (A),52006,0,0.0,False,0.0,1814.8245910644544,False,False
+KWF1,Motor current axis 1 (A),52006,0,0.0,False,-1.1920928955078105e-07,7.177696001529694,False,False
+KWF1,Motor current axis 2 (A),52006,0,0.0,False,0.505392038822174,7.760048925876616,False,False
+KWF1,Motor current axis 3 (A),52006,0,0.0,False,-0.4901961982250212,6.73013406050833,False,False
+KWF1,"Current L1 / U, min (A)",52006,43,0.08268276737299543,False,0.0,1780.88500976563,False,False
+KWF1,"Current L1 / U, max (A)",52006,43,0.08268276737299543,False,0.0,1969.82495117188,False,False
+KWF1,"Current L1 / U, StdDev (A)",52006,43,0.08268276737299543,False,0.0,872.260124496076,False,False
+KWF1,"Current L2 / V, max (A)",52006,43,0.08268276737299543,False,0.0,1970.47998046875,False,False
+KWF1,"Current L3 / W, max (A)",52006,43,0.08268276737299543,False,0.0,1966.81005859375,False,False
+KWF1,"Current L2 / V, min (A)",52006,43,0.08268276737299543,False,0.0,1788.18005371094,False,False
+KWF1,"Current L2 / V, StdDev (A)",52006,43,0.08268276737299543,False,0.0,879.11382349792,False,False
+KWF1,"Current L3 / W, min (A)",52006,43,0.08268276737299543,False,0.0,1778.11499023438,False,False
+KWF1,"Current L3 / W, StdDev (A)",52006,43,0.08268276737299543,False,0.0,870.1340025297094,False,False
+KWF1,"Grid current, Max (A)",52006,0,0.0,False,0.0,1954.431640625,False,False
+KWF1,"Grid current, Min (A)",52006,0,0.0,False,0.0,1781.34997558594,False,False
+KWF1,"Grid current, StdDev (A)",52006,0,0.0,False,0.0,871.1371009405021,False,False
+KWF1,"Motor current axis 1, Max (A)",52006,0,0.0,False,-1.19209289550781e-07,20.5588226318359,False,False
+KWF1,"Motor current axis 1, Min (A)",52006,0,0.0,False,-1.19209289550781e-07,3.78921556472778,False,False
+KWF1,"Motor current axis 1, StdDev (A)",52006,0,0.0,False,0.0,4.69720647021973,False,False
+KWF1,"Motor current axis 2, Max (A)",52006,0,0.0,False,0.578431248664856,23.5245094299316,False,False
+KWF1,"Motor current axis 2, Min (A)",52006,0,0.0,False,-0.147058948874474,4.24509811401367,False,False
+KWF1,"Motor current axis 2, StdDev (A)",52006,0,0.0,False,0.0,5.821772485128698,False,False
+KWF1,"Motor current axis 3, Max (A)",52006,0,0.0,False,-0.490196198225021,21.0980396270752,False,False
+KWF1,"Motor current axis 3, Min (A)",52006,0,0.0,False,-0.490196198225021,3.59803915023804,False,False
+KWF1,"Motor current axis 3, StdDev (A)",52006,0,0.0,False,0.0,6.420016962019771,False,False
+KWF1,Rotor speed (RPM),52006,0,0.0,False,0.0,15.326269268989568,False,False
+KWF1,Generator RPM (RPM),52006,0,0.0,False,-571.6251754760741,1817.8982677459724,False,False
+KWF1,Gearbox speed (RPM),52006,0,0.0,False,0.0,1824.49313735962,False,False
+KWF1,"Generator RPM, Max (RPM)",52006,0,0.0,False,-571.625175476074,1944.57664489746,False,False
+KWF1,"Generator RPM, Min (RPM)",52006,0,0.0,False,-580.885734558105,1794.80770111084,False,False
+KWF1,"Generator RPM, Standard deviation (RPM)",52006,0,0.0,False,0.0,874.967915900862,False,False
+KWF1,"Rotor speed, Max (RPM)",52006,0,0.0,False,0.0,16.2775522470474,False,False
+KWF1,"Rotor speed, Min (RPM)",52006,0,0.0,False,0.0,15.104643702507,False,False
+KWF1,"Rotor speed, Standard deviation (RPM)",52006,0,0.0,False,0.0,7.389399412689007,False,False
+KWF1,"Gearbox speed, Max (RPM)",52006,0,0.0,False,0.0,1949.62783813477,False,False
+KWF1,"Gearbox speed, Min (RPM)",52006,0,0.0,False,0.0,1798.05702209473,False,False
+KWF1,"Gearbox speed, StdDev (RPM)",52006,0,0.0,False,0.0,878.2836672982345,False,False
+KWF1,Capacity factor,52006,6,0.01153713033111564,False,0.0,1.205853658536585,False,False
+KWF1,Data Availability,52006,0,0.0,True,1.0,1.0,False,True
+KWF1,Time-based Contractual Avail.,52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Time-based IEC B.2.2 (Users View),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Time-based IEC B.2.3 (Users View),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Time-based IEC B.2.4 (Users View),52006,22,0.04230281121409068,False,0.0,1.0,False,False
+KWF1,Time-based IEC B.3.2 (Manufacturers View),52006,329,0.6326193131561743,False,0.0,1.0,False,False
+KWF1,Production-based IEC B.2.2 (Users View),52006,295,0.5672422412798523,False,0.0,1.0,False,False
+KWF1,Production-based IEC B.2.3 (Users View),52006,7372,14.175287466830751,False,0.0,1.0,False,False
+KWF1,Production-based IEC B.3.2 (Manufacturers View),52006,335,0.64415644348729,False,0.0011416407809662,1.0,False,False
+KWF1,Time-based System Avail.,52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Production-based System Avail.,52006,6,0.01153713033111564,False,0.0,1.0,False,False
+KWF1,Production-based Contractual Avail.,52006,6,0.01153713033111564,False,0.004748676078227,1.0,False,False
+KWF1,Time-based System Avail. (Planned),52006,0,0.0,True,1.0,1.0,False,True
+KWF1,Production-based System Avail. (virtual),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Time-based Contractual Avail. (Global),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Time-based Contractual Avail. (Custom),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Production-based Contractual Avail. (Global),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Production-based Contractual Avail. (Custom),52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Reactive Energy Export (kvarh),52006,969,1.863246548475176,False,0.0,1.0,False,False
+KWF1,Reactive Energy Export counter (kvarh),52006,50019,96.17928700534554,False,136160.0,138176.0,False,False
+KWF1,Reactive Energy Import (kvarh),52006,4,0.00769142022074376,False,0.0,121.0,False,False
+KWF1,Reactive Energy Import counter (kvarh),52006,7041,13.538822443564204,False,9990168.0,11559932.0,False,False
+KWF1,Blade angle (pitch position) A (°),52006,43,0.08268276737299543,False,-172.87949943542475,92.52999877929692,False,False
+KWF1,Blade angle (pitch position) B (°),52006,43,0.08268276737299543,False,-159.14649748802216,92.69000244140628,False,False
+KWF1,Blade angle (pitch position) C (°),52006,43,0.08268276737299543,False,-186.89299926757823,93.0500030517578,False,False
+KWF1,Yaw bearing angle (°),52006,43,0.08268276737299543,False,0.0262091426634469,359.97752151397674,False,False
+KWF1,"Blade angle (pitch position) A, Max (°)",52006,43,0.08268276737299543,False,-89.3600006103516,92.5699996948242,False,False
+KWF1,"Blade angle (pitch position) A, Min (°)",52006,43,0.08268276737299543,False,-242.979995727539,92.5299987792969,False,False
+KWF1,"Blade angle (pitch position) A, Standard deviation (°)",52006,43,0.08268276737299543,False,0.0,91.79725469224404,False,False
+KWF1,"Blade angle (pitch position) B, Max (°)",52006,43,0.08268276737299543,False,-110.98999786377,92.6900024414063,False,False
+KWF1,"Blade angle (pitch position) B, Min (°)",52006,43,0.08268276737299543,False,-226.619995117188,92.6900024414063,False,False
+KWF1,"Blade angle (pitch position) B, Standard deviation (°)",52006,43,0.08268276737299543,False,0.0,118.98193481883604,False,False
+KWF1,"Blade angle (pitch position) C, Max (°)",52006,43,0.08268276737299543,False,-152.389999389648,93.0599975585938,False,False
+KWF1,"Blade angle (pitch position) C, Min (°)",52006,43,0.08268276737299543,False,-214.869995117188,93.0500030517578,False,False
+KWF1,"Blade angle (pitch position) C, Standard deviation (°)",52006,43,0.08268276737299543,False,0.0,72.96697353503772,False,False
+KWF1,"Yaw bearing angle, Max (°)",52006,43,0.08268276737299543,False,0.5606689453125,359.91415405273386,False,False
+KWF1,"Yaw bearing angle, Min (°)",52006,43,0.08268276737299543,False,0.0458521097898483,359.464141845703,False,False
+KWF1,"Yaw bearing angle, StdDev (°)",52006,43,0.08268276737299543,False,0.0,92.66433839644571,False,False
+KWF1,Gear oil inlet pressure (bar),52006,0,0.0,False,-2.076447325944901,412.2110321044922,False,False
+KWF1,Gear oil pump pressure (bar),52006,0,0.0,False,2.27328946441412,1179.3820190429706,False,False
+KWF1,"Gear oil inlet pressure, Max (bar)",52006,0,0.0,False,-1.34584534168243,482.957214355469,False,False
+KWF1,"Gear oil inlet pressure, Min (bar)",52006,0,0.0,False,-4.05889987945557,382.574188232422,False,False
+KWF1,"Gear oil inlet pressure, StdDev (bar)",52006,0,0.0,False,0.0122072175145149,214.9294485347014,False,False
+KWF1,"Gear oil pump pressure, Max (bar)",52006,0,0.0,False,3.57999992370605,1342.22937011719,False,False
+KWF1,"Gear oil pump pressure, Min (bar)",52006,0,0.0,False,-0.299076467752457,1139.89770507813,False,False
+KWF1,"Gear oil pump pressure, StdDev (bar)",52006,0,0.0,False,0.013648089087705,585.6534183353089,False,False
+KWF1,Grid frequency (Hz),52006,0,0.0,False,0.0,50.1963596343994,False,False
+KWF1,"Grid frequency, Max (Hz)",52006,0,0.0,False,0.0,50.3358001708984,False,False
+KWF1,"Grid frequency, Min (Hz)",52006,0,0.0,False,0.0,50.1222991943359,False,False
+KWF1,"Grid frequency, Standard deviation (Hz)",52006,0,0.0,False,0.0,24.9022182347956,False,False
+KWF1,Equivalent Full Load Hours (s),52006,6,0.01153713033111564,False,0.0,723.512195121951,False,False
+KWF1,Equivalent Full Load Hours counter (s),52006,52006,100.0,True,,,True,False
+KWF1,Production Factor,52006,0,0.0,False,0.0,4.98156216599144,False,False
+KWF1,Performance Index,52006,1681,3.2323193477675654,False,0.0,4.98156216599144,False,False
+KWF1,Investment Performance Ratio,52006,0,0.0,False,-0.0348931244311417,7.467256965894285,False,False
+KWF1,Operating Performance Ratio,52006,7473,14.36949582740453,False,-0.2131963764614479,5.111070094084051,False,False
+KWF1,Apparent power (kVA),52006,0,0.0,False,0.0,2163.055078125002,False,False
+KWF1,"Apparent power, Max (kVA)",52006,0,0.0,False,0.0,2296.7392578125,False,False
+KWF1,"Apparent power, Min (kVA)",52006,0,0.0,False,0.0,2124.41259765625,False,False
+KWF1,"Apparent power, StdDev (kVA)",52006,0,0.0,False,0.0,1063.9209130345414,False,False
+KWF1,Cable windings from calibration point,52006,43,0.08268276737299543,False,-1.6189005374908405,1.7256052494049103,False,False
+KWF1,Metal particle count,52006,0,0.0,False,0.0,1.0,False,False
+KWF1,Metal particle count counter,52006,43,0.08268276737299543,False,718.0,727.0,False,False
+KWF1,"Cable windings from calibration point, Max",52006,43,0.08268276737299543,False,-1.61890053749084,1.72560524940491,False,False
+KWF1,"Cable windings from calibration point, Min",52006,43,0.08268276737299543,False,-1.64329016208649,1.72560524940491,False,False
+KWF1,"Cable windings from calibration point, StdDev",52006,43,0.08268276737299543,False,0.0,0.2577835735434901,False,False
+KWF1,Drive train acceleration (mm/ss),52006,15,0.0288428258277891,False,0.46000000834465,37.1304702758789,False,False
+KWF1,Tower Acceleration X (mm/ss),52006,43,0.08268276737299543,False,3.4073068499565125,234.56832466125493,False,False
+KWF1,Tower Acceleration y (mm/ss),52006,43,0.08268276737299543,False,3.352070766687394,224.92425308227536,False,False
+KWF1,"Tower Acceleration X, Min (mm/ss)",52006,43,0.08268276737299543,False,1.26851224899292,125.584838867188,False,False
+KWF1,"Tower Acceleration X, Max (mm/ss)",52006,43,0.08268276737299543,False,5.734543800354,607.124755859375,False,False
+KWF1,"Tower Acceleration Y, Min (mm/ss)",52006,43,0.08268276737299543,False,0.786417663097382,86.1304016113281,False,False
+KWF1,"Tower Acceleration Y, Max (mm/ss)",52006,43,0.08268276737299543,False,5.3747239112854,665.9931640625,False,False
+KWF1,"Drive train acceleration, Max (mm/ss)",52006,15,0.0288428258277891,False,0.889999985694885,37.1304702758789,False,False
+KWF1,"Drive train acceleration, Min (mm/ss)",52006,15,0.0288428258277891,False,0.200000002980232,37.1304702758789,False,False
+KWF1,"Drive train acceleration, StdDev (mm/ss)",52006,15,0.0288428258277891,False,0.0,0.4084811210632502,False,False
+KWF1,"Tower Acceleration X, StdDev (mm/ss)",52006,43,0.08268276737299543,False,0.1307926177978515,137.15301828406533,False,False
+KWF1,"Tower Acceleration Y, StdDev (mm/ss)",52006,43,0.08268276737299543,False,0.4382072632022577,175.29317074996666,False,False
+KWF2,Wind speed (m/s),52488,0,0.0,False,0.0,22.7014687538147,False,False
+KWF2,"Wind speed, Standard deviation (m/s)",52488,0,0.0,False,0.0,8.655924790768646,False,False
+KWF2,"Wind speed, Minimum (m/s)",52488,0,0.0,False,-15.0,17.7725429534912,False,False
+KWF2,"Wind speed, Maximum (m/s)",52488,0,0.0,False,0.0,29.8837490081787,False,False
+KWF2,Long Term Wind (m/s),52488,0,0.0,False,5.26,7.21,False,False
+KWF2,Wind speed Sensor 1 (m/s),52488,260,0.49535131839658586,False,0.0,22.83488874435425,False,False
+KWF2,"Wind speed Sensor 1, Standard deviation (m/s)",52488,260,0.49535131839658586,False,0.0,6.474851091489536,False,False
+KWF2,"Wind speed Sensor 1, Minimum (m/s)",52488,1185,2.2576588934613624,False,-11.4399995803833,16.506763458252,False,False
+KWF2,"Wind speed Sensor 1, Maximum (m/s)",52488,260,0.49535131839658586,False,0.0,31.8872737884521,False,False
+KWF2,Wind speed Sensor 2 (m/s),52488,0,0.0,False,-15.0,22.023562622070315,False,False
+KWF2,"Wind speed Sensor 2, Standard deviation (m/s)",52488,0,0.0,False,0.0,11.6576565940801,False,False
+KWF2,"Wind speed Sensor 2, Minimum (m/s)",52488,0,0.0,False,-15.0,16.2569999694824,False,False
+KWF2,"Wind speed Sensor 2, Maximum (m/s)",52488,0,0.0,False,-15.0,31.8547496795654,False,False
+KWF2,Density adjusted wind speed (m/s),52488,43,0.08192348727328151,False,0.0,22.648382503049387,False,False
+KWF2,Wind direction (°),52488,0,0.0,False,0.0050645197303538,359.9991586370186,False,False
+KWF2,Nacelle position (°),52488,0,0.0,False,0.017307274188056,359.96288092765315,False,False
+KWF2,"Wind direction, Standard deviation (°)",52488,0,0.0,False,0.0,104.0842663683668,False,False
+KWF2,"Wind direction, Minimum (°)",52488,0,0.0,False,0.000579833984375,350.302795410156,False,False
+KWF2,"Wind direction, Maximum (°)",52488,0,0.0,False,9.897056579589844,359.998718261719,False,False
+KWF2,"Nacelle position, Standard deviation (°)",52488,0,0.0,False,0.0,94.201421612589,False,False
+KWF2,"Nacelle position, Minimum (°)",52488,0,0.0,False,0.0539909265935421,359.14306640625,False,False
+KWF2,"Nacelle position, Maximum (°)",52488,0,0.0,False,0.2391917705535888,359.998931884766,False,False
+KWF2,Vane position 1+2 (°),52488,43,0.08192348727328151,False,-172.78942960851344,177.8506988525391,False,False
+KWF2,"Vane position 1+2, Max (°)",52488,43,0.08192348727328151,False,-170.126586914063,179.997802734375,False,False
+KWF2,"Vane position 1+2, Min (°)",52488,43,0.08192348727328151,False,-179.990539550781,175.957656860352,False,False
+KWF2,"Vane position 1+2, StdDev (°)",52488,43,0.08192348727328151,False,0.0,172.16656355924397,False,False
+KWF2,Energy Export (kWh),52488,3,0.005715592135345221,False,0.0,412.0,False,False
+KWF2,Energy Export counter (kWh),52488,7044,13.42021033379058,False,35248514.0,40900055.0,False,False
+KWF2,Energy Import (kWh),52488,104,0.19814052735863436,False,0.0,3.0,False,False
+KWF2,Energy Import counter (kWh),52488,50202,95.64471879286694,False,10287.0,12694.0,False,False
+KWF2,Lost Production (Contractual) (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Time-based IEC B.2.2) (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Time-based IEC B.2.3) (kWh),52488,322,0.6134735558603871,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Time-based IEC B.2.4) (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Time-based IEC B.3.2) (kWh),52488,1204,2.2938576436518825,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Production-based IEC B.2.2) (kWh),52488,322,0.6134735558603871,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Production-based IEC B.2.3) (kWh),52488,6038,11.503581771071483,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Production-based IEC B.3.2) (kWh),52488,1204,2.2938576436518825,False,0.0,341.2283333333333,False,False
+KWF2,Energy Budget - Default (kWh),52488,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF2,Energy Theoretical (kWh),52488,0,0.0,False,0.0,342.7928014609393,False,False
+KWF2,Lost Production to Downtime (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production to Performance (kWh),52488,0,0.0,False,-94.4703170099179,146.12845119182256,False,False
+KWF2,Lost Production Total (kWh),52488,0,0.0,False,-94.4703170099179,341.2283333333333,False,False
+KWF2,Lost Production to Curtailment (Total) (kWh),52488,0,0.0,False,0.0,71.00255121501283,False,False
+KWF2,Lost Production to Curtailment (Grid) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Noise) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Shadow) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Bats) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Birds) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Ice) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Sector Management) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Technical) (kWh),52488,0,0.0,False,0.0,71.00255121501283,False,False
+KWF2,Lost Production to Curtailment (Marketing) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Curtailment (Boat Action) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Compensated Lost Production (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Virtual Production (kWh),52488,0,0.0,False,0.0,412.0,False,False
+KWF2,Lost Production to Curtailment (Grid Constraint) (kWh),52488,0,0.0,True,0.0,0.0,False,True
+KWF2,Lost Production to Downtime and Curtailment Total (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Contractual Global) (kWh),52488,0,0.0,False,0.0,341.2283333333333,False,False
+KWF2,Lost Production (Contractual Custom) (kWh),52488,0,0.0,False,0.0,341.66666666666663,False,False
+KWF2,Power (kW),52488,0,0.0,False,-17.639271616935723,2079.629992675782,False,False
+KWF2,Potential power default PC (kW),52488,0,0.0,False,0.0,2050.0,False,False
+KWF2,"Power, Standard deviation (kW)",52488,0,0.0,False,0.0,1042.1084682596463,False,False
+KWF2,"Power, Minimum (kW)",52488,0,0.0,False,-63.1805686950684,2051.28662109375,False,False
+KWF2,"Power, Maximum (kW)",52488,0,0.0,False,-10.7767000198364,2254.80834960938,False,False
+KWF2,Potential power learned PC (kW),52488,0,0.0,False,0.0,2056.756808765636,False,False
+KWF2,Potential power reference turbines (kW),52488,243,0.46296296296296297,False,0.0,2061.233034667971,False,False
+KWF2,Cascading potential power (kW),52488,0,0.0,False,0.0,2056.756808765636,False,False
+KWF2,Cascading potential power for performance (kW),52488,0,0.0,False,0.0,2056.756808765636,False,False
+KWF2,Potential power met mast anemometer (kW),52488,52488,100.0,True,,,True,False
+KWF2,Potential power primary reference turbines (kW),52488,821,1.5641670477061425,False,0.0,2060.9776232910176,False,False
+KWF2,Potential power secondary reference turbines (kW),52488,600,1.1431184270690444,False,0.0,2065.2548767089866,False,False
+KWF2,Turbine Power setpoint (kW),52488,43,0.08192348727328151,False,412.0,2060.0,False,False
+KWF2,Potential power estimated (kW),52488,52488,100.0,True,,,True,False
+KWF2,Potential power MPC (kW),52488,0,0.0,False,0.0,2050.0,False,False
+KWF2,Potential power met mast anemometer MPC (kW),52488,52488,100.0,True,,,True,False
+KWF2,Potential Power Energy Budget (kW),52488,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF2,"Turbine Power setpoint, Max (kW)",52488,43,0.08192348727328151,False,412.0,2060.0,False,False
+KWF2,"Turbine Power setpoint, Min (kW)",52488,43,0.08192348727328151,False,205.0,2060.0,False,False
+KWF2,"Turbine Power setpoint, StdDev (kW)",52488,43,0.08192348727328151,False,0.0,831.4802342691526,False,False
+KWF2,Available Capacity for Production (kW),52488,0,0.0,False,0.0,2050.0,False,False
+KWF2,Available Capacity for Production (Planned) (kW),52488,0,0.0,True,2050.0,2050.0,False,True
+KWF2,Manufacturer Potential Power (SCADA) (kW),52488,52488,100.0,True,,,True,False
+KWF2,Power factor (cosphi),52488,0,0.0,False,-0.9999927282333374,1.0,False,False
+KWF2,"Power factor (cosphi), Max",52488,0,0.0,False,-1.0,1.0,False,False
+KWF2,"Power factor (cosphi), Min",52488,0,0.0,False,-1.0,1.0,False,False
+KWF2,"Power factor (cosphi), Standard deviation",52488,0,0.0,False,0.0,0.9999993830921332,False,False
+KWF2,Reactive power (kvar),52488,0,0.0,False,-660.7487670898438,3.886225938171151,False,False
+KWF2,"Reactive power, Max (kvar)",52488,0,0.0,False,-621.630126953125,246.759994506836,False,False
+KWF2,"Reactive power, Min (kvar)",52488,0,0.0,False,-842.288696289063,0.0,False,False
+KWF2,"Reactive power, Standard deviation (kvar)",52488,0,0.0,False,0.0,313.9040075441796,False,False
+KWF2,Front bearing temperature (°C),52488,43,0.08192348727328151,False,7.800000190734861,80.57000045776367,False,False
+KWF2,Rear bearing temperature (°C),52488,43,0.08192348727328151,False,8.157500028610231,81.05500068664551,False,False
+KWF2,Stator temperature 1 (°C),52488,0,0.0,False,6.3000001907348615,100.99500045776368,False,False
+KWF2,Nacelle ambient temperature (°C),52488,43,0.08192348727328151,False,-4.400000095367431,38.88249931335447,False,False
+KWF2,Nacelle temperature (°C),52488,43,0.08192348727328151,False,-0.600000023841858,41.19411827536194,False,False
+KWF2,Transformer temperature (°C),52488,43,0.08192348727328151,False,20.755000114440914,114.50750007629397,False,False
+KWF2,Gear oil inlet temperature (°C),52488,0,0.0,False,3.655000007152558,59.23000030517581,False,False
+KWF2,Generator bearing rear temperature (°C),52488,0,0.0,False,2.0815788695686748,324.100006103516,False,False
+KWF2,Generator bearing front temperature (°C),52488,0,0.0,False,5.400000095367431,63.582500267028806,False,False
+KWF2,Gear oil temperature (°C),52488,0,0.0,False,8.600000381469728,65.00250053405762,False,False
+KWF2,Temp. top box (°C),52488,0,0.0,False,9.585000371932985,45.0549991607666,False,False
+KWF2,Hub temperature (°C),52488,0,0.0,False,0.0,39.51499996185303,False,False
+KWF2,Ambient temperature (converter) (°C),52488,0,0.0,False,-2.1425000071525586,44.60750007629394,False,False
+KWF2,Rotor bearing temp (°C),52488,0,0.0,False,0.300000011920929,45.85499954223632,False,False
+KWF2,Transformer cell temperature (°C),52488,43,0.08192348727328151,False,1.2999999999999994,46.794999885559086,False,False
+KWF2,"Front bearing temperature, Max (°C)",52488,43,0.08192348727328151,False,7.80000019073486,80.9000015258789,False,False
+KWF2,"Front bearing temperature, Min (°C)",52488,43,0.08192348727328151,False,7.80000019073486,80.1499938964844,False,False
+KWF2,"Front bearing temperature, Standard deviation (°C)",52488,43,0.08192348727328151,False,0.0,9.691653359161029,False,False
+KWF2,"Rear bearing temperature, Max (°C)",52488,43,0.08192348727328151,False,8.19999980926514,81.9000015258789,False,False
+KWF2,"Rear bearing temperature, Min (°C)",52488,43,0.08192348727328151,False,8.10000038146973,80.1999969482422,False,False
+KWF2,"Rear bearing temperature, Standard deviation (°C)",52488,43,0.08192348727328151,False,0.0,10.42510280538321,False,False
+KWF2,Temperature motor axis 1 (°C),52488,0,0.0,False,0.0,81.45,False,False
+KWF2,Temperature motor axis 2 (°C),52488,0,0.0,False,0.0,84.44249992370605,False,False
+KWF2,Temperature motor axis 3 (°C),52488,0,0.0,False,0.0,83.72400016784668,False,False
+KWF2,CPU temperature (°C),52488,0,0.0,False,31.3125,71.025,False,False
+KWF2,"Nacelle temperature, Max (°C)",52488,43,0.08192348727328151,False,-0.600000023841858,41.2000007629395,False,False
+KWF2,"Nacelle temperature, Min (°C)",52488,43,0.08192348727328151,False,-0.600000023841858,41.0999984741211,False,False
+KWF2,"Generator bearing front temperature, Max (°C)",52488,0,0.0,False,5.40000009536743,63.9000015258789,False,False
+KWF2,"Generator bearing front temperature, Min (°C)",52488,0,0.0,False,5.40000009536743,63.2000007629395,False,False
+KWF2,"Generator bearing rear temperature, Max (°C)",52488,0,0.0,False,2.09999990463257,324.100006103516,False,False
+KWF2,"Generator bearing rear temperature, Min (°C)",52488,0,0.0,False,2.0,324.100006103516,False,False
+KWF2,"Generator bearing front temperature, Std (°C)",52488,0,0.0,False,0.0,1.6130931716617236,False,False
+KWF2,"Generator bearing rear temperature, Std (°C)",52488,0,0.0,False,0.0,150.48391175276532,False,False
+KWF2,"Nacelle temperature, Standard deviation (°C)",52488,43,0.08192348727328151,False,0.0,3.788073402913148,False,False
+KWF2,"Gear oil temperature, Max (°C)",52488,0,0.0,False,8.60000038146973,65.3000030517578,False,False
+KWF2,"Gear oil temperature, Min (°C)",52488,0,0.0,False,8.60000038146973,64.6499938964844,False,False
+KWF2,"Gear oil temperature, Standard deviation (°C)",52488,0,0.0,False,0.0,3.503529961515884,False,False
+KWF2,"Hub temperature, min (°C)",52488,0,0.0,False,-40.0,39.0,False,False
+KWF2,"Hub temperature, max (°C)",52488,0,0.0,False,0.0,40.0,False,False
+KWF2,"Hub temperature, standard deviation (°C)",52488,0,0.0,False,0.0,12.52956503634504,False,False
+KWF2,"Ambient temperature (converter), Max (°C)",52488,0,0.0,False,-1.89999997615814,45.2999992370605,False,False
+KWF2,"Ambient temperature (converter), Min (°C)",52488,0,0.0,False,-2.45000004768372,44.0999984741211,False,False
+KWF2,"Ambient temperature (converter), StdDev (°C)",52488,0,0.0,False,0.0216503047321169,4.6631238243562825,False,False
+KWF2,"Gear oil inlet temperature, Max (°C)",52488,0,0.0,False,4.90000009536743,60.5,False,False
+KWF2,"Gear oil inlet temperature, Min (°C)",52488,0,0.0,False,2.79999995231628,59.0,False,False
+KWF2,"Gear oil inlet temperature, StdDev (°C)",52488,0,0.0,False,0.0,14.490163843243517,False,False
+KWF2,"Nacelle ambient temperature, Max (°C)",52488,43,0.08192348727328151,False,-4.40000009536743,39.2999992370605,False,False
+KWF2,"Nacelle ambient temperature, Min (°C)",52488,43,0.08192348727328151,False,-4.40000009536743,38.6999969482422,False,False
+KWF2,"Nacelle ambient temperature, StdDev (°C)",52488,43,0.08192348727328151,False,0.0,1.4343029361149997,False,False
+KWF2,"Rotor bearing temp, Max (°C)",52488,0,0.0,False,0.300000011920929,45.9000015258789,False,False
+KWF2,"Rotor bearing temp, Min (°C)",52488,0,0.0,False,0.300000011920929,45.7999992370605,False,False
+KWF2,"Rotor bearing temp, StdDev (°C)",52488,0,0.0,False,0.0,0.3327912559355865,False,False
+KWF2,"CPU temperature, Max (°C)",52488,0,0.0,False,34.0,71.5,False,False
+KWF2,"CPU temperature, Min (°C)",52488,0,0.0,False,28.0,71.0,False,False
+KWF2,"CPU temperature, StdDev (°C)",52488,0,0.0,False,0.0,2.0530084632071053,False,False
+KWF2,"Transformer cell temperature, Max (°C)",52488,43,0.08192348727328151,False,1.75,48.75,False,False
+KWF2,"Transformer cell temperature, Min (°C)",52488,43,0.08192348727328151,False,0.850000023841858,45.3499984741211,False,False
+KWF2,"Transformer cell temperature, StdDev (°C)",52488,43,0.08192348727328151,False,0.0249996185302983,1.5537778383864178,False,False
+KWF2,"Transformer temperature, Max (°C)",52488,43,0.08192348727328151,False,21.0,115.349998474121,False,False
+KWF2,"Transformer temperature, Min (°C)",52488,43,0.08192348727328151,False,20.3999996185303,114.099998474121,False,False
+KWF2,"Transformer temperature, StdDev (°C)",52488,43,0.08192348727328151,False,0.0216519565445007,3.2099856048947686,False,False
+KWF2,"Stator temperature 1, Max (°C)",52488,0,0.0,False,6.30000019073486,101.699996948242,False,False
+KWF2,"Stator temperature 1, Min (°C)",52488,0,0.0,False,6.30000019073486,100.449996948242,False,False
+KWF2,"Stator temperature 1, StdDev (°C)",52488,0,0.0,False,0.0,2.95715596575526,False,False
+KWF2,"Temp. top box, Max (°C)",52488,0,0.0,False,9.60000038146973,45.0999984741211,False,False
+KWF2,"Temp. top box, Min (°C)",52488,0,0.0,False,9.19999980926514,44.9000015258789,False,False
+KWF2,"Temp. top box, StdDev (°C)",52488,0,0.0,False,0.0,2.231725722688445,False,False
+KWF2,"Temperature motor axis 1, Max (°C)",52488,0,0.0,False,0.0,83.0,False,False
+KWF2,"Temperature motor axis 1, Min (°C)",52488,0,0.0,False,-40.0,80.0,False,False
+KWF2,"Temperature motor axis 1, StdDev (°C)",52488,0,0.0,False,0.0,15.598397353574503,False,False
+KWF2,"Temperature motor axis 2, Max (°C)",52488,0,0.0,False,0.0,87.0,False,False
+KWF2,"Temperature motor axis 2, Min (°C)",52488,0,0.0,False,-40.0,83.0,False,False
+KWF2,"Temperature motor axis 2, StdDev (°C)",52488,0,0.0,False,0.0,15.598397353574503,False,False
+KWF2,"Temperature motor axis 3, Max (°C)",52488,0,0.0,False,0.0,87.0,False,False
+KWF2,"Temperature motor axis 3, Min (°C)",52488,0,0.0,False,-40.0,82.0,False,False
+KWF2,"Temperature motor axis 3, StdDev (°C)",52488,0,0.0,False,0.0,15.598397353574503,False,False
+KWF2,Voltage L1 / U (V),52488,43,0.08192348727328151,False,0.0,414.1529479980469,False,False
+KWF2,Voltage L2 / V (V),52488,43,0.08192348727328151,False,0.0,414.4542999267579,False,False
+KWF2,Voltage L3 / W (V),52488,43,0.08192348727328151,False,0.0,414.45230102539074,False,False
+KWF2,Grid voltage (V),52488,0,0.0,False,0.0,711.710021972656,False,False
+KWF2,"Grid voltage, Max (V)",52488,0,0.0,False,0.0,718.840026855469,False,False
+KWF2,"Grid voltage, Min (V)",52488,0,0.0,False,0.0,711.210021972656,False,False
+KWF2,"Grid voltage, Standard deviation (V)",52488,0,0.0,False,0.0,200.42918170788283,False,False
+KWF2,"Voltage L1 / U, Min (V)",52488,43,0.08192348727328151,False,0.0,413.235992431641,False,False
+KWF2,"Voltage L1 / U, Max (V)",52488,43,0.08192348727328151,False,0.0,416.944000244141,False,False
+KWF2,"Voltage L1 / U, Standard deviation (V)",52488,43,0.08192348727328151,False,0.0,199.97673870151357,False,False
+KWF2,"Voltage L2 / V, Min (V)",52488,43,0.08192348727328151,False,0.0,413.313995361328,False,False
+KWF2,"Voltage L2 / V, Max (V)",52488,43,0.08192348727328151,False,0.0,419.605987548828,False,False
+KWF2,"Voltage L2 / V, Standard deviation (V)",52488,43,0.08192348727328151,False,0.0,201.06422321385244,False,False
+KWF2,"Voltage L3 / W, Min (V)",52488,43,0.08192348727328151,False,0.0,413.497009277344,False,False
+KWF2,"Voltage L3 / W, Max (V)",52488,43,0.08192348727328151,False,0.0,417.123016357422,False,False
+KWF2,"Voltage L3 / W, Standard deviation (V)",52488,43,0.08192348727328151,False,0.0,200.23674082514287,False,False
+KWF2,Current L1 / U (A),52488,43,0.08192348727328151,False,0.5675000101327895,1813.7522521972653,False,False
+KWF2,Current L2 / V (A),52488,43,0.08192348727328151,False,1.3400000333786002,1819.189739990236,False,False
+KWF2,Current L3 / W (A),52488,43,0.08192348727328151,False,0.622500002384186,1816.6414855957048,False,False
+KWF2,Grid current (A),52488,0,0.0,False,0.847499996423721,1818.4834350585936,False,False
+KWF2,Motor current axis 1 (A),52488,0,0.0,False,0.0,8.409442700837792,False,False
+KWF2,Motor current axis 2 (A),52488,0,0.0,False,-1.1920928955078105e-07,6.9355391025543245,False,False
+KWF2,Motor current axis 3 (A),52488,0,0.0,False,-0.4901961982250212,7.065441060066225,False,False
+KWF2,"Current L1 / U, min (A)",52488,43,0.08192348727328151,False,0.280000001192093,1780.67504882813,False,False
+KWF2,"Current L1 / U, max (A)",52488,43,0.08192348727328151,False,0.740000009536743,1938.99499511719,False,False
+KWF2,"Current L1 / U, StdDev (A)",52488,43,0.08192348727328151,False,0.1349999904632549,886.5349786357117,False,False
+KWF2,"Current L2 / V, max (A)",52488,43,0.08192348727328151,False,1.36000001430511,1937.31994628906,False,False
+KWF2,"Current L3 / W, max (A)",52488,43,0.08192348727328151,False,0.685000002384186,1943.84997558594,False,False
+KWF2,"Current L2 / V, min (A)",52488,43,0.08192348727328151,False,0.509999990463257,1785.90502929688,False,False
+KWF2,"Current L2 / V, StdDev (A)",52488,43,0.08192348727328151,False,0.01999998092651,889.8253872080434,False,False
+KWF2,"Current L3 / W, min (A)",52488,43,0.08192348727328151,False,0.0,1783.0400390625,False,False
+KWF2,"Current L3 / W, StdDev (A)",52488,43,0.08192348727328151,False,0.0625,888.6109383292421,False,False
+KWF2,"Grid current, Max (A)",52488,0,0.0,False,0.926666676998138,1933.48828125,False,False
+KWF2,"Grid current, Min (A)",52488,0,0.0,False,0.768333315849304,1783.73498535156,False,False
+KWF2,"Grid current, StdDev (A)",52488,0,0.0,False,0.03916668891907,891.8388213032873,False,False
+KWF2,"Motor current axis 1, Max (A)",52488,0,0.0,False,0.0,24.0,False,False
+KWF2,"Motor current axis 1, Min (A)",52488,0,0.0,False,-1.19209289550781e-07,3.89215660095215,False,False
+KWF2,"Motor current axis 1, StdDev (A)",52488,0,0.0,False,0.0,6.38599587857899,False,False
+KWF2,"Motor current axis 2, Max (A)",52488,0,0.0,False,-1.19209289550781e-07,19.4068622589111,False,False
+KWF2,"Motor current axis 2, Min (A)",52488,0,0.0,False,-1.19209289550781e-07,5.11764717102051,False,False
+KWF2,"Motor current axis 2, StdDev (A)",52488,0,0.0,False,0.0,5.225233216084832,False,False
+KWF2,"Motor current axis 3, Max (A)",52488,0,0.0,False,-0.490196198225021,19.5,False,False
+KWF2,"Motor current axis 3, Min (A)",52488,0,0.0,False,-0.490196198225021,5.0,False,False
+KWF2,"Motor current axis 3, StdDev (A)",52488,0,0.0,False,0.0,4.816967815283486,False,False
+KWF2,Rotor speed (RPM),52488,0,0.0,False,0.0,15.35636240243912,False,False
+KWF2,Generator RPM (RPM),52488,0,0.0,False,-144.26770093850797,1824.756923675537,False,False
+KWF2,Gearbox speed (RPM),52488,0,0.0,False,0.0,1828.334003448487,False,False
+KWF2,"Generator RPM, Max (RPM)",52488,0,0.0,False,0.310438899323344,1973.81217956543,False,False
+KWF2,"Generator RPM, Min (RPM)",52488,0,0.0,False,-584.924926757813,1797.84564971924,False,False
+KWF2,"Generator RPM, Standard deviation (RPM)",52488,0,0.0,False,0.038860123604535,889.5978107687724,False,False
+KWF2,"Rotor speed, Max (RPM)",52488,0,0.0,False,0.0,16.702344417572,False,False
+KWF2,"Rotor speed, Min (RPM)",52488,0,0.0,False,0.0,15.1575618982315,False,False
+KWF2,"Rotor speed, Standard deviation (RPM)",52488,0,0.0,False,0.0,7.464503838449557,False,False
+KWF2,"Gearbox speed, Max (RPM)",52488,0,0.0,False,0.0,1979.30099487305,False,False
+KWF2,"Gearbox speed, Min (RPM)",52488,0,0.0,False,0.0,1799.56729888916,False,False
+KWF2,"Gearbox speed, StdDev (RPM)",52488,0,0.0,False,0.0,890.2116316801872,False,False
+KWF2,Capacity factor,52488,3,0.005715592135345221,False,0.0,1.205853658536585,False,False
+KWF2,Data Availability,52488,0,0.0,True,1.0,1.0,False,True
+KWF2,Time-based Contractual Avail.,52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based IEC B.2.2 (Users View),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based IEC B.2.3 (Users View),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based IEC B.2.4 (Users View),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based IEC B.3.2 (Manufacturers View),52488,1204,2.2938576436518825,False,0.0,1.0,False,False
+KWF2,Production-based IEC B.2.2 (Users View),52488,325,0.6191891479957323,False,0.0,1.0,False,False
+KWF2,Production-based IEC B.2.3 (Users View),52488,6040,11.50739216582838,False,0.0,1.0,False,False
+KWF2,Production-based IEC B.3.2 (Manufacturers View),52488,1207,2.2995732357872276,False,0.0,1.0,False,False
+KWF2,Time-based System Avail.,52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Production-based System Avail.,52488,3,0.005715592135345221,False,0.0,1.0,False,False
+KWF2,Production-based Contractual Avail.,52488,3,0.005715592135345221,False,0.0,1.0,False,False
+KWF2,Time-based System Avail. (Planned),52488,0,0.0,True,1.0,1.0,False,True
+KWF2,Production-based System Avail. (virtual),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based Contractual Avail. (Global),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Time-based Contractual Avail. (Custom),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Production-based Contractual Avail. (Global),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Production-based Contractual Avail. (Custom),52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Reactive Energy Export (kvarh),52488,502,0.9564090839811005,False,0.0,1.0,False,False
+KWF2,Reactive Energy Export counter (kvarh),52488,51219,97.58230452674897,False,137023.0,138301.0,False,False
+KWF2,Reactive Energy Import (kvarh),52488,2,0.0038103947568968147,False,0.0,127.0,False,False
+KWF2,Reactive Energy Import counter (kvarh),52488,8306,15.82456942539247,False,10533650.0,12148730.0,False,False
+KWF2,Blade angle (pitch position) A (°),52488,43,0.08192348727328151,False,0.0,92.5699996948242,False,False
+KWF2,Blade angle (pitch position) B (°),52488,43,0.08192348727328151,False,0.0,92.8300018310547,False,False
+KWF2,Blade angle (pitch position) C (°),52488,43,0.08192348727328151,False,0.0,92.6800003051758,False,False
+KWF2,Yaw bearing angle (°),52488,43,0.08192348727328151,False,0.017307274188056,359.94037868937914,False,False
+KWF2,"Blade angle (pitch position) A, Max (°)",52488,43,0.08192348727328151,False,0.0,92.6600036621094,False,False
+KWF2,"Blade angle (pitch position) A, Min (°)",52488,43,0.08192348727328151,False,0.0,92.5699996948242,False,False
+KWF2,"Blade angle (pitch position) A, Standard deviation (°)",52488,43,0.08192348727328151,False,0.0,45.34024046984489,False,False
+KWF2,"Blade angle (pitch position) B, Max (°)",52488,43,0.08192348727328151,False,0.0,92.9199981689453,False,False
+KWF2,"Blade angle (pitch position) B, Min (°)",52488,43,0.08192348727328151,False,0.0,92.8300018310547,False,False
+KWF2,"Blade angle (pitch position) B, Standard deviation (°)",52488,43,0.08192348727328151,False,0.0,45.46019338914161,False,False
+KWF2,"Blade angle (pitch position) C, Max (°)",52488,43,0.08192348727328151,False,0.0,92.7399978637695,False,False
+KWF2,"Blade angle (pitch position) C, Min (°)",52488,43,0.08192348727328151,False,0.0,92.6800003051758,False,False
+KWF2,"Blade angle (pitch position) C, Standard deviation (°)",52488,43,0.08192348727328151,False,0.0,45.345826086052455,False,False
+KWF2,"Yaw bearing angle, Max (°)",52488,43,0.08192348727328151,False,0.2391917705535888,359.900390625,False,False
+KWF2,"Yaw bearing angle, Min (°)",52488,43,0.08192348727328151,False,0.1637137681245803,359.14306640625,False,False
+KWF2,"Yaw bearing angle, StdDev (°)",52488,43,0.08192348727328151,False,0.0,94.09215806225814,False,False
+KWF2,Gear oil inlet pressure (bar),52488,0,0.0,False,-3.02738964557648,416.2877845764161,False,False
+KWF2,Gear oil pump pressure (bar),52488,0,0.0,False,1.366191466649373,1153.7187683105474,False,False
+KWF2,"Gear oil inlet pressure, Max (bar)",52488,0,0.0,False,-2.00198340415955,520.723266601563,False,False
+KWF2,"Gear oil inlet pressure, Min (bar)",52488,0,0.0,False,-4.50446271896362,365.032440185547,False,False
+KWF2,"Gear oil inlet pressure, StdDev (bar)",52488,0,0.0,False,0.0099999997764825,208.6156918997909,False,False
+KWF2,"Gear oil pump pressure, Max (bar)",52488,0,0.0,False,2.38651132583618,1343.306640625,False,False
+KWF2,"Gear oil pump pressure, Min (bar)",52488,0,0.0,False,-1.26955020427704,1070.51501464844,False,False
+KWF2,"Gear oil pump pressure, StdDev (bar)",52488,0,0.0,False,0.0221336151669819,542.1530091912001,False,False
+KWF2,Grid frequency (Hz),52488,0,0.0,False,0.0,50.19575462341309,False,False
+KWF2,"Grid frequency, Max (Hz)",52488,0,0.0,False,0.0,50.3358001708984,False,False
+KWF2,"Grid frequency, Min (Hz)",52488,0,0.0,False,0.0,50.1315002441406,False,False
+KWF2,"Grid frequency, Standard deviation (Hz)",52488,0,0.0,False,0.0,24.946388304650444,False,False
+KWF2,Equivalent Full Load Hours (s),52488,3,0.005715592135345221,False,0.0,723.512195121951,False,False
+KWF2,Equivalent Full Load Hours counter (s),52488,52488,100.0,True,,,True,False
+KWF2,Production Factor,52488,0,0.0,False,0.0,4.848464776459571,False,False
+KWF2,Performance Index,52488,2697,5.138317329675354,False,0.0,4.848464776459571,False,False
+KWF2,Investment Performance Ratio,52488,0,0.0,False,-0.0418247595346883,9.399810496366108,False,False
+KWF2,Operating Performance Ratio,52488,6244,11.896052431031855,False,-0.2692463290861819,4.6611962967526965,False,False
+KWF2,Apparent power (kVA),52488,0,0.0,False,0.0,2165.026611328128,False,False
+KWF2,"Apparent power, Max (kVA)",52488,0,0.0,False,0.0,2341.73413085938,False,False
+KWF2,"Apparent power, Min (kVA)",52488,0,0.0,False,0.0,2128.83520507813,False,False
+KWF2,"Apparent power, StdDev (kVA)",52488,0,0.0,False,0.0,1081.2833907863128,False,False
+KWF2,Cable windings from calibration point,52488,43,0.08192348727328151,False,-1.7774332761764495,1.84755349159241,False,False
+KWF2,Metal particle count,52488,0,0.0,False,0.0,1.0,False,False
+KWF2,Metal particle count counter,52488,43,0.08192348727328151,False,554.0,574.0,False,False
+KWF2,"Cable windings from calibration point, Max",52488,43,0.08192348727328151,False,-1.77743327617645,1.84755349159241,False,False
+KWF2,"Cable windings from calibration point, Min",52488,43,0.08192348727328151,False,-1.77743327617645,1.84755349159241,False,False
+KWF2,"Cable windings from calibration point, StdDev",52488,43,0.08192348727328151,False,0.0,0.2611371657507606,False,False
+KWF2,Drive train acceleration (mm/ss),52488,20,0.03810394756896814,False,0.180000007152557,27.5289859771729,False,False
+KWF2,Tower Acceleration X (mm/ss),52488,43,0.08192348727328151,False,2.837348818778992,239.20197134017948,False,False
+KWF2,Tower Acceleration y (mm/ss),52488,43,0.08192348727328151,False,2.7563192635774625,268.26117515563953,False,False
+KWF2,"Tower Acceleration X, Min (mm/ss)",52488,43,0.08192348727328151,False,1.06137728691101,118.17008972168,False,False
+KWF2,"Tower Acceleration X, Max (mm/ss)",52488,43,0.08192348727328151,False,5.17488574981689,989.262878417969,False,False
+KWF2,"Tower Acceleration Y, Min (mm/ss)",52488,43,0.08192348727328151,False,0.626337826251984,81.2102508544922,False,False
+KWF2,"Tower Acceleration Y, Max (mm/ss)",52488,43,0.08192348727328151,False,4.90544271469116,648.657836914063,False,False
+KWF2,"Drive train acceleration, Max (mm/ss)",52488,20,0.03810394756896814,False,0.25,27.5289859771729,False,False
+KWF2,"Drive train acceleration, Min (mm/ss)",52488,20,0.03810394756896814,False,0.0500000007450581,27.5289859771729,False,False
+KWF2,"Drive train acceleration, StdDev (mm/ss)",52488,20,0.03810394756896814,False,0.0,1.23219728469848,False,False
+KWF2,"Tower Acceleration X, StdDev (mm/ss)",52488,43,0.08192348727328151,False,0.4242514945995858,262.01612235781124,False,False
+KWF2,"Tower Acceleration Y, StdDev (mm/ss)",52488,43,0.08192348727328151,False,0.6321581107695735,142.2301201113748,False,False
+KWF3,Wind speed (m/s),52448,0,0.0,False,0.1142627948895096,21.936705589294423,False,False
+KWF3,"Wind speed, Standard deviation (m/s)",52448,0,0.0,False,0.0199071980627816,5.367731670585645,False,False
+KWF3,"Wind speed, Minimum (m/s)",52448,0,0.0,False,0.0375008583068848,16.3721885681152,False,False
+KWF3,"Wind speed, Maximum (m/s)",52448,0,0.0,False,0.299999713897705,31.927562713623,False,False
+KWF3,Long Term Wind (m/s),52448,0,0.0,False,5.26,7.21,False,False
+KWF3,Wind speed Sensor 1 (m/s),52448,258,0.49191580231848686,False,0.0,21.53909959793091,False,False
+KWF3,"Wind speed Sensor 1, Standard deviation (m/s)",52448,258,0.49191580231848686,False,0.0,6.194692988483538,False,False
+KWF3,"Wind speed Sensor 1, Minimum (m/s)",52448,984,1.87614399023795,False,0.0,16.1712207794189,False,False
+KWF3,"Wind speed Sensor 1, Maximum (m/s)",52448,258,0.49191580231848686,False,0.0,28.4920463562012,False,False
+KWF3,Wind speed Sensor 2 (m/s),52448,0,0.0,False,0.1009345421273457,22.134785079956053,False,False
+KWF3,"Wind speed Sensor 2, Standard deviation (m/s)",52448,0,0.0,False,0.0185383486058864,5.503816580740412,False,False
+KWF3,"Wind speed Sensor 2, Minimum (m/s)",52448,0,0.0,False,0.0375008583068848,16.2615547180176,False,False
+KWF3,"Wind speed Sensor 2, Maximum (m/s)",52448,0,0.0,False,0.226124808192253,30.0557193756104,False,False
+KWF3,Density adjusted wind speed (m/s),52448,43,0.08198596705308114,False,0.1121839770116726,21.835458936416536,False,False
+KWF3,Wind direction (°),52448,0,0.0,False,0.0178643676129013,359.99469319007227,False,False
+KWF3,Nacelle position (°),52448,0,0.0,False,0.0021949175363147,359.9482104028278,False,False
+KWF3,"Wind direction, Standard deviation (°)",52448,0,0.0,False,0.9848277768209072,101.53252038570572,False,False
+KWF3,"Wind direction, Minimum (°)",52448,0,0.0,False,0.0001611709594726,350.9742126464839,False,False
+KWF3,"Wind direction, Maximum (°)",52448,0,0.0,False,12.746089935302678,359.9984130859379,False,False
+KWF3,"Nacelle position, Standard deviation (°)",52448,0,0.0,False,0.0,92.78649656073172,False,False
+KWF3,"Nacelle position, Minimum (°)",52448,0,0.0,False,0.0515512451529502,359.019897460938,False,False
+KWF3,"Nacelle position, Maximum (°)",52448,0,0.0,False,0.116363525390625,359.96334838867205,False,False
+KWF3,Vane position 1+2 (°),52448,43,0.08198596705308114,False,-173.97318649292006,176.18445816040034,False,False
+KWF3,"Vane position 1+2, Max (°)",52448,43,0.08198596705308114,False,-172.003890991211,179.945419311523,False,False
+KWF3,"Vane position 1+2, Min (°)",52448,43,0.08198596705308114,False,-179.984497070313,173.042114257813,False,False
+KWF3,"Vane position 1+2, StdDev (°)",52448,43,0.08198596705308114,False,0.947997345917968,177.3173176099046,False,False
+KWF3,Energy Export (kWh),52448,5,0.009533251982916413,False,0.0,412.0,False,False
+KWF3,Energy Export counter (kWh),52448,6841,13.043395363026235,False,29757843.0,34737118.0,False,False
+KWF3,Energy Import (kWh),52448,110,0.20973154362416108,False,0.0,3.0,False,False
+KWF3,Energy Import counter (kWh),52448,48125,91.75755033557047,False,20592.0,25100.0,False,False
+KWF3,Lost Production (Contractual) (kWh),52448,0,0.0,False,0.0,340.03666666666663,False,False
+KWF3,Lost Production (Time-based IEC B.2.2) (kWh),52448,0,0.0,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Time-based IEC B.2.3) (kWh),52448,289,0.5510219646125687,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Time-based IEC B.2.4) (kWh),52448,106,0.20210494203782794,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Time-based IEC B.3.2) (kWh),52448,175,0.33366381940207446,False,0.0,340.03666666666663,False,False
+KWF3,Lost Production (Production-based IEC B.2.2) (kWh),52448,289,0.5510219646125687,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Production-based IEC B.2.3) (kWh),52448,7336,13.98718730933496,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Production-based IEC B.3.2) (kWh),52448,175,0.33366381940207446,False,0.0,340.03666666666663,False,False
+KWF3,Energy Budget - Default (kWh),52448,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF3,Energy Theoretical (kWh),52448,0,0.0,False,0.0,342.6983333333333,False,False
+KWF3,Lost Production to Downtime (kWh),52448,0,0.0,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production to Performance (kWh),52448,0,0.0,False,-88.8822870270094,163.35742934215062,False,False
+KWF3,Lost Production Total (kWh),52448,0,0.0,False,-88.8822870270094,341.9183721834818,False,False
+KWF3,Lost Production to Curtailment (Total) (kWh),52448,0,0.0,False,0.0,69.92048596120281,False,False
+KWF3,Lost Production to Curtailment (Grid) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Noise) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Shadow) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Bats) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Birds) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Ice) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Sector Management) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Technical) (kWh),52448,0,0.0,False,0.0,69.92048596120281,False,False
+KWF3,Lost Production to Curtailment (Marketing) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Curtailment (Boat Action) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Compensated Lost Production (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Virtual Production (kWh),52448,0,0.0,False,0.0,412.0,False,False
+KWF3,Lost Production to Curtailment (Grid Constraint) (kWh),52448,0,0.0,True,0.0,0.0,False,True
+KWF3,Lost Production to Downtime and Curtailment Total (kWh),52448,0,0.0,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Contractual Global) (kWh),52448,0,0.0,False,0.0,341.9183721834818,False,False
+KWF3,Lost Production (Contractual Custom) (kWh),52448,0,0.0,False,0.0,341.66666666666663,False,False
+KWF3,Power (kW),52448,0,0.0,False,-16.35132293701172,2080.5738281250024,False,False
+KWF3,Potential power default PC (kW),52448,0,0.0,False,0.0,2050.0,False,False
+KWF3,"Power, Standard deviation (kW)",52448,0,0.0,False,0.0,1008.6553444972378,False,False
+KWF3,"Power, Minimum (kW)",52448,0,0.0,False,-98.6394424438477,2046.45275878906,False,False
+KWF3,"Power, Maximum (kW)",52448,0,0.0,False,-12.1424703598022,2233.44555664063,False,False
+KWF3,Potential power learned PC (kW),52448,0,0.0,False,0.0,2056.19,False,False
+KWF3,Potential power reference turbines (kW),52448,245,0.4671293471629042,False,0.0,2061.159196777346,False,False
+KWF3,Cascading potential power (kW),52448,0,0.0,False,0.0,2056.19,False,False
+KWF3,Cascading potential power for performance (kW),52448,0,0.0,False,0.0,2056.19,False,False
+KWF3,Potential power met mast anemometer (kW),52448,52448,100.0,True,,,True,False
+KWF3,Potential power primary reference turbines (kW),52448,829,1.5806131787675413,False,0.0,2067.4874471028675,False,False
+KWF3,Potential power secondary reference turbines (kW),52448,600,1.1439902379499696,False,0.0,2065.2548767089866,False,False
+KWF3,Turbine Power setpoint (kW),52448,43,0.08198596705308114,False,412.0,2060.0,False,False
+KWF3,Potential power estimated (kW),52448,52448,100.0,True,,,True,False
+KWF3,Potential power MPC (kW),52448,0,0.0,False,0.0,2050.0,False,False
+KWF3,Potential power met mast anemometer MPC (kW),52448,52448,100.0,True,,,True,False
+KWF3,Potential Power Energy Budget (kW),52448,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF3,"Turbine Power setpoint, Max (kW)",52448,43,0.08198596705308114,False,412.0,2060.0,False,False
+KWF3,"Turbine Power setpoint, Min (kW)",52448,43,0.08198596705308114,False,360.0,2060.0,False,False
+KWF3,"Turbine Power setpoint, StdDev (kW)",52448,43,0.08198596705308114,False,0.0,824.0,False,False
+KWF3,Available Capacity for Production (kW),52448,0,0.0,False,0.0,2050.0,False,False
+KWF3,Available Capacity for Production (Planned) (kW),52448,0,0.0,True,2050.0,2050.0,False,True
+KWF3,Manufacturer Potential Power (SCADA) (kW),52448,52448,100.0,True,,,True,False
+KWF3,Power factor (cosphi),52448,0,0.0,False,-0.9999916970729829,1.0,False,False
+KWF3,"Power factor (cosphi), Max",52448,0,0.0,False,-0.999951601028442,1.0,False,False
+KWF3,"Power factor (cosphi), Min",52448,0,0.0,False,-1.0,1.0,False,False
+KWF3,"Power factor (cosphi), Standard deviation",52448,0,0.0,False,0.0,0.9999991238131882,False,False
+KWF3,Reactive power (kvar),52448,0,0.0,False,-747.2452117919922,4.03507502861321,False,False
+KWF3,"Reactive power, Max (kvar)",52448,0,0.0,False,-662.968139648438,245.839996337891,False,False
+KWF3,"Reactive power, Min (kvar)",52448,0,0.0,False,-836.067810058594,0.0,False,False
+KWF3,"Reactive power, Standard deviation (kvar)",52448,0,0.0,False,0.0,315.9669792492375,False,False
+KWF3,Front bearing temperature (°C),52448,43,0.08198596705308114,False,7.1999998092651385,83.12750015258788,False,False
+KWF3,Rear bearing temperature (°C),52448,43,0.08198596705308114,False,7.702499818801881,79.17749938964843,False,False
+KWF3,Stator temperature 1 (°C),52448,0,0.0,False,5.6999998092651385,100.88999977111816,False,False
+KWF3,Nacelle ambient temperature (°C),52448,43,0.08198596705308114,False,-4.5,39.007499885559085,False,False
+KWF3,Nacelle temperature (°C),52448,43,0.08198596705308114,False,-0.0425000008195638,42.70499992370607,False,False
+KWF3,Transformer temperature (°C),52448,43,0.08198596705308114,False,20.63250036239624,116.0449996948242,False,False
+KWF3,Gear oil inlet temperature (°C),52448,0,0.0,False,5.085000061988831,59.74500007629395,False,False
+KWF3,Generator bearing rear temperature (°C),52448,0,0.0,False,2.099999904632569,69.47000007629394,False,False
+KWF3,Generator bearing front temperature (°C),52448,0,0.0,False,5.1999998092651385,64.4149995803833,False,False
+KWF3,Gear oil temperature (°C),52448,0,0.0,False,10.119999933242791,63.29250011444092,False,False
+KWF3,Temp. top box (°C),52448,0,0.0,False,9.469999980926511,42.4000015258789,False,False
+KWF3,Hub temperature (°C),52448,0,0.0,False,6.0,40.0,False,False
+KWF3,Ambient temperature (converter) (°C),52448,0,0.0,False,-2.4225000739097604,45.60249996185302,False,False
+KWF3,Rotor bearing temp (°C),52448,0,0.0,False,0.300000011920929,43.39500141143798,False,False
+KWF3,Transformer cell temperature (°C),52448,43,0.08198596705308114,False,-0.7624999970197678,45.3549997329712,False,False
+KWF3,"Front bearing temperature, Max (°C)",52448,43,0.08198596705308114,False,7.19999980926514,83.8000030517578,False,False
+KWF3,"Front bearing temperature, Min (°C)",52448,43,0.08198596705308114,False,7.19999980926514,82.1999969482422,False,False
+KWF3,"Front bearing temperature, Standard deviation (°C)",52448,43,0.08198596705308114,False,0.0,13.799222100682142,False,False
+KWF3,"Rear bearing temperature, Max (°C)",52448,43,0.08198596705308114,False,7.75,79.5,False,False
+KWF3,"Rear bearing temperature, Min (°C)",52448,43,0.08198596705308114,False,7.69999980926514,78.3000030517578,False,False
+KWF3,"Rear bearing temperature, Standard deviation (°C)",52448,43,0.08198596705308114,False,0.0,10.758420303875765,False,False
+KWF3,Temperature motor axis 1 (°C),52448,0,0.0,False,9.0,83.0,False,False
+KWF3,Temperature motor axis 2 (°C),52448,0,0.0,False,6.0,83.69949989318847,False,False
+KWF3,Temperature motor axis 3 (°C),52448,0,0.0,False,7.0,81.8,False,False
+KWF3,CPU temperature (°C),52448,0,0.0,False,29.5,71.0,False,False
+KWF3,"Nacelle temperature, Max (°C)",52448,43,0.08198596705308114,False,0.100000001490116,42.9000015258789,False,False
+KWF3,"Nacelle temperature, Min (°C)",52448,43,0.08198596705308114,False,-0.200000002980232,42.5999984741211,False,False
+KWF3,"Generator bearing front temperature, Max (°C)",52448,0,0.0,False,5.19999980926514,65.0,False,False
+KWF3,"Generator bearing front temperature, Min (°C)",52448,0,0.0,False,5.19999980926514,63.2999992370605,False,False
+KWF3,"Generator bearing rear temperature, Max (°C)",52448,0,0.0,False,2.09999990463257,69.8000030517578,False,False
+KWF3,"Generator bearing rear temperature, Min (°C)",52448,0,0.0,False,2.09999990463257,69.0999984741211,False,False
+KWF3,"Generator bearing front temperature, Std (°C)",52448,0,0.0,False,0.0,3.2791049160475376,False,False
+KWF3,"Generator bearing rear temperature, Std (°C)",52448,0,0.0,False,0.0,3.742842731632547,False,False
+KWF3,"Nacelle temperature, Standard deviation (°C)",52448,43,0.08198596705308114,False,0.0,3.5192327273292623,False,False
+KWF3,"Gear oil temperature, Max (°C)",52448,0,0.0,False,10.3000001907349,63.5,False,False
+KWF3,"Gear oil temperature, Min (°C)",52448,0,0.0,False,9.89999961853027,63.0,False,False
+KWF3,"Gear oil temperature, Standard deviation (°C)",52448,0,0.0,False,0.0,2.955903500596561,False,False
+KWF3,"Hub temperature, min (°C)",52448,0,0.0,False,6.0,40.0,False,False
+KWF3,"Hub temperature, max (°C)",52448,0,0.0,False,6.0,40.0,False,False
+KWF3,"Hub temperature, standard deviation (°C)",52448,0,0.0,False,0.0,0.8888194417315588,False,False
+KWF3,"Ambient temperature (converter), Max (°C)",52448,0,0.0,False,-2.40000009536743,46.0499992370605,False,False
+KWF3,"Ambient temperature (converter), Min (°C)",52448,0,0.0,False,-2.54999995231628,45.3499984741211,False,False
+KWF3,"Ambient temperature (converter), StdDev (°C)",52448,0,0.0,False,0.0,0.7603617520574626,False,False
+KWF3,"Gear oil inlet temperature, Max (°C)",52448,0,0.0,False,7.0,60.4499969482422,False,False
+KWF3,"Gear oil inlet temperature, Min (°C)",52448,0,0.0,False,3.20000004768372,59.5,False,False
+KWF3,"Gear oil inlet temperature, StdDev (°C)",52448,0,0.0,False,0.0,12.85597990905323,False,False
+KWF3,"Nacelle ambient temperature, Max (°C)",52448,43,0.08198596705308114,False,-4.5,39.2000007629395,False,False
+KWF3,"Nacelle ambient temperature, Min (°C)",52448,43,0.08198596705308114,False,-4.5,38.7999992370605,False,False
+KWF3,"Nacelle ambient temperature, StdDev (°C)",52448,43,0.08198596705308114,False,0.0,1.4682812142765354,False,False
+KWF3,"Rotor bearing temp, Max (°C)",52448,0,0.0,False,0.300000011920929,43.4000015258789,False,False
+KWF3,"Rotor bearing temp, Min (°C)",52448,0,0.0,False,0.300000011920929,43.2999992370605,False,False
+KWF3,"Rotor bearing temp, StdDev (°C)",52448,0,0.0,False,0.0,0.3118893969009135,False,False
+KWF3,"CPU temperature, Max (°C)",52448,0,0.0,False,30.0,71.0,False,False
+KWF3,"CPU temperature, Min (°C)",52448,0,0.0,False,29.0,71.0,False,False
+KWF3,"CPU temperature, StdDev (°C)",52448,0,0.0,False,0.0,2.1569654610122995,False,False
+KWF3,"Transformer cell temperature, Max (°C)",52448,43,0.08198596705308114,False,-0.699999988079071,46.2000007629395,False,False
+KWF3,"Transformer cell temperature, Min (°C)",52448,43,0.08198596705308114,False,-0.949999988079071,45.0999984741211,False,False
+KWF3,"Transformer cell temperature, StdDev (°C)",52448,43,0.08198596705308114,False,0.0357071448135405,2.140413382791896,False,False
+KWF3,"Transformer temperature, Max (°C)",52448,43,0.08198596705308114,False,20.75,116.800003051758,False,False
+KWF3,"Transformer temperature, Min (°C)",52448,43,0.08198596705308114,False,20.5,115.550003051758,False,False
+KWF3,"Transformer temperature, StdDev (°C)",52448,43,0.08198596705308114,False,0.0,2.9534492150988925,False,False
+KWF3,"Stator temperature 1, Max (°C)",52448,0,0.0,False,5.69999980926514,101.5,False,False
+KWF3,"Stator temperature 1, Min (°C)",52448,0,0.0,False,5.69999980926514,100.400001525879,False,False
+KWF3,"Stator temperature 1, StdDev (°C)",52448,0,0.0,False,0.0,2.928416057375561,False,False
+KWF3,"Temp. top box, Max (°C)",52448,0,0.0,False,9.5,42.4000015258789,False,False
+KWF3,"Temp. top box, Min (°C)",52448,0,0.0,False,9.0,42.4000015258789,False,False
+KWF3,"Temp. top box, StdDev (°C)",52448,0,0.0,False,0.0,2.030053863550725,False,False
+KWF3,"Temperature motor axis 1, Max (°C)",52448,0,0.0,False,9.0,85.0,False,False
+KWF3,"Temperature motor axis 1, Min (°C)",52448,0,0.0,False,9.0,83.0,False,False
+KWF3,"Temperature motor axis 1, StdDev (°C)",52448,0,0.0,False,0.0,10.296234991350058,False,False
+KWF3,"Temperature motor axis 2, Max (°C)",52448,0,0.0,False,6.0,84.0,False,False
+KWF3,"Temperature motor axis 2, Min (°C)",52448,0,0.0,False,6.0,82.0,False,False
+KWF3,"Temperature motor axis 2, StdDev (°C)",52448,0,0.0,False,0.0,12.267047874982788,False,False
+KWF3,"Temperature motor axis 3, Max (°C)",52448,0,0.0,False,7.0,84.0,False,False
+KWF3,"Temperature motor axis 3, Min (°C)",52448,0,0.0,False,7.0,81.0,False,False
+KWF3,"Temperature motor axis 3, StdDev (°C)",52448,0,0.0,False,0.0,10.919134581092038,False,False
+KWF3,Voltage L1 / U (V),52448,43,0.08198596705308114,False,0.0,414.4275497436524,False,False
+KWF3,Voltage L2 / V (V),52448,43,0.08198596705308114,False,0.0,414.4260482788087,False,False
+KWF3,Voltage L3 / W (V),52448,43,0.08198596705308114,False,0.0,414.28334808349626,False,False
+KWF3,Grid voltage (V),52448,0,0.0,False,0.0,711.22998046875,False,False
+KWF3,"Grid voltage, Max (V)",52448,0,0.0,False,0.0,718.22998046875,False,False
+KWF3,"Grid voltage, Min (V)",52448,0,0.0,False,0.0,710.510009765625,False,False
+KWF3,"Grid voltage, Standard deviation (V)",52448,0,0.0,False,0.0,176.5989242175596,False,False
+KWF3,"Voltage L1 / U, Min (V)",52448,43,0.08198596705308114,False,0.0,413.476989746094,False,False
+KWF3,"Voltage L1 / U, Max (V)",52448,43,0.08198596705308114,False,0.0,417.063018798828,False,False
+KWF3,"Voltage L1 / U, Standard deviation (V)",52448,43,0.08198596705308114,False,0.0,176.28478014129416,False,False
+KWF3,"Voltage L2 / V, Min (V)",52448,43,0.08198596705308114,False,0.0,413.421997070313,False,False
+KWF3,"Voltage L2 / V, Max (V)",52448,43,0.08198596705308114,False,0.0,419.039001464844,False,False
+KWF3,"Voltage L2 / V, Standard deviation (V)",52448,43,0.08198596705308114,False,0.0,177.20001996308923,False,False
+KWF3,"Voltage L3 / W, Min (V)",52448,43,0.08198596705308114,False,0.0,413.398986816406,False,False
+KWF3,"Voltage L3 / W, Max (V)",52448,43,0.08198596705308114,False,0.0,417.165008544922,False,False
+KWF3,"Voltage L3 / W, Standard deviation (V)",52448,43,0.08198596705308114,False,0.0,176.3568321389399,False,False
+KWF3,Current L1 / U (A),52448,43,0.08198596705308114,False,2.299999997019765,1821.852520751955,False,False
+KWF3,Current L2 / V (A),52448,43,0.08198596705308114,False,5.862499952316285,1827.500250244142,False,False
+KWF3,Current L3 / W (A),52448,43,0.08198596705308114,False,6.615000009536745,1824.2509948730492,False,False
+KWF3,Grid current (A),52448,0,0.0,False,5.2008333802223214,1824.4939086914064,False,False
+KWF3,Motor current axis 1 (A),52448,0,0.0,False,-0.4901961982250212,6.932107722759247,False,False
+KWF3,Motor current axis 2 (A),52448,0,0.0,False,-1.1920928955078105e-07,7.611764574050895,False,False
+KWF3,Motor current axis 3 (A),52448,0,0.0,False,-0.4901961982250212,7.064950859546661,False,False
+KWF3,"Current L1 / U, min (A)",52448,43,0.08198596705308114,False,1.64499998092651,1791.51000976563,False,False
+KWF3,"Current L1 / U, max (A)",52448,43,0.08198596705308114,False,2.80999994277954,1927.40002441406,False,False
+KWF3,"Current L1 / U, StdDev (A)",52448,43,0.08198596705308114,False,0.091055938573711,870.4838270311294,False,False
+KWF3,"Current L2 / V, max (A)",52448,43,0.08198596705308114,False,5.88000011444092,1932.44494628906,False,False
+KWF3,"Current L3 / W, max (A)",52448,43,0.08198596705308114,False,6.65500020980835,1931.29504394531,False,False
+KWF3,"Current L2 / V, min (A)",52448,43,0.08198596705308114,False,4.29500007629395,1799.125,False,False
+KWF3,"Current L2 / V, StdDev (A)",52448,43,0.08198596705308114,False,0.0175001621246346,873.0897579468474,False,False
+KWF3,"Current L3 / W, min (A)",52448,43,0.08198596705308114,False,5.04500007629395,1797.93994140625,False,False
+KWF3,"Current L3 / W, StdDev (A)",52448,43,0.08198596705308114,False,0.0400002002716046,870.266747022507,False,False
+KWF3,"Grid current, Max (A)",52448,0,0.0,False,5.39499998092651,1935.71667480469,False,False
+KWF3,"Grid current, Min (A)",52448,0,0.0,False,4.78833341598511,1791.64331054688,False,False
+KWF3,"Grid current, StdDev (A)",52448,0,0.0,False,0.0458333492279052,869.6209178681495,False,False
+KWF3,"Motor current axis 1, Max (A)",52448,0,0.0,False,-0.490196198225021,21.5,False,False
+KWF3,"Motor current axis 1, Min (A)",52448,0,0.0,False,-0.490196198225021,4.03431367874146,False,False
+KWF3,"Motor current axis 1, StdDev (A)",52448,0,0.0,False,0.0,6.1467810985809255,False,False
+KWF3,"Motor current axis 2, Max (A)",52448,0,0.0,False,-1.19209289550781e-07,19.1764698028564,False,False
+KWF3,"Motor current axis 2, Min (A)",52448,0,0.0,False,-1.19209289550781e-07,4.01470565795898,False,False
+KWF3,"Motor current axis 2, StdDev (A)",52448,0,0.0,False,0.0,4.98094676632757,False,False
+KWF3,"Motor current axis 3, Max (A)",52448,0,0.0,False,-0.490196198225021,17.9901962280273,False,False
+KWF3,"Motor current axis 3, Min (A)",52448,0,0.0,False,-0.490196198225021,3.9509801864624,False,False
+KWF3,"Motor current axis 3, StdDev (A)",52448,0,0.0,False,0.0,4.652005079751826,False,False
+KWF3,Rotor speed (RPM),52448,0,0.0,False,0.0,15.34308090806008,False,False
+KWF3,Generator RPM (RPM),52448,0,0.0,False,-294.0997704304757,1817.5756374158368,False,False
+KWF3,Gearbox speed (RPM),52448,0,0.0,False,0.0,1823.102290504857,False,False
+KWF3,"Generator RPM, Max (RPM)",52448,0,0.0,False,-2.16177463531494,1925.67077636719,False,False
+KWF3,"Generator RPM, Min (RPM)",52448,0,0.0,False,-589.246215820313,1795.52879333496,False,False
+KWF3,"Generator RPM, Standard deviation (RPM)",52448,0,0.0,False,0.0665011634867557,858.1873996524082,False,False
+KWF3,"Rotor speed, Max (RPM)",52448,0,0.0,False,0.0,16.4086532592773,False,False
+KWF3,"Rotor speed, Min (RPM)",52448,0,0.0,False,0.0,15.1350617408752,False,False
+KWF3,"Rotor speed, Standard deviation (RPM)",52448,0,0.0,False,0.0,7.1613408287504425,False,False
+KWF3,"Gearbox speed, Max (RPM)",52448,0,0.0,False,0.0,1930.09346008301,False,False
+KWF3,"Gearbox speed, Min (RPM)",52448,0,0.0,False,0.0,1802.07023620605,False,False
+KWF3,"Gearbox speed, StdDev (RPM)",52448,0,0.0,False,0.0,856.9327965014668,False,False
+KWF3,Capacity factor,52448,5,0.009533251982916413,False,0.0,1.205853658536585,False,False
+KWF3,Data Availability,52448,0,0.0,True,1.0,1.0,False,True
+KWF3,Time-based Contractual Avail.,52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Time-based IEC B.2.2 (Users View),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Time-based IEC B.2.3 (Users View),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Time-based IEC B.2.4 (Users View),52448,106,0.20210494203782794,False,0.0,1.0,False,False
+KWF3,Time-based IEC B.3.2 (Manufacturers View),52448,175,0.33366381940207446,False,0.0,1.0,False,False
+KWF3,Production-based IEC B.2.2 (Users View),52448,294,0.560555216595485,False,0.0,1.0,False,False
+KWF3,Production-based IEC B.2.3 (Users View),52448,7341,13.996720561317877,False,0.0,1.0,False,False
+KWF3,Production-based IEC B.3.2 (Manufacturers View),52448,180,0.34319707138499084,False,0.0016828463527877,1.0,False,False
+KWF3,Time-based System Avail.,52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Production-based System Avail.,52448,5,0.009533251982916413,False,0.0,1.0,False,False
+KWF3,Production-based Contractual Avail.,52448,5,0.009533251982916413,False,0.0016828463527877,1.0,False,False
+KWF3,Time-based System Avail. (Planned),52448,0,0.0,True,1.0,1.0,False,True
+KWF3,Production-based System Avail. (virtual),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Time-based Contractual Avail. (Global),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Time-based Contractual Avail. (Custom),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Production-based Contractual Avail. (Global),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Production-based Contractual Avail. (Custom),52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Reactive Energy Export (kvarh),52448,284,0.5414887126296523,False,0.0,1.0,False,False
+KWF3,Reactive Energy Export counter (kvarh),52448,51424,98.04758999389873,False,82842.0,83874.0,False,False
+KWF3,Reactive Energy Import (kvarh),52448,4,0.00762660158633313,False,0.0,134.0,False,False
+KWF3,Reactive Energy Import counter (kvarh),52448,8039,15.327562538133009,False,12151955.0,14096291.0,False,False
+KWF3,Blade angle (pitch position) A (°),52448,43,0.08198596705308114,False,0.0,92.88999938964842,False,False
+KWF3,Blade angle (pitch position) B (°),52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,Blade angle (pitch position) C (°),52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,Yaw bearing angle (°),52448,43,0.08198596705308114,False,0.013679067224416,359.9482104028278,False,False
+KWF3,"Blade angle (pitch position) A, Max (°)",52448,43,0.08198596705308114,False,0.0,92.9300003051758,False,False
+KWF3,"Blade angle (pitch position) A, Min (°)",52448,43,0.08198596705308114,False,0.0,92.8899993896484,False,False
+KWF3,"Blade angle (pitch position) A, Standard deviation (°)",52448,43,0.08198596705308114,False,0.0,44.97013500118135,False,False
+KWF3,"Blade angle (pitch position) B, Max (°)",52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,"Blade angle (pitch position) B, Min (°)",52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,"Blade angle (pitch position) B, Standard deviation (°)",52448,43,0.08198596705308114,False,0.0,44.78503342356685,False,False
+KWF3,"Blade angle (pitch position) C, Max (°)",52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,"Blade angle (pitch position) C, Min (°)",52448,43,0.08198596705308114,False,0.0,92.5,False,False
+KWF3,"Blade angle (pitch position) C, Standard deviation (°)",52448,43,0.08198596705308114,False,0.0,44.84413415544845,False,False
+KWF3,"Yaw bearing angle, Max (°)",52448,43,0.08198596705308114,False,0.116363525390625,359.875549316406,False,False
+KWF3,"Yaw bearing angle, Min (°)",52448,43,0.08198596705308114,False,0.1162726804614067,359.019897460938,False,False
+KWF3,"Yaw bearing angle, StdDev (°)",52448,43,0.08198596705308114,False,0.0,92.80061701956208,False,False
+KWF3,Gear oil inlet pressure (bar),52448,0,0.0,False,-2.636606097221375,414.71915740966807,False,False
+KWF3,Gear oil pump pressure (bar),52448,0,0.0,False,1.1783020790666336,1127.5281921386727,False,False
+KWF3,"Gear oil inlet pressure, Max (bar)",52448,0,0.0,False,-1.98977613449097,509.925994873047,False,False
+KWF3,"Gear oil inlet pressure, Min (bar)",52448,0,0.0,False,-5.40169334411621,405.072113037109,False,False
+KWF3,"Gear oil inlet pressure, StdDev (bar)",52448,0,0.0,False,0.0057545375226217,223.8218794464171,False,False
+KWF3,"Gear oil pump pressure, Max (bar)",52448,0,0.0,False,2.69169187545776,1382.24157714844,False,False
+KWF3,"Gear oil pump pressure, Min (bar)",52448,0,0.0,False,-3.41191673278809,1109.29736328125,False,False
+KWF3,"Gear oil pump pressure, StdDev (bar)",52448,0,0.0,False,0.0199999995529652,559.6382309130007,False,False
+KWF3,Grid frequency (Hz),52448,0,0.0,False,0.0,50.19614963531494,False,False
+KWF3,"Grid frequency, Max (Hz)",52448,0,0.0,False,0.0,50.3353996276855,False,False
+KWF3,"Grid frequency, Min (Hz)",52448,0,0.0,False,0.0,50.1240005493164,False,False
+KWF3,"Grid frequency, Standard deviation (Hz)",52448,0,0.0,False,0.0,21.998670730270685,False,False
+KWF3,Equivalent Full Load Hours (s),52448,5,0.009533251982916413,False,0.0,723.512195121951,False,False
+KWF3,Equivalent Full Load Hours counter (s),52448,52448,100.0,True,,,True,False
+KWF3,Production Factor,52448,0,0.0,False,0.0,5.324460540093179,False,False
+KWF3,Performance Index,52448,1311,2.4996186699206833,False,0.0,5.324460540093179,False,False
+KWF3,Investment Performance Ratio,52448,0,0.0,False,-0.0351814075062037,7.414817064900423,False,False
+KWF3,Operating Performance Ratio,52448,7276,13.872788285539963,False,-0.3431896299154939,4.111781752628518,False,False
+KWF3,Apparent power (kVA),52448,0,0.0,False,0.0,2188.643707275393,False,False
+KWF3,"Apparent power, Max (kVA)",52448,0,0.0,False,0.0,2363.63940429688,False,False
+KWF3,"Apparent power, Min (kVA)",52448,0,0.0,False,0.0,2142.61401367188,False,False
+KWF3,"Apparent power, StdDev (kVA)",52448,0,0.0,False,0.0,1053.1189400952758,False,False
+KWF3,Cable windings from calibration point,52448,43,0.08198596705308114,False,-1.5484754621982548,1.75304365158081,False,False
+KWF3,Metal particle count,52448,0,0.0,False,0.0,1.0,False,False
+KWF3,Metal particle count counter,52448,43,0.08198596705308114,False,436.0,444.0,False,False
+KWF3,"Cable windings from calibration point, Max",52448,43,0.08198596705308114,False,-1.54573166370392,1.75304365158081,False,False
+KWF3,"Cable windings from calibration point, Min",52448,43,0.08198596705308114,False,-1.56097519397736,1.75304365158081,False,False
+KWF3,"Cable windings from calibration point, StdDev",52448,43,0.08198596705308114,False,0.0,0.2580355595515259,False,False
+KWF3,Drive train acceleration (mm/ss),52448,13,0.02478645515558267,False,0.409999996423721,26.3269863128662,False,False
+KWF3,Tower Acceleration X (mm/ss),52448,43,0.08198596705308114,False,1.9351509049534796,268.31200752258303,False,False
+KWF3,Tower Acceleration y (mm/ss),52448,43,0.08198596705308114,False,1.9423803530633443,178.75946598052982,False,False
+KWF3,"Tower Acceleration X, Min (mm/ss)",52448,43,0.08198596705308114,False,0.0988532230257988,146.690139770508,False,False
+KWF3,"Tower Acceleration X, Max (mm/ss)",52448,43,0.08198596705308114,False,3.86639976501465,736.5986328125,False,False
+KWF3,"Tower Acceleration Y, Min (mm/ss)",52448,43,0.08198596705308114,False,0.0954637378454208,67.4450378417969,False,False
+KWF3,"Tower Acceleration Y, Max (mm/ss)",52448,43,0.08198596705308114,False,3.62895250320435,487.881225585938,False,False
+KWF3,"Drive train acceleration, Max (mm/ss)",52448,13,0.02478645515558267,False,0.680000007152557,26.3269863128662,False,False
+KWF3,"Drive train acceleration, Min (mm/ss)",52448,13,0.02478645515558267,False,0.180000007152557,26.3269863128662,False,False
+KWF3,"Drive train acceleration, StdDev (mm/ss)",52448,13,0.02478645515558267,False,0.0,2.3008995056152406,False,False
+KWF3,"Tower Acceleration X, StdDev (mm/ss)",52448,43,0.08198596705308114,False,0.6660031884444009,146.17386635600002,False,False
+KWF3,"Tower Acceleration Y, StdDev (mm/ss)",52448,43,0.08198596705308114,False,0.382383060765912,106.53407999607792,False,False
+KWF4,Wind speed (m/s),52327,0,0.0,False,0.1671189934015275,24.154331159591678,False,False
+KWF4,"Wind speed, Standard deviation (m/s)",52327,0,0.0,False,0.0274396704675536,5.8004012830778855,False,False
+KWF4,"Wind speed, Minimum (m/s)",52327,0,0.0,False,-14.929500579834,17.1270008087158,False,False
+KWF4,"Wind speed, Maximum (m/s)",52327,0,0.0,False,0.265125572681427,30.3881244659424,False,False
+KWF4,Long Term Wind (m/s),52327,0,0.0,False,5.26,7.21,False,False
+KWF4,Wind speed Sensor 1 (m/s),52327,254,0.4854090622432014,False,0.0,24.35317907333374,False,False
+KWF4,"Wind speed Sensor 1, Standard deviation (m/s)",52327,254,0.4854090622432014,False,0.0,6.296617778468217,False,False
+KWF4,"Wind speed Sensor 1, Minimum (m/s)",52327,1049,2.0047012058784186,False,0.0,18.3508968353271,False,False
+KWF4,"Wind speed Sensor 1, Maximum (m/s)",52327,254,0.4854090622432014,False,0.0,33.3806686401367,False,False
+KWF4,Wind speed Sensor 2 (m/s),52327,0,0.0,False,0.1660314701497556,23.34686260223389,False,False
+KWF4,"Wind speed Sensor 2, Standard deviation (m/s)",52327,0,0.0,False,0.0252336788348742,5.701668757182993,False,False
+KWF4,"Wind speed Sensor 2, Minimum (m/s)",52327,0,0.0,False,-14.9283752441406,17.7648754119873,False,False
+KWF4,"Wind speed Sensor 2, Maximum (m/s)",52327,0,0.0,False,0.266250550746918,31.8581256866455,False,False
+KWF4,Density adjusted wind speed (m/s),52327,43,0.08217554990731363,False,0.1675773461868863,24.13787181420448,False,False
+KWF4,Wind direction (°),52327,0,0.0,False,0.0318417825130836,359.98819663163897,False,False
+KWF4,Nacelle position (°),52327,0,0.0,False,0.0271524728863141,359.80516831368817,False,False
+KWF4,"Wind direction, Standard deviation (°)",52327,0,0.0,False,0.7439209230327037,112.57044891976147,False,False
+KWF4,"Wind direction, Minimum (°)",52327,0,0.0,False,0.000640869140625,352.180938720703,False,False
+KWF4,"Wind direction, Maximum (°)",52327,0,0.0,False,11.140960693359377,359.998962402344,False,False
+KWF4,"Nacelle position, Standard deviation (°)",52327,0,0.0,False,0.0,92.78088943117814,False,False
+KWF4,"Nacelle position, Minimum (°)",52327,0,0.0,False,0.0226811934262514,359.5622253417969,False,False
+KWF4,"Nacelle position, Maximum (°)",52327,0,0.0,False,0.6592690944671631,359.9568176269529,False,False
+KWF4,Vane position 1+2 (°),52327,43,0.08217554990731363,False,-177.91169979697787,172.41327972412105,False,False
+KWF4,"Vane position 1+2, Max (°)",52327,43,0.08217554990731363,False,-176.32844543457,179.9443359375,False,False
+KWF4,"Vane position 1+2, Min (°)",52327,43,0.08217554990731363,False,-179.970458984375,168.91943359375,False,False
+KWF4,"Vane position 1+2, StdDev (°)",52327,43,0.08217554990731363,False,0.0592775344848508,170.57570416136664,False,False
+KWF4,Energy Export (kWh),52327,4,0.007644237200680337,False,0.0,412.0,False,False
+KWF4,Energy Export counter (kWh),52327,10509,20.083322185487415,False,32132800.0,36634808.0,False,False
+KWF4,Energy Import (kWh),52327,111,0.21212758231887935,False,0.0,3.0,False,False
+KWF4,Energy Import counter (kWh),52327,48891,93.43360024461559,False,13146.0,16704.0,False,False
+KWF4,Lost Production (Contractual) (kWh),52327,0,0.0,False,0.0,338.1808776048421,False,False
+KWF4,Lost Production (Time-based IEC B.2.2) (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Time-based IEC B.2.3) (kWh),52327,289,0.5522961377491543,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Time-based IEC B.2.4) (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Time-based IEC B.3.2) (kWh),52327,1610,3.0768054732738355,False,0.0,342.82386372375487,False,False
+KWF4,Lost Production (Production-based IEC B.2.2) (kWh),52327,289,0.5522961377491543,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Production-based IEC B.2.3) (kWh),52327,6885,13.15764328167103,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Production-based IEC B.3.2) (kWh),52327,1610,3.0768054732738355,False,0.0,342.82386372375487,False,False
+KWF4,Energy Budget - Default (kWh),52327,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF4,Energy Theoretical (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production to Downtime (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production to Performance (kWh),52327,0,0.0,False,-70.54852453488644,255.7362243012589,False,False
+KWF4,Lost Production Total (kWh),52327,0,0.0,False,-70.54852453488644,342.8653901367187,False,False
+KWF4,Lost Production to Curtailment (Total) (kWh),52327,0,0.0,False,0.0,69.41651894815755,False,False
+KWF4,Lost Production to Curtailment (Grid) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Noise) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Shadow) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Bats) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Birds) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Ice) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Sector Management) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Technical) (kWh),52327,0,0.0,False,0.0,69.41651894815755,False,False
+KWF4,Lost Production to Curtailment (Marketing) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Curtailment (Boat Action) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Compensated Lost Production (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Virtual Production (kWh),52327,0,0.0,False,0.0,412.0,False,False
+KWF4,Lost Production to Curtailment (Grid Constraint) (kWh),52327,0,0.0,True,0.0,0.0,False,True
+KWF4,Lost Production to Downtime and Curtailment Total (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Contractual Global) (kWh),52327,0,0.0,False,0.0,342.8653901367187,False,False
+KWF4,Lost Production (Contractual Custom) (kWh),52327,0,0.0,False,0.0,341.66666666666663,False,False
+KWF4,Power (kW),52327,0,0.0,False,-15.916468667984017,2076.390887451173,False,False
+KWF4,Potential power default PC (kW),52327,0,0.0,False,0.0,2050.0,False,False
+KWF4,"Power, Standard deviation (kW)",52327,0,0.0,False,0.0,982.58256547419,False,False
+KWF4,"Power, Minimum (kW)",52327,0,0.0,False,-71.5890274047852,2046.13269042969,False,False
+KWF4,"Power, Maximum (kW)",52327,0,0.0,False,-13.5189905166626,2200.32373046875,False,False
+KWF4,Potential power learned PC (kW),52327,0,0.0,False,0.0,2057.1923408203124,False,False
+KWF4,Potential power reference turbines (kW),52327,243,0.4643874099413305,False,0.0,2062.068607788088,False,False
+KWF4,Cascading potential power (kW),52327,0,0.0,False,0.0,2057.1923408203124,False,False
+KWF4,Cascading potential power for performance (kW),52327,0,0.0,False,0.0,2057.1923408203124,False,False
+KWF4,Potential power met mast anemometer (kW),52327,52327,100.0,True,,,True,False
+KWF4,Potential power primary reference turbines (kW),52327,818,1.5632465075391289,False,0.0,2062.6487695312526,False,False
+KWF4,Potential power secondary reference turbines (kW),52327,600,1.1466355801020505,False,0.0,2065.2548767089866,False,False
+KWF4,Turbine Power setpoint (kW),52327,43,0.08217554990731363,False,412.0,2060.0,False,False
+KWF4,Potential power estimated (kW),52327,52327,100.0,True,,,True,False
+KWF4,Potential power MPC (kW),52327,0,0.0,False,0.0,2050.0,False,False
+KWF4,Potential power met mast anemometer MPC (kW),52327,52327,100.0,True,,,True,False
+KWF4,Potential Power Energy Budget (kW),52327,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF4,"Turbine Power setpoint, Max (kW)",52327,43,0.08217554990731363,False,412.0,2060.0,False,False
+KWF4,"Turbine Power setpoint, Min (kW)",52327,43,0.08217554990731363,False,360.0,2060.0,False,False
+KWF4,"Turbine Power setpoint, StdDev (kW)",52327,43,0.08217554990731363,False,0.0,824.0,False,False
+KWF4,Available Capacity for Production (kW),52327,0,0.0,False,0.0,2050.0,False,False
+KWF4,Available Capacity for Production (Planned) (kW),52327,0,0.0,True,2050.0,2050.0,False,True
+KWF4,Manufacturer Potential Power (SCADA) (kW),52327,52327,100.0,True,,,True,False
+KWF4,Power factor (cosphi),52327,0,0.0,False,-0.9999866306781768,1.0,False,False
+KWF4,"Power factor (cosphi), Max",52327,0,0.0,False,-1.0,1.0,False,False
+KWF4,"Power factor (cosphi), Min",52327,0,0.0,False,-1.0,1.0,False,False
+KWF4,"Power factor (cosphi), Standard deviation",52327,0,0.0,False,0.0,0.9999977111838412,False,False
+KWF4,Reactive power (kvar),52327,0,0.0,False,-607.1686798095703,5.049338878691219,False,False
+KWF4,"Reactive power, Max (kvar)",52327,0,0.0,False,-591.773742675781,252.610000610352,False,False
+KWF4,"Reactive power, Min (kvar)",52327,0,0.0,False,-837.305541992188,0.0,False,False
+KWF4,"Reactive power, Standard deviation (kvar)",52327,0,0.0,False,0.0,287.5380027011082,False,False
+KWF4,Front bearing temperature (°C),52327,43,0.08217554990731363,False,8.224999761581422,81.46250038146972,False,False
+KWF4,Rear bearing temperature (°C),52327,43,0.08217554990731363,False,8.64500026702881,81.45749893188477,False,False
+KWF4,Stator temperature 1 (°C),52327,0,0.0,False,5.202499818801881,95.33999977111816,False,False
+KWF4,Nacelle ambient temperature (°C),52327,43,0.08217554990731363,False,-4.8000001907348615,39.32749938964844,False,False
+KWF4,Nacelle temperature (°C),52327,43,0.08217554990731363,False,0.3000000089406967,42.50499992370605,False,False
+KWF4,Transformer temperature (°C),52327,43,0.08217554990731363,False,20.264999961853025,109.3724990844726,False,False
+KWF4,Gear oil inlet temperature (°C),52327,0,0.0,False,3.7975000143051143,60.00750007629396,False,False
+KWF4,Generator bearing rear temperature (°C),52327,0,0.0,False,1.89999997615814,71.89750175476074,False,False
+KWF4,Generator bearing front temperature (°C),52327,0,0.0,False,5.0,66.1625,False,False
+KWF4,Gear oil temperature (°C),52327,0,0.0,False,9.859999847412109,64.36749992370605,False,False
+KWF4,Temp. top box (°C),52327,0,0.0,False,9.199999809265138,44.0999984741211,False,False
+KWF4,Hub temperature (°C),52327,0,0.0,False,5.809500002861023,40.0,False,False
+KWF4,Ambient temperature (converter) (°C),52327,0,0.0,False,-2.334999990463257,43.14249992370607,False,False
+KWF4,Rotor bearing temp (°C),52327,0,0.0,False,0.1050000015646217,45.48250026702881,False,False
+KWF4,Transformer cell temperature (°C),52327,43,0.08217554990731363,False,-0.3700000084936616,46.77894712749281,False,False
+KWF4,"Front bearing temperature, Max (°C)",52327,43,0.08217554990731363,False,8.39999961853027,81.5500030517578,False,False
+KWF4,"Front bearing temperature, Min (°C)",52327,43,0.08217554990731363,False,8.19999980926514,81.1999969482422,False,False
+KWF4,"Front bearing temperature, Standard deviation (°C)",52327,43,0.08217554990731363,False,0.0,13.120141537914389,False,False
+KWF4,"Rear bearing temperature, Max (°C)",52327,43,0.08217554990731363,False,8.89999961853027,81.6999969482422,False,False
+KWF4,"Rear bearing temperature, Min (°C)",52327,43,0.08217554990731363,False,8.5,81.0999984741211,False,False
+KWF4,"Rear bearing temperature, Standard deviation (°C)",52327,43,0.08217554990731363,False,0.0,10.389069999137917,False,False
+KWF4,Temperature motor axis 1 (°C),52327,0,0.0,False,8.213000011444091,81.0,False,False
+KWF4,Temperature motor axis 2 (°C),52327,0,0.0,False,9.0,81.79449996948242,False,False
+KWF4,Temperature motor axis 3 (°C),52327,0,0.0,False,7.0,82.84210526315789,False,False
+KWF4,CPU temperature (°C),52327,0,0.0,False,30.735294117647054,69.4,False,False
+KWF4,"Nacelle temperature, Max (°C)",52327,43,0.08217554990731363,False,0.5,42.5999984741211,False,False
+KWF4,"Nacelle temperature, Min (°C)",52327,43,0.08217554990731363,False,0.200000002980232,42.4000015258789,False,False
+KWF4,"Generator bearing front temperature, Max (°C)",52327,0,0.0,False,5.0,66.6999969482422,False,False
+KWF4,"Generator bearing front temperature, Min (°C)",52327,0,0.0,False,5.0,65.3500061035156,False,False
+KWF4,"Generator bearing rear temperature, Max (°C)",52327,0,0.0,False,1.89999997615814,72.0,False,False
+KWF4,"Generator bearing rear temperature, Min (°C)",52327,0,0.0,False,1.89999997615814,71.8000030517578,False,False
+KWF4,"Generator bearing front temperature, Std (°C)",52327,0,0.0,False,0.0,3.2923164256833832,False,False
+KWF4,"Generator bearing rear temperature, Std (°C)",52327,0,0.0,False,0.0,3.2870806491987654,False,False
+KWF4,"Nacelle temperature, Standard deviation (°C)",52327,43,0.08217554990731363,False,0.0,2.182338044142817,False,False
+KWF4,"Gear oil temperature, Max (°C)",52327,0,0.0,False,10.0,64.5999984741211,False,False
+KWF4,"Gear oil temperature, Min (°C)",52327,0,0.0,False,9.60000038146973,64.0,False,False
+KWF4,"Gear oil temperature, Standard deviation (°C)",52327,0,0.0,False,0.0,2.762784238390057,False,False
+KWF4,"Hub temperature, min (°C)",52327,0,0.0,False,5.0,40.0,False,False
+KWF4,"Hub temperature, max (°C)",52327,0,0.0,False,6.0,40.0,False,False
+KWF4,"Hub temperature, standard deviation (°C)",52327,0,0.0,False,0.0,0.99498743710662,False,False
+KWF4,"Ambient temperature (converter), Max (°C)",52327,0,0.0,False,-2.20000004768372,43.4500007629395,False,False
+KWF4,"Ambient temperature (converter), Min (°C)",52327,0,0.0,False,-2.5,42.7999992370605,False,False
+KWF4,"Ambient temperature (converter), StdDev (°C)",52327,0,0.0,False,0.0,0.5356012933366141,False,False
+KWF4,"Gear oil inlet temperature, Max (°C)",52327,0,0.0,False,4.5,60.4500007629395,False,False
+KWF4,"Gear oil inlet temperature, Min (°C)",52327,0,0.0,False,2.70000004768372,59.75,False,False
+KWF4,"Gear oil inlet temperature, StdDev (°C)",52327,0,0.0,False,0.0,13.420962191055033,False,False
+KWF4,"Nacelle ambient temperature, Max (°C)",52327,43,0.08217554990731363,False,-4.80000019073486,39.5999984741211,False,False
+KWF4,"Nacelle ambient temperature, Min (°C)",52327,43,0.08217554990731363,False,-4.80000019073486,39.0,False,False
+KWF4,"Nacelle ambient temperature, StdDev (°C)",52327,43,0.08217554990731363,False,0.0,1.5546120873453528,False,False
+KWF4,"Rotor bearing temp, Max (°C)",52327,0,0.0,False,0.200000002980232,45.5,False,False
+KWF4,"Rotor bearing temp, Min (°C)",52327,0,0.0,False,0.100000001490116,45.4000015258789,False,False
+KWF4,"Rotor bearing temp, StdDev (°C)",52327,0,0.0,False,0.0,0.3893824771023569,False,False
+KWF4,"CPU temperature, Max (°C)",52327,0,0.0,False,34.0,70.0,False,False
+KWF4,"CPU temperature, Min (°C)",52327,0,0.0,False,27.0,69.0,False,False
+KWF4,"CPU temperature, StdDev (°C)",52327,0,0.0,False,0.0,2.243406332414692,False,False
+KWF4,"Transformer cell temperature, Max (°C)",52327,43,0.08217554990731363,False,-0.25,47.2000007629395,False,False
+KWF4,"Transformer cell temperature, Min (°C)",52327,43,0.08217554990731363,False,-0.5,46.5,False,False
+KWF4,"Transformer cell temperature, StdDev (°C)",52327,43,0.08217554990731363,False,0.0158112978279977,1.355599613471,False,False
+KWF4,"Transformer temperature, Max (°C)",52327,43,0.08217554990731363,False,20.3499984741211,110.150001525879,False,False
+KWF4,"Transformer temperature, Min (°C)",52327,43,0.08217554990731363,False,20.1500015258789,108.849998474121,False,False
+KWF4,"Transformer temperature, StdDev (°C)",52327,43,0.08217554990731363,False,0.0178539797071772,3.042310264020713,False,False
+KWF4,"Stator temperature 1, Max (°C)",52327,0,0.0,False,5.25,96.3000030517578,False,False
+KWF4,"Stator temperature 1, Min (°C)",52327,0,0.0,False,5.19999980926514,94.4000015258789,False,False
+KWF4,"Stator temperature 1, StdDev (°C)",52327,0,0.0,False,0.0,3.037861089774326,False,False
+KWF4,"Temp. top box, Max (°C)",52327,0,0.0,False,9.19999980926514,44.0999984741211,False,False
+KWF4,"Temp. top box, Min (°C)",52327,0,0.0,False,8.89999961853027,44.0999984741211,False,False
+KWF4,"Temp. top box, StdDev (°C)",52327,0,0.0,False,0.0,2.2121031797774795,False,False
+KWF4,"Temperature motor axis 1, Max (°C)",52327,0,0.0,False,9.0,84.0,False,False
+KWF4,"Temperature motor axis 1, Min (°C)",52327,0,0.0,False,8.0,81.0,False,False
+KWF4,"Temperature motor axis 1, StdDev (°C)",52327,0,0.0,False,0.0,11.637332168499787,False,False
+KWF4,"Temperature motor axis 2, Max (°C)",52327,0,0.0,False,9.0,85.0,False,False
+KWF4,"Temperature motor axis 2, Min (°C)",52327,0,0.0,False,9.0,81.0,False,False
+KWF4,"Temperature motor axis 2, StdDev (°C)",52327,0,0.0,False,0.0,11.679541894029292,False,False
+KWF4,"Temperature motor axis 3, Max (°C)",52327,0,0.0,False,7.0,86.0,False,False
+KWF4,"Temperature motor axis 3, Min (°C)",52327,0,0.0,False,7.0,82.0,False,False
+KWF4,"Temperature motor axis 3, StdDev (°C)",52327,0,0.0,False,0.0,11.968493838200173,False,False
+KWF4,Voltage L1 / U (V),52327,43,0.08217554990731363,False,0.0,413.907698059082,False,False
+KWF4,Voltage L2 / V (V),52327,43,0.08217554990731363,False,0.0,413.9934936523438,False,False
+KWF4,Voltage L3 / W (V),52327,43,0.08217554990731363,False,0.0,413.9434967041017,False,False
+KWF4,Grid voltage (V),52327,0,0.0,False,0.0,710.710021972656,False,False
+KWF4,"Grid voltage, Max (V)",52327,0,0.0,False,0.0,718.090026855469,False,False
+KWF4,"Grid voltage, Min (V)",52327,0,0.0,False,0.0,709.989990234375,False,False
+KWF4,"Grid voltage, Standard deviation (V)",52327,0,0.0,False,0.0,203.28682435954389,False,False
+KWF4,"Voltage L1 / U, Min (V)",52327,43,0.08217554990731363,False,0.0,412.636993408203,False,False
+KWF4,"Voltage L1 / U, Max (V)",52327,43,0.08217554990731363,False,0.0,416.147003173828,False,False
+KWF4,"Voltage L1 / U, Standard deviation (V)",52327,43,0.08217554990731363,False,0.0,202.8316254396532,False,False
+KWF4,"Voltage L2 / V, Min (V)",52327,43,0.08217554990731363,False,0.0,412.664001464844,False,False
+KWF4,"Voltage L2 / V, Max (V)",52327,43,0.08217554990731363,False,0.0,419.221008300781,False,False
+KWF4,"Voltage L2 / V, Standard deviation (V)",52327,43,0.08217554990731363,False,0.0,203.44584939940196,False,False
+KWF4,"Voltage L3 / W, Min (V)",52327,43,0.08217554990731363,False,0.0,412.502014160156,False,False
+KWF4,"Voltage L3 / W, Max (V)",52327,43,0.08217554990731363,False,0.0,416.539001464844,False,False
+KWF4,"Voltage L3 / W, Standard deviation (V)",52327,43,0.08217554990731363,False,0.0,203.57306533720964,False,False
+KWF4,Current L1 / U (A),52327,43,0.08217554990731363,False,3.319999933242795,1803.047747802735,False,False
+KWF4,Current L2 / V (A),52327,43,0.08217554990731363,False,0.0,1807.498742675782,False,False
+KWF4,Current L3 / W (A),52327,43,0.08217554990731363,False,2.517499923706055,1796.8577392578145,False,False
+KWF4,Grid current (A),52327,0,0.0,False,2.069166541099545,1803.9558410644545,False,False
+KWF4,Motor current axis 1 (A),52327,0,0.0,False,-0.4901961982250212,5.550735214352607,False,False
+KWF4,Motor current axis 2 (A),52327,0,0.0,False,-1.1920928955078105e-07,6.812254786491396,False,False
+KWF4,Motor current axis 3 (A),52327,0,0.0,False,-0.0102942369878291,7.195097851753234,False,False
+KWF4,"Current L1 / U, min (A)",52327,43,0.08217554990731363,False,3.08999991416931,1773.55004882813,False,False
+KWF4,"Current L1 / U, max (A)",52327,43,0.08217554990731363,False,3.54999995231628,1908.9599609375,False,False
+KWF4,"Current L1 / U, StdDev (A)",52327,43,0.08217554990731363,False,0.0608769734907318,858.8410084493308,False,False
+KWF4,"Current L2 / V, max (A)",52327,43,0.08217554990731363,False,0.0,1909.15002441406,False,False
+KWF4,"Current L3 / W, max (A)",52327,43,0.08217554990731363,False,2.83999991416931,1900.2099609375,False,False
+KWF4,"Current L2 / V, min (A)",52327,43,0.08217554990731363,False,0.0,1778.66003417969,False,False
+KWF4,"Current L2 / V, StdDev (A)",52327,43,0.08217554990731363,False,0.0,865.5507714951998,False,False
+KWF4,"Current L3 / W, min (A)",52327,43,0.08217554990731363,False,2.1949999332428,1767.17504882813,False,False
+KWF4,"Current L3 / W, StdDev (A)",52327,43,0.08217554990731363,False,0.0754120162364692,855.9864358709204,False,False
+KWF4,"Grid current, Max (A)",52327,0,0.0,False,2.11333322525024,1912.50329589844,False,False
+KWF4,"Grid current, Min (A)",52327,0,0.0,False,1.89999997615814,1778.79833984375,False,False
+KWF4,"Grid current, StdDev (A)",52327,0,0.0,False,0.0441666841506951,861.2585048049984,False,False
+KWF4,"Motor current axis 1, Max (A)",52327,0,0.0,False,-0.490196198225021,22.0490188598633,False,False
+KWF4,"Motor current axis 1, Min (A)",52327,0,0.0,False,-0.490196198225021,2.60784292221069,False,False
+KWF4,"Motor current axis 1, StdDev (A)",52327,0,0.0,False,0.0,6.457679314025143,False,False
+KWF4,"Motor current axis 2, Max (A)",52327,0,0.0,False,-1.19209289550781e-07,22.2843132019043,False,False
+KWF4,"Motor current axis 2, Min (A)",52327,0,0.0,False,-1.19209289550781e-07,3.30392146110535,False,False
+KWF4,"Motor current axis 2, StdDev (A)",52327,0,0.0,False,0.0,6.015966218998311,False,False
+KWF4,"Motor current axis 3, Max (A)",52327,0,0.0,False,-1.19209289550781e-07,19.514705657959,False,False
+KWF4,"Motor current axis 3, Min (A)",52327,0,0.0,False,-0.117647178471088,2.93137240409851,False,False
+KWF4,"Motor current axis 3, StdDev (A)",52327,0,0.0,False,0.0,5.051270218513317,False,False
+KWF4,Rotor speed (RPM),52327,0,0.0,False,0.0,15.305653810501104,False,False
+KWF4,Generator RPM (RPM),52327,0,0.0,False,-194.7012418136002,1807.9020188984132,False,False
+KWF4,Gearbox speed (RPM),52327,0,0.0,False,0.0,1817.3725433349623,False,False
+KWF4,"Generator RPM, Max (RPM)",52327,0,0.0,False,-3.20912875235081,1922.73422241211,False,False
+KWF4,"Generator RPM, Min (RPM)",52327,0,0.0,False,-581.563110351563,1793.79856109619,False,False
+KWF4,"Generator RPM, Standard deviation (RPM)",52327,0,0.0,False,0.0583714971303527,873.5465265311502,False,False
+KWF4,"Rotor speed, Max (RPM)",52327,0,0.0,False,0.0,16.1899030208588,False,False
+KWF4,"Rotor speed, Min (RPM)",52327,0,0.0,False,0.0,15.1350617408752,False,False
+KWF4,"Rotor speed, Standard deviation (RPM)",52327,0,0.0,False,0.0,7.395392961182736,False,False
+KWF4,"Gearbox speed, Max (RPM)",52327,0,0.0,False,0.0,1929.68055725098,False,False
+KWF4,"Gearbox speed, Min (RPM)",52327,0,0.0,False,0.0,1798.99520874023,False,False
+KWF4,"Gearbox speed, StdDev (RPM)",52327,0,0.0,False,0.0,874.9880842454688,False,False
+KWF4,Capacity factor,52327,4,0.007644237200680337,False,0.0,1.205853658536585,False,False
+KWF4,Data Availability,52327,0,0.0,True,1.0,1.0,False,True
+KWF4,Time-based Contractual Avail.,52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based IEC B.2.2 (Users View),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based IEC B.2.3 (Users View),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based IEC B.2.4 (Users View),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based IEC B.3.2 (Manufacturers View),52327,1610,3.0768054732738355,False,0.0,1.0,False,False
+KWF4,Production-based IEC B.2.2 (Users View),52327,293,0.5599403749498347,False,0.0,1.0,False,False
+KWF4,Production-based IEC B.2.3 (Users View),52327,6888,13.163376459571541,False,0.0,1.0,False,False
+KWF4,Production-based IEC B.3.2 (Manufacturers View),52327,1614,3.084449710474516,False,0.0,1.0,False,False
+KWF4,Time-based System Avail.,52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Production-based System Avail.,52327,4,0.007644237200680337,False,0.0,1.0,False,False
+KWF4,Production-based Contractual Avail.,52327,4,0.007644237200680337,False,0.0,1.0,False,False
+KWF4,Time-based System Avail. (Planned),52327,0,0.0,True,1.0,1.0,False,True
+KWF4,Production-based System Avail. (virtual),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based Contractual Avail. (Global),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Time-based Contractual Avail. (Custom),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Production-based Contractual Avail. (Global),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Production-based Contractual Avail. (Custom),52327,0,0.0,False,0.0,1.0,False,False
+KWF4,Reactive Energy Export (kvarh),52327,411,0.7854453723699046,False,0.0,1.0,False,False
+KWF4,Reactive Energy Export counter (kvarh),52327,50907,97.28629579375848,False,147953.0,149387.0,False,False
+KWF4,Reactive Energy Import (kvarh),52327,5,0.009555296500850421,False,0.0,121.0,False,False
+KWF4,Reactive Energy Import counter (kvarh),52327,11627,22.21988648307757,False,9639253.0,10926168.0,False,False
+KWF4,Blade angle (pitch position) A (°),52327,43,0.08217554990731363,False,0.0,92.48999786376952,False,False
+KWF4,Blade angle (pitch position) B (°),52327,43,0.08217554990731363,False,0.0,92.5699996948242,False,False
+KWF4,Blade angle (pitch position) C (°),52327,43,0.08217554990731363,False,0.0,92.48999786376952,False,False
+KWF4,Yaw bearing angle (°),52327,43,0.08217554990731363,False,0.0277412249192252,359.78212964928696,False,False
+KWF4,"Blade angle (pitch position) A, Max (°)",52327,43,0.08217554990731363,False,0.0,92.5100021362305,False,False
+KWF4,"Blade angle (pitch position) A, Min (°)",52327,43,0.08217554990731363,False,0.0,92.4899978637695,False,False
+KWF4,"Blade angle (pitch position) A, Standard deviation (°)",52327,43,0.08217554990731363,False,0.0,44.783984182345804,False,False
+KWF4,"Blade angle (pitch position) B, Max (°)",52327,43,0.08217554990731363,False,0.0,92.620002746582,False,False
+KWF4,"Blade angle (pitch position) B, Min (°)",52327,43,0.08217554990731363,False,0.0,92.5699996948242,False,False
+KWF4,"Blade angle (pitch position) B, Standard deviation (°)",52327,43,0.08217554990731363,False,0.0,44.87962619982102,False,False
+KWF4,"Blade angle (pitch position) C, Max (°)",52327,43,0.08217554990731363,False,0.0,92.4899978637695,False,False
+KWF4,"Blade angle (pitch position) C, Min (°)",52327,43,0.08217554990731363,False,0.0,92.4899978637695,False,False
+KWF4,"Blade angle (pitch position) C, Standard deviation (°)",52327,43,0.08217554990731363,False,0.0,44.76844018692781,False,False
+KWF4,"Yaw bearing angle, Max (°)",52327,43,0.08217554990731363,False,0.6592690944671631,359.836608886719,False,False
+KWF4,"Yaw bearing angle, Min (°)",52327,43,0.08217554990731363,False,0.1329605281352996,359.5622253417969,False,False
+KWF4,"Yaw bearing angle, StdDev (°)",52327,43,0.08217554990731363,False,0.0,92.67093877289848,False,False
+KWF4,Gear oil inlet pressure (bar),52327,0,0.0,False,-0.6775001883506775,408.9768798828125,False,False
+KWF4,Gear oil pump pressure (bar),52327,0,0.0,False,3.19000005722046,1237.6881874486037,False,False
+KWF4,"Gear oil inlet pressure, Max (bar)",52327,0,0.0,False,-0.524909973144531,471.1162109375,False,False
+KWF4,"Gear oil inlet pressure, Min (bar)",52327,0,0.0,False,-2.97856068611145,387.609680175781,False,False
+KWF4,"Gear oil inlet pressure, StdDev (bar)",52327,0,0.0,False,0.0099999997764825,206.62633811432823,False,False
+KWF4,"Gear oil pump pressure, Max (bar)",52327,0,0.0,False,3.35999989509583,1346.92309570313,False,False
+KWF4,"Gear oil pump pressure, Min (bar)",52327,0,0.0,False,-0.0854501500725746,1224.17639160156,False,False
+KWF4,"Gear oil pump pressure, StdDev (bar)",52327,0,0.0,False,0.018310546875,570.4152408585096,False,False
+KWF4,Grid frequency (Hz),52327,0,0.0,False,0.0,50.19610519409179,False,False
+KWF4,"Grid frequency, Max (Hz)",52327,0,0.0,False,0.0,50.3361015319824,False,False
+KWF4,"Grid frequency, Min (Hz)",52327,0,0.0,False,0.0,50.1317024230957,False,False
+KWF4,"Grid frequency, Standard deviation (Hz)",52327,0,0.0,False,0.0,24.951836228374333,False,False
+KWF4,Equivalent Full Load Hours (s),52327,4,0.007644237200680337,False,0.0,723.512195121951,False,False
+KWF4,Equivalent Full Load Hours counter (s),52327,52327,100.0,True,,,True,False
+KWF4,Production Factor,52327,0,0.0,False,0.0,3.188941600102467,False,False
+KWF4,Performance Index,52327,5717,10.925526019072372,False,0.0,3.188941600102467,False,False
+KWF4,Investment Performance Ratio,52327,0,0.0,False,-0.0379055465284906,7.134886724850595,False,False
+KWF4,Operating Performance Ratio,52327,6987,13.352571330288379,False,-0.3073415416559004,3.045782549991136,False,False
+KWF4,Apparent power (kVA),52327,0,0.0,False,0.0,2156.4576737253306,False,False
+KWF4,"Apparent power, Max (kVA)",52327,0,0.0,False,0.0,2274.279296875,False,False
+KWF4,"Apparent power, Min (kVA)",52327,0,0.0,False,0.0,2120.2294921875,False,False
+KWF4,"Apparent power, StdDev (kVA)",52327,0,0.0,False,0.0,1027.1499727447706,False,False
+KWF4,Cable windings from calibration point,52327,43,0.08217554990731363,False,-1.7012156248092698,1.7073130607605005,False,False
+KWF4,Metal particle count,52327,0,0.0,False,0.0,8.0,False,False
+KWF4,Metal particle count counter,52327,43,0.08217554990731363,False,553.0,716.0,False,False
+KWF4,"Cable windings from calibration point, Max",52327,43,0.08217554990731363,False,-1.70121562480927,1.7073130607605,False,False
+KWF4,"Cable windings from calibration point, Min",52327,43,0.08217554990731363,False,-1.7073130607605,1.7073130607605,False,False
+KWF4,"Cable windings from calibration point, StdDev",52327,43,0.08217554990731363,False,0.0,0.2591474963122646,False,False
+KWF4,Drive train acceleration (mm/ss),52327,14,0.02675483020238118,False,0.46000000834465,26.9477920532227,False,False
+KWF4,Tower Acceleration X (mm/ss),52327,43,0.08217554990731363,False,2.950719945571002,165.04558753967288,False,False
+KWF4,Tower Acceleration y (mm/ss),52327,43,0.08217554990731363,False,3.3220390975475325,225.78251783847813,False,False
+KWF4,"Tower Acceleration X, Min (mm/ss)",52327,43,0.08217554990731363,False,0.913744509220123,83.9355621337891,False,False
+KWF4,"Tower Acceleration X, Max (mm/ss)",52327,43,0.08217554990731363,False,5.31241464614868,551.221313476563,False,False
+KWF4,"Tower Acceleration Y, Min (mm/ss)",52327,43,0.08217554990731363,False,0.722888588905334,56.7346458435059,False,False
+KWF4,"Tower Acceleration Y, Max (mm/ss)",52327,43,0.08217554990731363,False,5.27817344665527,653.377563476563,False,False
+KWF4,"Drive train acceleration, Max (mm/ss)",52327,14,0.02675483020238118,False,0.930000007152557,26.9477920532227,False,False
+KWF4,"Drive train acceleration, Min (mm/ss)",52327,14,0.02675483020238118,False,0.209999993443489,26.9477920532227,False,False
+KWF4,"Drive train acceleration, StdDev (mm/ss)",52327,14,0.02675483020238118,False,0.0,0.94589710235595,False,False
+KWF4,"Tower Acceleration X, StdDev (mm/ss)",52327,43,0.08217554990731363,False,0.1919786930084197,118.9346516784292,False,False
+KWF4,"Tower Acceleration Y, StdDev (mm/ss)",52327,43,0.08217554990731363,False,0.6640786639890894,186.93132713613343,False,False
+KWF5,Wind speed (m/s),52449,0,0.0,False,0.0,22.57589988708496,False,False
+KWF5,"Wind speed, Standard deviation (m/s)",52449,0,0.0,False,0.0,7.900364391375227,False,False
+KWF5,"Wind speed, Minimum (m/s)",52449,0,0.0,False,-14.9486246109009,17.3823757171631,False,False
+KWF5,"Wind speed, Maximum (m/s)",52449,0,0.0,False,0.0,29.5756950378418,False,False
+KWF5,Long Term Wind (m/s),52449,0,0.0,False,5.26,7.21,False,False
+KWF5,Wind speed Sensor 1 (m/s),52449,372,0.7092604244122862,False,0.0,24.04550409317018,False,False
+KWF5,"Wind speed Sensor 1, Standard deviation (m/s)",52449,372,0.7092604244122862,False,0.0,5.851720067281399,False,False
+KWF5,"Wind speed Sensor 1, Minimum (m/s)",52449,1199,2.2860302388987397,False,0.0,17.2431621551514,False,False
+KWF5,"Wind speed Sensor 1, Maximum (m/s)",52449,372,0.7092604244122862,False,0.0,31.0093860626221,False,False
+KWF5,Wind speed Sensor 2 (m/s),52449,0,0.0,False,-7.416225290298463,22.99733424186708,False,False
+KWF5,"Wind speed Sensor 2, Standard deviation (m/s)",52449,0,0.0,False,0.0309798981961651,15.155273191404593,False,False
+KWF5,"Wind speed Sensor 2, Minimum (m/s)",52449,0,0.0,False,-14.9475002288818,16.5073223114014,False,False
+KWF5,"Wind speed Sensor 2, Maximum (m/s)",52449,0,0.0,False,0.268125385046005,31.0213413238525,False,False
+KWF5,Density adjusted wind speed (m/s),52449,43,0.08198440389711911,False,0.0,22.56223784979679,False,False
+KWF5,Wind direction (°),52449,0,0.0,False,0.0066092440425791,359.99929279929506,False,False
+KWF5,Nacelle position (°),52449,0,0.0,False,0.0064190446449288,359.9999694824219,False,False
+KWF5,"Wind direction, Standard deviation (°)",52449,0,0.0,False,0.0,104.18379067663652,False,False
+KWF5,"Wind direction, Minimum (°)",52449,0,0.0,False,0.0001192092895507,349.377685546875,False,False
+KWF5,"Wind direction, Maximum (°)",52449,0,0.0,False,9.727081298828123,359.999542236328,False,False
+KWF5,"Nacelle position, Standard deviation (°)",52449,0,0.0,False,0.0,92.3251360396814,False,False
+KWF5,"Nacelle position, Minimum (°)",52449,0,0.0,False,0.0,359.9999694824219,False,False
+KWF5,"Nacelle position, Maximum (°)",52449,0,0.0,False,0.830078125,359.9999694824219,False,False
+KWF5,Vane position 1+2 (°),52449,43,0.08198440389711911,False,-177.73791656494151,173.8482009887696,False,False
+KWF5,"Vane position 1+2, Max (°)",52449,43,0.08198440389711911,False,-176.022201538086,179.989700317383,False,False
+KWF5,"Vane position 1+2, Min (°)",52449,43,0.08198440389711911,False,-179.994491577148,169.707717895508,False,False
+KWF5,"Vane position 1+2, StdDev (°)",52449,43,0.08198440389711911,False,0.0,173.89481921414657,False,False
+KWF5,Energy Export (kWh),52449,3,0.005719842132357147,False,0.0,412.0,False,False
+KWF5,Energy Export counter (kWh),52449,6610,12.602718831626914,False,29048944.0,33944791.0,False,False
+KWF5,Energy Import (kWh),52449,105,0.20019447463250015,False,0.0,3.0,False,False
+KWF5,Energy Import counter (kWh),52449,49081,93.57852389940705,False,17723.0,21250.0,False,False
+KWF5,Lost Production (Contractual) (kWh),52449,0,0.0,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Time-based IEC B.2.2) (kWh),52449,0,0.0,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Time-based IEC B.2.3) (kWh),52449,289,0.5510114587504051,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Time-based IEC B.2.4) (kWh),52449,131,0.24976643977959542,False,0.0,341.5691218681335,False,False
+KWF5,Lost Production (Time-based IEC B.3.2) (kWh),52449,137,0.2612061240443097,False,0.0,341.42,False,False
+KWF5,Lost Production (Production-based IEC B.2.2) (kWh),52449,289,0.5510114587504051,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Production-based IEC B.2.3) (kWh),52449,7391,14.091784400083892,False,0.0,341.5691218681335,False,False
+KWF5,Lost Production (Production-based IEC B.3.2) (kWh),52449,137,0.2612061240443097,False,0.0,341.42,False,False
+KWF5,Energy Budget - Default (kWh),52449,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF5,Energy Theoretical (kWh),52449,0,0.0,False,0.0,342.2698145777384,False,False
+KWF5,Lost Production to Downtime (kWh),52449,0,0.0,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production to Performance (kWh),52449,0,0.0,False,-149.09558942531297,179.55941255966832,False,False
+KWF5,Lost Production Total (kWh),52449,0,0.0,False,-149.09558942531297,341.7538329005241,False,False
+KWF5,Lost Production to Curtailment (Total) (kWh),52449,0,0.0,False,0.0,72.23248898983002,False,False
+KWF5,Lost Production to Curtailment (Grid) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Noise) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Shadow) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Bats) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Birds) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Ice) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Sector Management) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Technical) (kWh),52449,0,0.0,False,0.0,72.23248898983002,False,False
+KWF5,Lost Production to Curtailment (Marketing) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Curtailment (Boat Action) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Compensated Lost Production (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Virtual Production (kWh),52449,0,0.0,False,0.0,412.0,False,False
+KWF5,Lost Production to Curtailment (Grid Constraint) (kWh),52449,0,0.0,True,0.0,0.0,False,True
+KWF5,Lost Production to Downtime and Curtailment Total (kWh),52449,0,0.0,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Contractual Global) (kWh),52449,0,0.0,False,0.0,341.7538329005241,False,False
+KWF5,Lost Production (Contractual Custom) (kWh),52449,0,0.0,False,0.0,341.66666666666663,False,False
+KWF5,Power (kW),52449,0,0.0,False,-15.188184595108035,2078.4380371093766,False,False
+KWF5,Potential power default PC (kW),52449,0,0.0,False,0.0,2050.0,False,False
+KWF5,"Power, Standard deviation (kW)",52449,0,0.0,False,0.0,1012.2886568122418,False,False
+KWF5,"Power, Minimum (kW)",52449,0,0.0,False,-65.3573226928711,2048.30932617188,False,False
+KWF5,"Power, Maximum (kW)",52449,0,0.0,False,-11.0434503555298,2250.6787109375,False,False
+KWF5,Potential power learned PC (kW),52449,0,0.0,False,0.0,2053.6188874664304,False,False
+KWF5,Potential power reference turbines (kW),52449,243,0.4633072127209289,False,0.0,2061.895740966799,False,False
+KWF5,Cascading potential power (kW),52449,0,0.0,False,0.0,2053.6188874664304,False,False
+KWF5,Cascading potential power for performance (kW),52449,0,0.0,False,0.0,2053.6188874664304,False,False
+KWF5,Potential power met mast anemometer (kW),52449,52449,100.0,True,,,True,False
+KWF5,Potential power primary reference turbines (kW),52449,819,1.5615169021335011,False,0.0,2064.166564941407,False,False
+KWF5,Potential power secondary reference turbines (kW),52449,600,1.1439684264714294,False,0.0,2065.2548767089866,False,False
+KWF5,Turbine Power setpoint (kW),52449,43,0.08198440389711911,False,380.95,2060.0,False,False
+KWF5,Potential power estimated (kW),52449,52449,100.0,True,,,True,False
+KWF5,Potential power MPC (kW),52449,0,0.0,False,0.0,2050.0,False,False
+KWF5,Potential power met mast anemometer MPC (kW),52449,52449,100.0,True,,,True,False
+KWF5,Potential Power Energy Budget (kW),52449,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF5,"Turbine Power setpoint, Max (kW)",52449,43,0.08198440389711911,False,412.0,2060.0,False,False
+KWF5,"Turbine Power setpoint, Min (kW)",52449,43,0.08198440389711911,False,205.0,2060.0,False,False
+KWF5,"Turbine Power setpoint, StdDev (kW)",52449,43,0.08198440389711911,False,0.0,824.0,False,False
+KWF5,Available Capacity for Production (kW),52449,0,0.0,False,0.0,2050.0,False,False
+KWF5,Available Capacity for Production (Planned) (kW),52449,0,0.0,True,2050.0,2050.0,False,True
+KWF5,Manufacturer Potential Power (SCADA) (kW),52449,52449,100.0,True,,,True,False
+KWF5,Power factor (cosphi),52449,0,0.0,False,-0.9999749571084976,1.0,False,False
+KWF5,"Power factor (cosphi), Max",52449,0,0.0,False,-1.0,1.0,False,False
+KWF5,"Power factor (cosphi), Min",52449,0,0.0,False,-1.0,1.0,False,False
+KWF5,"Power factor (cosphi), Standard deviation",52449,0,0.0,False,0.0,0.9999962926236912,False,False
+KWF5,Reactive power (kvar),52449,0,0.0,False,-670.4681518554688,4.039903400838376,False,False
+KWF5,"Reactive power, Max (kvar)",52449,0,0.0,False,-654.367797851563,245.669998168945,False,False
+KWF5,"Reactive power, Min (kvar)",52449,0,0.0,False,-836.846740722656,0.0,False,False
+KWF5,"Reactive power, Standard deviation (kvar)",52449,0,0.0,False,0.0,326.0316613724777,False,False
+KWF5,Front bearing temperature (°C),52449,43,0.08198440389711911,False,8.5,81.1674991607666,False,False
+KWF5,Rear bearing temperature (°C),52449,43,0.08198440389711911,False,7.810000109672546,76.00000076293945,False,False
+KWF5,Stator temperature 1 (°C),52449,0,0.0,False,6.0,100.7575019836427,False,False
+KWF5,Nacelle ambient temperature (°C),52449,43,0.08198440389711911,False,-4.5,37.14249992370603,False,False
+KWF5,Nacelle temperature (°C),52449,43,0.08198440389711911,False,-0.0850000012665985,40.17857142857144,False,False
+KWF5,Transformer temperature (°C),52449,43,0.08198440389711911,False,20.009999942779537,107.83749961853025,False,False
+KWF5,Gear oil inlet temperature (°C),52449,0,0.0,False,3.957500028610231,60.21500110626222,False,False
+KWF5,Generator bearing rear temperature (°C),52449,0,0.0,False,2.2999999523162797,58.11578810842413,False,False
+KWF5,Generator bearing front temperature (°C),52449,0,0.0,False,5.3000001907348615,62.88250026702881,False,False
+KWF5,Gear oil temperature (°C),52449,0,0.0,False,10.064999961853022,59.91750011444092,False,False
+KWF5,Temp. top box (°C),52449,0,0.0,False,9.457894726803428,41.56499900817871,False,False
+KWF5,Hub temperature (°C),52449,0,0.0,False,6.930999994277954,41.94631576538086,False,False
+KWF5,Ambient temperature (converter) (°C),52449,0,0.0,False,-2.177500021457674,45.76999969482421,False,False
+KWF5,Rotor bearing temp (°C),52449,0,0.0,False,1.3999999761581394,43.450000562165926,False,False
+KWF5,Transformer cell temperature (°C),52449,43,0.08198440389711911,False,1.4799999952316278,45.10750007629394,False,False
+KWF5,"Front bearing temperature, Max (°C)",52449,43,0.08198440389711911,False,8.5,81.5500030517578,False,False
+KWF5,"Front bearing temperature, Min (°C)",52449,43,0.08198440389711911,False,8.5,80.9000015258789,False,False
+KWF5,"Front bearing temperature, Standard deviation (°C)",52449,43,0.08198440389711911,False,0.0,13.678674282612931,False,False
+KWF5,"Rear bearing temperature, Max (°C)",52449,43,0.08198440389711911,False,7.90000009536743,76.9000015258789,False,False
+KWF5,"Rear bearing temperature, Min (°C)",52449,43,0.08198440389711911,False,7.69999980926514,75.8000030517578,False,False
+KWF5,"Rear bearing temperature, Standard deviation (°C)",52449,43,0.08198440389711911,False,0.0,11.571353474855249,False,False
+KWF5,Temperature motor axis 1 (°C),52449,0,0.0,False,9.0,85.27949981689453,False,False
+KWF5,Temperature motor axis 2 (°C),52449,0,0.0,False,7.091499996185303,86.9900001525879,False,False
+KWF5,Temperature motor axis 3 (°C),52449,0,0.0,False,8.0,84.95,False,False
+KWF5,CPU temperature (°C),52449,0,0.0,False,32.233333333333334,70.0,False,False
+KWF5,"Nacelle temperature, Max (°C)",52449,43,0.08198440389711911,False,0.100000001490116,40.7000007629395,False,False
+KWF5,"Nacelle temperature, Min (°C)",52449,43,0.08198440389711911,False,-0.100000001490116,39.8499984741211,False,False
+KWF5,"Generator bearing front temperature, Max (°C)",52449,0,0.0,False,5.30000019073486,63.9000015258789,False,False
+KWF5,"Generator bearing front temperature, Min (°C)",52449,0,0.0,False,5.30000019073486,62.25,False,False
+KWF5,"Generator bearing rear temperature, Max (°C)",52449,0,0.0,False,2.29999995231628,58.2999992370605,False,False
+KWF5,"Generator bearing rear temperature, Min (°C)",52449,0,0.0,False,2.29999995231628,58.0,False,False
+KWF5,"Generator bearing front temperature, Std (°C)",52449,0,0.0,False,0.0,3.100881854592845,False,False
+KWF5,"Generator bearing rear temperature, Std (°C)",52449,0,0.0,False,0.0,1.0178750590198975,False,False
+KWF5,"Nacelle temperature, Standard deviation (°C)",52449,43,0.08198440389711911,False,0.0,3.3063303152976946,False,False
+KWF5,"Gear oil temperature, Max (°C)",52449,0,0.0,False,10.1999998092651,60.6999969482422,False,False
+KWF5,"Gear oil temperature, Min (°C)",52449,0,0.0,False,9.89999961853027,59.7999992370605,False,False
+KWF5,"Gear oil temperature, Standard deviation (°C)",52449,0,0.0,False,0.0,3.508164268748432,False,False
+KWF5,"Hub temperature, min (°C)",52449,0,0.0,False,6.0,41.4799995422363,False,False
+KWF5,"Hub temperature, max (°C)",52449,0,0.0,False,7.0,42.0,False,False
+KWF5,"Hub temperature, standard deviation (°C)",52449,0,0.0,False,0.0,1.8953297457747724,False,False
+KWF5,"Ambient temperature (converter), Max (°C)",52449,0,0.0,False,-2.09999990463257,45.8499984741211,False,False
+KWF5,"Ambient temperature (converter), Min (°C)",52449,0,0.0,False,-2.29999995231628,45.5999984741211,False,False
+KWF5,"Ambient temperature (converter), StdDev (°C)",52449,0,0.0,False,0.0150000214576739,0.6178339356605708,False,False
+KWF5,"Gear oil inlet temperature, Max (°C)",52449,0,0.0,False,5.0,60.7999992370605,False,False
+KWF5,"Gear oil inlet temperature, Min (°C)",52449,0,0.0,False,3.20000004768372,60.0500030517578,False,False
+KWF5,"Gear oil inlet temperature, StdDev (°C)",52449,0,0.0,False,0.0,14.49434797192162,False,False
+KWF5,"Nacelle ambient temperature, Max (°C)",52449,43,0.08198440389711911,False,-4.5,37.4000015258789,False,False
+KWF5,"Nacelle ambient temperature, Min (°C)",52449,43,0.08198440389711911,False,-4.5,36.7999992370605,False,False
+KWF5,"Nacelle ambient temperature, StdDev (°C)",52449,43,0.08198440389711911,False,0.0,1.7925174753515805,False,False
+KWF5,"Rotor bearing temp, Max (°C)",52449,0,0.0,False,1.39999997615814,43.5,False,False
+KWF5,"Rotor bearing temp, Min (°C)",52449,0,0.0,False,1.39999997615814,43.2999992370605,False,False
+KWF5,"Rotor bearing temp, StdDev (°C)",52449,0,0.0,False,0.0,0.5051917780362919,False,False
+KWF5,"CPU temperature, Max (°C)",52449,0,0.0,False,35.0,70.0,False,False
+KWF5,"CPU temperature, Min (°C)",52449,0,0.0,False,29.0,70.0,False,False
+KWF5,"CPU temperature, StdDev (°C)",52449,0,0.0,False,0.0,1.9685019685029528,False,False
+KWF5,"Transformer cell temperature, Max (°C)",52449,43,0.08198440389711911,False,1.60000002384186,45.2000007629395,False,False
+KWF5,"Transformer cell temperature, Min (°C)",52449,43,0.08198440389711911,False,1.34999990463257,45.0,False,False
+KWF5,"Transformer cell temperature, StdDev (°C)",52449,43,0.08198440389711911,False,0.0178536391773246,1.071549842161576,False,False
+KWF5,"Transformer temperature, Max (°C)",52449,43,0.08198440389711911,False,20.1000003814697,108.350006103516,False,False
+KWF5,"Transformer temperature, Min (°C)",52449,43,0.08198440389711911,False,19.8999996185303,107.449996948242,False,False
+KWF5,"Transformer temperature, StdDev (°C)",52449,43,0.08198440389711911,False,0.0250015258788991,2.988907907065684,False,False
+KWF5,"Stator temperature 1, Max (°C)",52449,0,0.0,False,6.0,101.149993896484,False,False
+KWF5,"Stator temperature 1, Min (°C)",52449,0,0.0,False,6.0,100.300003051758,False,False
+KWF5,"Stator temperature 1, StdDev (°C)",52449,0,0.0,False,0.0,3.3229234462914947,False,False
+KWF5,"Temp. top box, Max (°C)",52449,0,0.0,False,9.5,41.5999984741211,False,False
+KWF5,"Temp. top box, Min (°C)",52449,0,0.0,False,9.0,41.5,False,False
+KWF5,"Temp. top box, StdDev (°C)",52449,0,0.0,False,0.0,2.295227361160872,False,False
+KWF5,"Temperature motor axis 1, Max (°C)",52449,0,0.0,False,9.0,88.0,False,False
+KWF5,"Temperature motor axis 1, Min (°C)",52449,0,0.0,False,9.0,85.0,False,False
+KWF5,"Temperature motor axis 1, StdDev (°C)",52449,0,0.0,False,0.0,12.52360271767586,False,False
+KWF5,"Temperature motor axis 2, Max (°C)",52449,0,0.0,False,8.0,90.0,False,False
+KWF5,"Temperature motor axis 2, Min (°C)",52449,0,0.0,False,7.0,86.8000030517578,False,False
+KWF5,"Temperature motor axis 2, StdDev (°C)",52449,0,0.0,False,0.0,12.648600307377077,False,False
+KWF5,"Temperature motor axis 3, Max (°C)",52449,0,0.0,False,8.0,88.0,False,False
+KWF5,"Temperature motor axis 3, Min (°C)",52449,0,0.0,False,8.0,84.0100021362305,False,False
+KWF5,"Temperature motor axis 3, StdDev (°C)",52449,0,0.0,False,0.0,12.02620548787814,False,False
+KWF5,Voltage L1 / U (V),52449,43,0.08198440389711911,False,0.0,414.6432077508224,False,False
+KWF5,Voltage L2 / V (V),52449,43,0.08198440389711911,False,0.0,414.6873992919924,False,False
+KWF5,Voltage L3 / W (V),52449,43,0.08198440389711911,False,0.0,414.7510498046877,False,False
+KWF5,Grid voltage (V),52449,0,0.0,False,0.0,711.640014648438,False,False
+KWF5,"Grid voltage, Max (V)",52449,0,0.0,False,0.0,718.659973144531,False,False
+KWF5,"Grid voltage, Min (V)",52449,0,0.0,False,0.0,711.010009765625,False,False
+KWF5,"Grid voltage, Standard deviation (V)",52449,0,0.0,False,0.0,200.9991760253905,False,False
+KWF5,"Voltage L1 / U, Min (V)",52449,43,0.08198440389711911,False,0.0,413.432983398438,False,False
+KWF5,"Voltage L1 / U, Max (V)",52449,43,0.08198440389711911,False,0.0,416.276000976563,False,False
+KWF5,"Voltage L1 / U, Standard deviation (V)",52449,43,0.08198440389711911,False,0.0,200.6699981689455,False,False
+KWF5,"Voltage L2 / V, Min (V)",52449,43,0.08198440389711911,False,0.0,413.558013916016,False,False
+KWF5,"Voltage L2 / V, Max (V)",52449,43,0.08198440389711911,False,0.0,419.071990966797,False,False
+KWF5,"Voltage L2 / V, Standard deviation (V)",52449,43,0.08198440389711911,False,0.0,201.2449951171875,False,False
+KWF5,"Voltage L3 / W, Min (V)",52449,43,0.08198440389711911,False,0.0,413.68798828125,False,False
+KWF5,"Voltage L3 / W, Max (V)",52449,43,0.08198440389711911,False,0.0,416.869995117188,False,False
+KWF5,"Voltage L3 / W, Standard deviation (V)",52449,43,0.08198440389711911,False,0.0,201.0830078125,False,False
+KWF5,Current L1 / U (A),52449,43,0.08198440389711911,False,3.289285727909633,1830.581506347658,False,False
+KWF5,Current L2 / V (A),52449,43,0.08198440389711911,False,2.15571425642286,1824.7984924316415,False,False
+KWF5,Current L3 / W (A),52449,43,0.08198440389711911,False,7.192142963409424,1814.230236816407,False,False
+KWF5,Grid current (A),52449,0,0.0,False,4.224523850849697,1825.1582519531269,False,False
+KWF5,Motor current axis 1 (A),52449,0,0.0,False,-1.1920928955078105e-07,7.343872499465943,False,False
+KWF5,Motor current axis 2 (A),52449,0,0.0,False,-0.4901961982250212,6.869362604618075,False,False
+KWF5,Motor current axis 3 (A),52449,0,0.0,False,-1.1920928955078105e-07,7.232352787256241,False,False
+KWF5,"Current L1 / U, min (A)",52449,43,0.08198440389711911,False,2.75500011444092,1805.00500488281,False,False
+KWF5,"Current L1 / U, max (A)",52449,43,0.08198440389711911,False,3.67000007629395,1932.40502929688,False,False
+KWF5,"Current L1 / U, StdDev (A)",52449,43,0.08198440389711911,False,0.0750000476837147,888.7378842999008,False,False
+KWF5,"Current L2 / V, max (A)",52449,43,0.08198440389711911,False,2.72499990463257,1923.29504394531,False,False
+KWF5,"Current L3 / W, max (A)",52449,43,0.08198440389711911,False,7.28999996185303,1917.25500488281,False,False
+KWF5,"Current L2 / V, min (A)",52449,43,0.08198440389711911,False,0.795000016689301,1797.02502441406,False,False
+KWF5,"Current L2 / V, StdDev (A)",52449,43,0.08198440389711911,False,0.0758662570087087,887.6594953838611,False,False
+KWF5,"Current L3 / W, min (A)",52449,43,0.08198440389711911,False,4.28000020980835,1784.33996582031,False,False
+KWF5,"Current L3 / W, StdDev (A)",52449,43,0.08198440389711911,False,0.0525000095367449,881.4949059372055,False,False
+KWF5,"Grid current, Max (A)",52449,0,0.0,False,4.30833339691162,1929.13000488281,False,False
+KWF5,"Grid current, Min (A)",52449,0,0.0,False,3.58500003814697,1793.50170898438,False,False
+KWF5,"Grid current, StdDev (A)",52449,0,0.0,False,0.0,879.6633780120258,False,False
+KWF5,"Motor current axis 1, Max (A)",52449,0,0.0,False,-1.19209289550781e-07,19.4068622589111,False,False
+KWF5,"Motor current axis 1, Min (A)",52449,0,0.0,False,-1.19209289550781e-07,4.01470565795898,False,False
+KWF5,"Motor current axis 1, StdDev (A)",52449,0,0.0,False,0.0,5.558381399888432,False,False
+KWF5,"Motor current axis 2, Max (A)",52449,0,0.0,False,-0.490196198225021,28.3676471710205,False,False
+KWF5,"Motor current axis 2, Min (A)",52449,0,0.0,False,-0.490196198225021,2.87254881858826,False,False
+KWF5,"Motor current axis 2, StdDev (A)",52449,0,0.0,False,0.0,6.270013930711375,False,False
+KWF5,"Motor current axis 3, Max (A)",52449,0,0.0,False,-1.19209289550781e-07,28.3725490570068,False,False
+KWF5,"Motor current axis 3, Min (A)",52449,0,0.0,False,-1.19209289550781e-07,3.92156839370728,False,False
+KWF5,"Motor current axis 3, StdDev (A)",52449,0,0.0,False,0.0,6.549331172963036,False,False
+KWF5,Rotor speed (RPM),52449,0,0.0,False,0.0,15.364253237843505,False,False
+KWF5,Generator RPM (RPM),52449,0,0.0,False,-184.81615733306256,1818.6447143554692,False,False
+KWF5,Gearbox speed (RPM),52449,0,0.0,False,0.0,1823.8183021545412,False,False
+KWF5,"Generator RPM, Max (RPM)",52449,0,0.0,False,-0.271491827443242,1946.48483276367,False,False
+KWF5,"Generator RPM, Min (RPM)",52449,0,0.0,False,-590.99681854248,1797.67948150635,False,False
+KWF5,"Generator RPM, Standard deviation (RPM)",52449,0,0.0,False,0.02391943708062,913.0745301684416,False,False
+KWF5,"Rotor speed, Max (RPM)",52449,0,0.0,False,0.0,20.2939242124557,False,False
+KWF5,"Rotor speed, Min (RPM)",52449,0,0.0,False,0.0,15.1201218366623,False,False
+KWF5,"Rotor speed, Standard deviation (RPM)",52449,0,0.0,False,0.0,7.295891643325963,False,False
+KWF5,"Gearbox speed, Max (RPM)",52449,0,0.0,False,0.0,2823.34671020508,False,False
+KWF5,"Gearbox speed, Min (RPM)",52449,0,0.0,False,0.0,1798.79138946533,False,False
+KWF5,"Gearbox speed, StdDev (RPM)",52449,0,0.0,False,0.0,1099.1762685443905,False,False
+KWF5,Capacity factor,52449,3,0.005719842132357147,False,0.0,1.205853658536585,False,False
+KWF5,Data Availability,52449,0,0.0,True,1.0,1.0,False,True
+KWF5,Time-based Contractual Avail.,52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Time-based IEC B.2.2 (Users View),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Time-based IEC B.2.3 (Users View),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Time-based IEC B.2.4 (Users View),52449,131,0.24976643977959542,False,0.0,1.0,False,False
+KWF5,Time-based IEC B.3.2 (Manufacturers View),52449,137,0.2612061240443097,False,0.0,1.0,False,False
+KWF5,Production-based IEC B.2.2 (Users View),52449,292,0.5567313008827623,False,0.0,1.0,False,False
+KWF5,Production-based IEC B.2.3 (Users View),52449,7393,14.09559762817213,False,0.0,1.0,False,False
+KWF5,Production-based IEC B.3.2 (Manufacturers View),52449,140,0.26692596617666686,False,0.0,1.0,False,False
+KWF5,Time-based System Avail.,52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Production-based System Avail.,52449,3,0.005719842132357147,False,0.0,1.0,False,False
+KWF5,Production-based Contractual Avail.,52449,3,0.005719842132357147,False,0.0,1.0,False,False
+KWF5,Time-based System Avail. (Planned),52449,0,0.0,True,1.0,1.0,False,True
+KWF5,Production-based System Avail. (virtual),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Time-based Contractual Avail. (Global),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Time-based Contractual Avail. (Custom),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Production-based Contractual Avail. (Global),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Production-based Contractual Avail. (Custom),52449,0,0.0,False,0.0,1.0,False,False
+KWF5,Reactive Energy Export (kvarh),52449,521,0.9933459169860245,False,0.0,1.0,False,False
+KWF5,Reactive Energy Export counter (kvarh),52449,51041,97.31548742588038,False,82939.0,84359.0,False,False
+KWF5,Reactive Energy Import (kvarh),52449,1,0.001906614044119049,False,0.0,131.0,False,False
+KWF5,Reactive Energy Import counter (kvarh),52449,7613,14.51505271787832,False,11712413.0,13577975.0,False,False
+KWF5,Blade angle (pitch position) A (°),52449,43,0.08198440389711911,False,-0.0495000000111758,92.48999786376952,False,False
+KWF5,Blade angle (pitch position) B (°),52449,43,0.08198440389711911,False,-0.0714999994263052,92.5100021362305,False,False
+KWF5,Blade angle (pitch position) C (°),52449,43,0.08198440389711911,False,-198.47999572753903,211.72250480651877,False,False
+KWF5,Yaw bearing angle (°),52449,43,0.08198440389711911,False,0.0260814504919153,359.9999694824219,False,False
+KWF5,"Blade angle (pitch position) A, Max (°)",52449,43,0.08198440389711911,False,0.0,92.4899978637695,False,False
+KWF5,"Blade angle (pitch position) A, Min (°)",52449,43,0.08198440389711911,False,-0.100000001490116,92.4899978637695,False,False
+KWF5,"Blade angle (pitch position) A, Standard deviation (°)",52449,43,0.08198440389711911,False,0.0,45.318534096505,False,False
+KWF5,"Blade angle (pitch position) B, Max (°)",52449,43,0.08198440389711911,False,-0.0599999986588955,92.5599975585938,False,False
+KWF5,"Blade angle (pitch position) B, Min (°)",52449,43,0.08198440389711911,False,-0.0799999982118607,92.5100021362305,False,False
+KWF5,"Blade angle (pitch position) B, Standard deviation (°)",52449,43,0.08198440389711911,False,0.0,45.34125363619103,False,False
+KWF5,"Blade angle (pitch position) C, Max (°)",52449,43,0.08198440389711911,False,-198.479995727539,302.709991455078,False,False
+KWF5,"Blade angle (pitch position) C, Min (°)",52449,43,0.08198440389711911,False,-315.739990234375,92.6999969482422,False,False
+KWF5,"Blade angle (pitch position) C, Standard deviation (°)",52449,43,0.08198440389711911,False,0.0,293.0919350837817,False,False
+KWF5,"Yaw bearing angle, Max (°)",52449,43,0.08198440389711911,False,0.830078125,359.9999694824219,False,False
+KWF5,"Yaw bearing angle, Min (°)",52449,43,0.08198440389711911,False,0.0,359.9999694824219,False,False
+KWF5,"Yaw bearing angle, StdDev (°)",52449,43,0.08198440389711911,False,0.0,92.33752486208276,False,False
+KWF5,Gear oil inlet pressure (bar),52449,0,0.0,False,-1.573204815387725,396.8410766601564,False,False
+KWF5,Gear oil pump pressure (bar),52449,0,0.0,False,1.9608650270261263,1130.7543881064971,False,False
+KWF5,"Gear oil inlet pressure, Max (bar)",52449,0,0.0,False,-1.25123941898346,517.515869140625,False,False
+KWF5,"Gear oil inlet pressure, Min (bar)",52449,0,0.0,False,-3.96734547615051,381.420623779297,False,False
+KWF5,"Gear oil inlet pressure, StdDev (bar)",52449,0,0.0,False,0.0099999997764825,210.60978955282025,False,False
+KWF5,"Gear oil pump pressure, Max (bar)",52449,0,0.0,False,3.12199640274048,1356.93603515625,False,False
+KWF5,"Gear oil pump pressure, Min (bar)",52449,0,0.0,False,-1.31837916374207,1110.66760253906,False,False
+KWF5,"Gear oil pump pressure, StdDev (bar)",52449,0,0.0,False,0.0216313396573444,549.1349644038946,False,False
+KWF5,Grid frequency (Hz),52449,0,0.0,False,0.0,50.19608459472656,False,False
+KWF5,"Grid frequency, Max (Hz)",52449,0,0.0,False,0.0,50.3368988037109,False,False
+KWF5,"Grid frequency, Min (Hz)",52449,0,0.0,False,0.0,50.1317024230957,False,False
+KWF5,"Grid frequency, Standard deviation (Hz)",52449,0,0.0,False,0.0,24.9659996032715,False,False
+KWF5,Equivalent Full Load Hours (s),52449,3,0.005719842132357147,False,0.0,723.512195121951,False,False
+KWF5,Equivalent Full Load Hours counter (s),52449,52449,100.0,True,,,True,False
+KWF5,Production Factor,52449,0,0.0,False,0.0,24.02722199818289,False,False
+KWF5,Performance Index,52449,1595,3.041049400369883,False,0.0,24.02722199818289,False,False
+KWF5,Investment Performance Ratio,52449,0,0.0,False,-0.0394025429755429,7.864321707534542,False,False
+KWF5,Operating Performance Ratio,52449,7329,13.97357432934851,False,-0.2908584245637224,19.532981879939403,False,False
+KWF5,Apparent power (kVA),52449,0,0.0,False,0.0,2174.041748046877,False,False
+KWF5,"Apparent power, Max (kVA)",52449,0,0.0,False,0.0,2352.60595703125,False,False
+KWF5,"Apparent power, Min (kVA)",52449,0,0.0,False,0.0,2141.16040039063,False,False
+KWF5,"Apparent power, StdDev (kVA)",52449,0,0.0,False,0.0,1053.864780403554,False,False
+KWF5,Cable windings from calibration point,52449,43,0.08198440389711911,False,-1.3353685140609703,1.735056257247925,False,False
+KWF5,Metal particle count,52449,0,0.0,False,0.0,2.0,False,False
+KWF5,Metal particle count counter,52449,43,0.08198440389711911,False,558.0,579.0,False,False
+KWF5,"Cable windings from calibration point, Max",52449,43,0.08198440389711911,False,-1.33536851406097,1.74999487400055,False,False
+KWF5,"Cable windings from calibration point, Min",52449,43,0.08198440389711911,False,-1.33536851406097,1.73170268535614,False,False
+KWF5,"Cable windings from calibration point, StdDev",52449,43,0.08198440389711911,False,0.0,0.2563812032537412,False,False
+KWF5,Drive train acceleration (mm/ss),52449,12,0.02287936852942859,False,0.5,34.5037612915039,False,False
+KWF5,Tower Acceleration X (mm/ss),52449,43,0.08198440389711911,False,2.404610899090767,244.6429649353028,False,False
+KWF5,Tower Acceleration y (mm/ss),52449,43,0.08198440389711911,False,2.514395340492852,196.17114896774285,False,False
+KWF5,"Tower Acceleration X, Min (mm/ss)",52449,43,0.08198440389711911,False,0.793617486953735,157.408386230469,False,False
+KWF5,"Tower Acceleration X, Max (mm/ss)",52449,43,0.08198440389711911,False,5.07665157318115,858.350219726563,False,False
+KWF5,"Tower Acceleration Y, Min (mm/ss)",52449,43,0.08198440389711911,False,0.630888104438782,69.8374710083008,False,False
+KWF5,"Tower Acceleration Y, Max (mm/ss)",52449,43,0.08198440389711911,False,4.87905931472778,549.118530273438,False,False
+KWF5,"Drive train acceleration, Max (mm/ss)",52449,12,0.02287936852942859,False,0.850000023841858,34.5037612915039,False,False
+KWF5,"Drive train acceleration, Min (mm/ss)",52449,12,0.02287936852942859,False,0.150000005960464,34.5037612915039,False,False
+KWF5,"Drive train acceleration, StdDev (mm/ss)",52449,12,0.02287936852942859,False,0.0,0.340000003576279,False,False
+KWF5,"Tower Acceleration X, StdDev (mm/ss)",52449,43,0.08198440389711911,False,0.5652709007263494,186.3291983252441,False,False
+KWF5,"Tower Acceleration Y, StdDev (mm/ss)",52449,43,0.08198440389711911,False,0.476047090855978,137.98892259503285,False,False
+KWF6,Wind speed (m/s),52300,0,0.0,False,0.1661815948784351,21.090255355834955,False,False
+KWF6,"Wind speed, Standard deviation (m/s)",52300,0,0.0,False,0.0,5.337904822154131,False,False
+KWF6,"Wind speed, Minimum (m/s)",52300,1,0.0019120458891013384,False,0.0037500858306884,15.9634418487549,False,False
+KWF6,"Wind speed, Maximum (m/s)",52300,0,0.0,False,0.279750227928162,28.9256343841553,False,False
+KWF6,Long Term Wind (m/s),52300,0,0.0,False,5.26,7.21,False,False
+KWF6,Wind speed Sensor 1 (m/s),52300,243,0.4646271510516252,False,0.0,21.366130828857425,False,False
+KWF6,"Wind speed Sensor 1, Standard deviation (m/s)",52300,243,0.4646271510516252,False,0.0,5.563976574172876,False,False
+KWF6,"Wind speed Sensor 1, Minimum (m/s)",52300,1046,2.0,False,0.0,15.0677976608276,False,False
+KWF6,"Wind speed Sensor 1, Maximum (m/s)",52300,243,0.4646271510516252,False,0.0,28.4461650848389,False,False
+KWF6,Wind speed Sensor 2 (m/s),52300,0,0.0,False,-8.97346324780408,21.29815559387206,False,False
+KWF6,"Wind speed Sensor 2, Standard deviation (m/s)",52300,0,0.0,False,0.0,8.16163723861979,False,False
+KWF6,"Wind speed Sensor 2, Minimum (m/s)",52300,0,0.0,False,-15.0,15.4986362457275,False,False
+KWF6,"Wind speed Sensor 2, Maximum (m/s)",52300,0,0.0,False,0.274875342845917,29.5181503295898,False,False
+KWF6,Density adjusted wind speed (m/s),52300,43,0.08221797323135756,False,0.163172827004765,21.06520757336935,False,False
+KWF6,Wind direction (°),52300,0,0.0,False,0.0016021321808352,359.99257317600404,False,False
+KWF6,Nacelle position (°),52300,0,0.0,False,0.142337164009632,359.90196232632405,False,False
+KWF6,"Wind direction, Standard deviation (°)",52300,0,0.0,False,5.684341886080803e-14,98.54658078477252,False,False
+KWF6,"Wind direction, Minimum (°)",52300,0,0.0,False,4.863739013671875e-05,351.268585205078,False,False
+KWF6,"Wind direction, Maximum (°)",52300,0,0.0,False,5.4619140625,359.999084472656,False,False
+KWF6,"Nacelle position, Standard deviation (°)",52300,0,0.0,False,0.0,96.2848328898558,False,False
+KWF6,"Nacelle position, Minimum (°)",52300,0,0.0,False,0.0286304038017988,359.1176757812499,False,False
+KWF6,"Nacelle position, Maximum (°)",52300,0,0.0,False,0.21478271484375,359.73181152343807,False,False
+KWF6,Vane position 1+2 (°),52300,43,0.08221797323135756,False,-169.34059524536138,174.3972351074219,False,False
+KWF6,"Vane position 1+2, Max (°)",52300,43,0.08221797323135756,False,-159.516342163086,179.997940063477,False,False
+KWF6,"Vane position 1+2, Min (°)",52300,43,0.08221797323135756,False,-179.993118286133,172.489379882813,False,False
+KWF6,"Vane position 1+2, StdDev (°)",52300,43,0.08221797323135756,False,0.0,175.56004445921198,False,False
+KWF6,Energy Export (kWh),52300,776,1.4837476099426385,False,0.0,412.0,False,False
+KWF6,Energy Export counter (kWh),52300,9560,18.279158699808796,False,25266974.0,29398037.0,False,False
+KWF6,Energy Import (kWh),52300,25,0.04780114722753346,False,0.0,3.0,False,False
+KWF6,Energy Import counter (kWh),52300,47840,91.47227533460803,False,24532.0,29169.0,False,False
+KWF6,Lost Production (Contractual) (kWh),52300,0,0.0,False,0.0,341.6325114701589,False,False
+KWF6,Lost Production (Time-based IEC B.2.2) (kWh),52300,0,0.0,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production (Time-based IEC B.2.3) (kWh),52300,289,0.5525812619502868,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production (Time-based IEC B.2.4) (kWh),52300,93,0.17782026768642448,False,0.0,341.6325114701589,False,False
+KWF6,Lost Production (Time-based IEC B.3.2) (kWh),52300,132,0.25239005736137665,False,0.0,341.6325114701589,False,False
+KWF6,Lost Production (Production-based IEC B.2.2) (kWh),52300,289,0.5525812619502868,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production (Production-based IEC B.2.3) (kWh),52300,7666,14.65774378585086,False,0.0,341.6325114701589,False,False
+KWF6,Lost Production (Production-based IEC B.3.2) (kWh),52300,132,0.25239005736137665,False,0.0,341.6325114701589,False,False
+KWF6,Energy Budget - Default (kWh),52300,0,0.0,False,33.661328553240736,140.4521661066308,False,False
+KWF6,Energy Theoretical (kWh),52300,0,0.0,False,0.0,341.7817521419525,False,False
+KWF6,Lost Production to Downtime (kWh),52300,0,0.0,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production to Performance (kWh),52300,0,0.0,False,-70.51516019128171,217.17103337796505,False,False
+KWF6,Lost Production Total (kWh),52300,0,0.0,False,-70.51516019128171,341.7737537829081,False,False
+KWF6,Lost Production to Curtailment (Total) (kWh),52300,0,0.0,False,0.0,159.58892630998264,False,False
+KWF6,Lost Production to Curtailment (Grid) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Noise) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Shadow) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Bats) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Birds) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Ice) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Sector Management) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Technical) (kWh),52300,0,0.0,False,0.0,159.58892630998264,False,False
+KWF6,Lost Production to Curtailment (Marketing) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Curtailment (Boat Action) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Compensated Lost Production (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Virtual Production (kWh),52300,0,0.0,False,0.0,412.0,False,False
+KWF6,Lost Production to Curtailment (Grid Constraint) (kWh),52300,0,0.0,True,0.0,0.0,False,True
+KWF6,Lost Production to Downtime and Curtailment Total (kWh),52300,0,0.0,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production (Contractual Global) (kWh),52300,0,0.0,False,0.0,341.7737537829081,False,False
+KWF6,Lost Production (Contractual Custom) (kWh),52300,0,0.0,False,0.0,341.66666666666663,False,False
+KWF6,Power (kW),52300,0,0.0,False,-17.782349681854264,2076.434619140627,False,False
+KWF6,Potential power default PC (kW),52300,0,0.0,False,0.0,2050.0,False,False
+KWF6,"Power, Standard deviation (kW)",52300,0,0.0,False,0.0,982.82786584064,False,False
+KWF6,"Power, Minimum (kW)",52300,0,0.0,False,-72.336067199707,2042.22705078125,False,False
+KWF6,"Power, Maximum (kW)",52300,0,0.0,False,-13.5083599090576,2227.68334960938,False,False
+KWF6,Potential power learned PC (kW),52300,0,0.0,False,0.0,2050.690512851715,False,False
+KWF6,Potential power reference turbines (kW),52300,243,0.4646271510516252,False,0.0,2061.812830200198,False,False
+KWF6,Cascading potential power (kW),52300,0,0.0,False,0.0,2050.690512851715,False,False
+KWF6,Cascading potential power for performance (kW),52300,0,0.0,False,0.0,2050.690512851715,False,False
+KWF6,Potential power met mast anemometer (kW),52300,52300,100.0,True,,,True,False
+KWF6,Potential power primary reference turbines (kW),52300,817,1.5621414913957934,False,0.0,2063.6831949869816,False,False
+KWF6,Potential power secondary reference turbines (kW),52300,600,1.147227533460803,False,0.0,2065.2548767089866,False,False
+KWF6,Turbine Power setpoint (kW),52300,43,0.08221797323135756,False,412.0,2060.0,False,False
+KWF6,Potential power estimated (kW),52300,52300,100.0,True,,,True,False
+KWF6,Potential power MPC (kW),52300,0,0.0,False,0.0,2050.0,False,False
+KWF6,Potential power met mast anemometer MPC (kW),52300,52300,100.0,True,,,True,False
+KWF6,Potential Power Energy Budget (kW),52300,0,0.0,False,201.9679713194444,842.7129966397849,False,False
+KWF6,"Turbine Power setpoint, Max (kW)",52300,43,0.08221797323135756,False,412.0,2060.0,False,False
+KWF6,"Turbine Power setpoint, Min (kW)",52300,43,0.08221797323135756,False,360.0,2060.0,False,False
+KWF6,"Turbine Power setpoint, StdDev (kW)",52300,43,0.08221797323135756,False,0.0,824.0,False,False
+KWF6,Available Capacity for Production (kW),52300,0,0.0,False,0.0,2050.0,False,False
+KWF6,Available Capacity for Production (Planned) (kW),52300,0,0.0,True,2050.0,2050.0,False,True
+KWF6,Manufacturer Potential Power (SCADA) (kW),52300,52300,100.0,True,,,True,False
+KWF6,Power factor (cosphi),52300,0,0.0,False,-0.9999927312135696,1.0,False,False
+KWF6,"Power factor (cosphi), Max",52300,0,0.0,False,-0.999963879585266,1.0,False,False
+KWF6,"Power factor (cosphi), Min",52300,0,0.0,False,-1.0,1.0,False,False
+KWF6,"Power factor (cosphi), Standard deviation",52300,0,0.0,False,0.0,0.9999979406624112,False,False
+KWF6,Reactive power (kvar),52300,0,0.0,False,-691.5058959960938,3.7971206277608864,False,False
+KWF6,"Reactive power, Max (kvar)",52300,0,0.0,False,-645.703063964844,88.9608917236328,False,False
+KWF6,"Reactive power, Min (kvar)",52300,0,0.0,False,-838.37255859375,0.0533500052988529,False,False
+KWF6,"Reactive power, Standard deviation (kvar)",52300,0,0.0,False,0.0,312.5384193813891,False,False
+KWF6,Front bearing temperature (°C),52300,43,0.08221797323135756,False,8.100000381469728,82.91315701133327,False,False
+KWF6,Rear bearing temperature (°C),52300,43,0.08221797323135756,False,8.359999847412109,80.32249870300294,False,False
+KWF6,Stator temperature 1 (°C),52300,0,0.0,False,6.599999904632569,96.4199993133545,False,False
+KWF6,Nacelle ambient temperature (°C),52300,43,0.08221797323135756,False,-3.4000000953674308,38.54749946594238,False,False
+KWF6,Nacelle temperature (°C),52300,43,0.08221797323135756,False,0.1000000014901159,42.41500015258791,False,False
+KWF6,Transformer temperature (°C),52300,43,0.08221797323135756,False,18.19000024795534,112.2099990844726,False,False
+KWF6,Gear oil inlet temperature (°C),52300,0,0.0,False,3.365000009536743,59.37500114440918,False,False
+KWF6,Generator bearing rear temperature (°C),52300,0,0.0,False,2.799999952316279,60.84249973297118,False,False
+KWF6,Generator bearing front temperature (°C),52300,0,0.0,False,5.900000095367431,58.51499977111818,False,False
+KWF6,Gear oil temperature (°C),52300,0,0.0,False,10.200000000000012,64.21999988555908,False,False
+KWF6,Temp. top box (°C),52300,0,0.0,False,6.6999998092651385,45.48000030517578,False,False
+KWF6,Hub temperature (°C),52300,0,0.0,False,6.874500012397766,40.0,False,False
+KWF6,Ambient temperature (converter) (°C),52300,0,0.0,False,-1.5850000083446505,46.49249973297118,False,False
+KWF6,Rotor bearing temp (°C),52300,0,0.0,False,1.6975000500679052,42.670000457763685,False,False
+KWF6,Transformer cell temperature (°C),52300,43,0.08221797323135756,False,-1.807500010728836,44.93250064849853,False,False
+KWF6,"Front bearing temperature, Max (°C)",52300,43,0.08221797323135756,False,8.10000038146973,84.3000030517578,False,False
+KWF6,"Front bearing temperature, Min (°C)",52300,43,0.08221797323135756,False,8.10000038146973,82.5,False,False
+KWF6,"Front bearing temperature, Standard deviation (°C)",52300,43,0.08221797323135756,False,0.0,14.019946896912325,False,False
+KWF6,"Rear bearing temperature, Max (°C)",52300,43,0.08221797323135756,False,8.5,80.6999969482422,False,False
+KWF6,"Rear bearing temperature, Min (°C)",52300,43,0.08221797323135756,False,8.19999980926514,80.0,False,False
+KWF6,"Rear bearing temperature, Standard deviation (°C)",52300,43,0.08221797323135756,False,0.0,11.453630268170969,False,False
+KWF6,Temperature motor axis 1 (°C),52300,0,0.0,False,8.0,81.0620002746582,False,False
+KWF6,Temperature motor axis 2 (°C),52300,0,0.0,False,10.0,95.52380952380952,False,False
+KWF6,Temperature motor axis 3 (°C),52300,0,0.0,False,8.0,79.35,False,False
+KWF6,CPU temperature (°C),52300,0,0.0,False,34.0,78.0,False,False
+KWF6,"Nacelle temperature, Max (°C)",52300,43,0.08221797323135756,False,0.100000001490116,42.7000007629395,False,False
+KWF6,"Nacelle temperature, Min (°C)",52300,43,0.08221797323135756,False,0.100000001490116,42.0,False,False
+KWF6,"Generator bearing front temperature, Max (°C)",52300,0,0.0,False,5.90000009536743,59.5999984741211,False,False
+KWF6,"Generator bearing front temperature, Min (°C)",52300,0,0.0,False,5.90000009536743,57.75,False,False
+KWF6,"Generator bearing rear temperature, Max (°C)",52300,0,0.0,False,2.79999995231628,61.0,False,False
+KWF6,"Generator bearing rear temperature, Min (°C)",52300,0,0.0,False,2.79999995231628,60.5999984741211,False,False
+KWF6,"Generator bearing front temperature, Std (°C)",52300,0,0.0,False,0.0,2.724056460007769,False,False
+KWF6,"Generator bearing rear temperature, Std (°C)",52300,0,0.0,False,0.0,2.1468811573461646,False,False
+KWF6,"Nacelle temperature, Standard deviation (°C)",52300,43,0.08221797323135756,False,0.0,2.126997308972473,False,False
+KWF6,"Gear oil temperature, Max (°C)",52300,0,0.0,False,10.3000001907349,64.6499938964844,False,False
+KWF6,"Gear oil temperature, Min (°C)",52300,0,0.0,False,9.89999961853027,63.9000015258789,False,False
+KWF6,"Gear oil temperature, Standard deviation (°C)",52300,0,0.0,False,0.0,3.317690149016656,False,False
+KWF6,"Hub temperature, min (°C)",52300,0,0.0,False,6.0,40.0,False,False
+KWF6,"Hub temperature, max (°C)",52300,0,0.0,False,7.0,40.0,False,False
+KWF6,"Hub temperature, standard deviation (°C)",52300,0,0.0,False,0.0,0.7663273567663704,False,False
+KWF6,"Ambient temperature (converter), Max (°C)",52300,0,0.0,False,-1.34999990463257,46.6500015258789,False,False
+KWF6,"Ambient temperature (converter), Min (°C)",52300,0,0.0,False,-1.75,46.25,False,False
+KWF6,"Ambient temperature (converter), StdDev (°C)",52300,0,0.0,False,0.0,1.0208911800474545,False,False
+KWF6,"Gear oil inlet temperature, Max (°C)",52300,0,0.0,False,4.09999990463257,59.7999992370605,False,False
+KWF6,"Gear oil inlet temperature, Min (°C)",52300,0,0.0,False,2.09999990463257,59.0999984741211,False,False
+KWF6,"Gear oil inlet temperature, StdDev (°C)",52300,0,0.0,False,0.0,16.203365849481504,False,False
+KWF6,"Nacelle ambient temperature, Max (°C)",52300,43,0.08221797323135756,False,-3.40000009536743,38.7999992370605,False,False
+KWF6,"Nacelle ambient temperature, Min (°C)",52300,43,0.08221797323135756,False,-3.40000009536743,38.2000007629395,False,False
+KWF6,"Nacelle ambient temperature, StdDev (°C)",52300,43,0.08221797323135756,False,0.0,1.7229626968428644,False,False
+KWF6,"Rotor bearing temp, Max (°C)",52300,0,0.0,False,1.70000004768372,42.7000007629395,False,False
+KWF6,"Rotor bearing temp, Min (°C)",52300,0,0.0,False,1.65000009536743,42.5999984741211,False,False
+KWF6,"Rotor bearing temp, StdDev (°C)",52300,0,0.0,False,0.0,0.509656726649606,False,False
+KWF6,"CPU temperature, Max (°C)",52300,0,0.0,False,34.0,78.0,False,False
+KWF6,"CPU temperature, Min (°C)",52300,0,0.0,False,34.0,78.0,False,False
+KWF6,"CPU temperature, StdDev (°C)",52300,0,0.0,False,0.0,2.742603689926782,False,False
+KWF6,"Transformer cell temperature, Max (°C)",52300,43,0.08221797323135756,False,-1.65000009536743,45.0999984741211,False,False
+KWF6,"Transformer cell temperature, Min (°C)",52300,43,0.08221797323135756,False,-1.95000004768372,44.7999992370605,False,False
+KWF6,"Transformer cell temperature, StdDev (°C)",52300,43,0.08221797323135756,False,0.0,2.9070117347594424,False,False
+KWF6,"Transformer temperature, Max (°C)",52300,43,0.08221797323135756,False,18.3499984741211,112.800003051758,False,False
+KWF6,"Transformer temperature, Min (°C)",52300,43,0.08221797323135756,False,18.0,111.699996948242,False,False
+KWF6,"Transformer temperature, StdDev (°C)",52300,43,0.08221797323135756,False,0.0,3.188936678732432,False,False
+KWF6,"Stator temperature 1, Max (°C)",52300,0,0.0,False,6.59999990463257,96.5,False,False
+KWF6,"Stator temperature 1, Min (°C)",52300,0,0.0,False,6.59999990463257,96.25,False,False
+KWF6,"Stator temperature 1, StdDev (°C)",52300,0,0.0,False,0.0,3.184297337057828,False,False
+KWF6,"Temp. top box, Max (°C)",52300,0,0.0,False,6.69999980926514,45.5,False,False
+KWF6,"Temp. top box, Min (°C)",52300,0,0.0,False,6.69999980926514,45.4000015258789,False,False
+KWF6,"Temp. top box, StdDev (°C)",52300,0,0.0,False,0.0,0.4043514243660523,False,False
+KWF6,"Temperature motor axis 1, Max (°C)",52300,0,0.0,False,8.0,84.0,False,False
+KWF6,"Temperature motor axis 1, Min (°C)",52300,0,0.0,False,8.0,80.0,False,False
+KWF6,"Temperature motor axis 1, StdDev (°C)",52300,0,0.0,False,0.0,12.367699866992243,False,False
+KWF6,"Temperature motor axis 2, Max (°C)",52300,0,0.0,False,10.0,215.0,False,False
+KWF6,"Temperature motor axis 2, Min (°C)",52300,0,0.0,False,10.0,81.0,False,False
+KWF6,"Temperature motor axis 2, StdDev (°C)",52300,0,0.0,False,0.0,93.72483486889595,False,False
+KWF6,"Temperature motor axis 3, Max (°C)",52300,0,0.0,False,8.0,83.0,False,False
+KWF6,"Temperature motor axis 3, Min (°C)",52300,0,0.0,False,8.0,79.0,False,False
+KWF6,"Temperature motor axis 3, StdDev (°C)",52300,0,0.0,False,0.0,11.93350867296585,False,False
+KWF6,Voltage L1 / U (V),52300,43,0.08221797323135756,False,0.0,413.6439971923829,False,False
+KWF6,Voltage L2 / V (V),52300,43,0.08221797323135756,False,0.0,414.20955047607424,False,False
+KWF6,Voltage L3 / W (V),52300,43,0.08221797323135756,False,0.0,414.273048400879,False,False
+KWF6,Grid voltage (V),52300,0,0.0,False,0.0,710.599975585938,False,False
+KWF6,"Grid voltage, Max (V)",52300,0,0.0,False,0.0,717.859985351563,False,False
+KWF6,"Grid voltage, Min (V)",52300,0,0.0,False,0.0,709.989990234375,False,False
+KWF6,"Grid voltage, Standard deviation (V)",52300,0,0.0,False,0.0,200.65377995331596,False,False
+KWF6,"Voltage L1 / U, Min (V)",52300,43,0.08221797323135756,False,0.0,412.820007324219,False,False
+KWF6,"Voltage L1 / U, Max (V)",52300,43,0.08221797323135756,False,0.0,415.871978759766,False,False
+KWF6,"Voltage L1 / U, Standard deviation (V)",52300,43,0.08221797323135756,False,0.0,200.29851006862745,False,False
+KWF6,"Voltage L2 / V, Min (V)",52300,43,0.08221797323135756,False,0.0,412.921997070313,False,False
+KWF6,"Voltage L2 / V, Max (V)",52300,43,0.08221797323135756,False,0.0,419.511993408203,False,False
+KWF6,"Voltage L2 / V, Standard deviation (V)",52300,43,0.08221797323135756,False,0.0,200.99091604255415,False,False
+KWF6,"Voltage L3 / W, Min (V)",52300,43,0.08221797323135756,False,0.0,412.899993896484,False,False
+KWF6,"Voltage L3 / W, Max (V)",52300,43,0.08221797323135756,False,0.0,416.716003417969,False,False
+KWF6,"Voltage L3 / W, Standard deviation (V)",52300,43,0.08221797323135756,False,0.0,200.68717531751065,False,False
+KWF6,Current L1 / U (A),52300,43,0.08221797323135756,False,3.89999997615814,1813.345513916017,False,False
+KWF6,Current L2 / V (A),52300,43,0.08221797323135756,False,6.1050000190734846,1820.204748535157,False,False
+KWF6,Current L3 / W (A),52300,43,0.08221797323135756,False,6.414999961853025,1812.5469970703125,False,False
+KWF6,Grid current (A),52300,0,0.0,False,5.390833377838135,1814.8624084472665,False,False
+KWF6,Motor current axis 1 (A),52300,0,0.0,False,-1.1920928955078105e-07,7.414460736513135,False,False
+KWF6,Motor current axis 2 (A),52300,0,0.0,False,-0.4901961982250212,6.295342981815339,False,False
+KWF6,Motor current axis 3 (A),52300,0,0.0,False,-0.4901961982250212,7.205065210660295,False,False
+KWF6,"Current L1 / U, min (A)",52300,43,0.08221797323135756,False,2.63499999046326,1778.54504394531,False,False
+KWF6,"Current L1 / U, max (A)",52300,43,0.08221797323135756,False,3.92499995231628,1911.21997070313,False,False
+KWF6,"Current L1 / U, StdDev (A)",52300,43,0.08221797323135756,False,0.0,857.0635880924883,False,False
+KWF6,"Current L2 / V, max (A)",52300,43,0.08221797323135756,False,6.1100001335144,1912.81005859375,False,False
+KWF6,"Current L3 / W, max (A)",52300,43,0.08221797323135756,False,6.48999977111816,1908.0849609375,False,False
+KWF6,"Current L2 / V, min (A)",52300,43,0.08221797323135756,False,3.48499989509583,1786.74499511719,False,False
+KWF6,"Current L2 / V, StdDev (A)",52300,43,0.08221797323135756,False,0.0,858.7666974143556,False,False
+KWF6,"Current L3 / W, min (A)",52300,43,0.08221797323135756,False,3.95000004768372,1778.86999511719,False,False
+KWF6,"Current L3 / W, StdDev (A)",52300,43,0.08221797323135756,False,0.0,853.6113389764894,False,False
+KWF6,"Grid current, Max (A)",52300,0,0.0,False,5.40666675567627,1911.99328613281,False,False
+KWF6,"Grid current, Min (A)",52300,0,0.0,False,4.84666681289673,1782.59338378906,False,False
+KWF6,"Grid current, StdDev (A)",52300,0,0.0,False,0.0,855.0543943473845,False,False
+KWF6,"Motor current axis 1, Max (A)",52300,0,0.0,False,-1.19209289550781e-07,17.8627452850342,False,False
+KWF6,"Motor current axis 1, Min (A)",52300,0,0.0,False,-0.0784314945340157,3.82352924346924,False,False
+KWF6,"Motor current axis 1, StdDev (A)",52300,0,0.0,False,0.0,4.648159900215044,False,False
+KWF6,"Motor current axis 2, Max (A)",52300,0,0.0,False,-0.490196198225021,55.6470603942871,False,False
+KWF6,"Motor current axis 2, Min (A)",52300,0,0.0,False,-0.490196198225021,3.61764693260193,False,False
+KWF6,"Motor current axis 2, StdDev (A)",52300,0,0.0,False,0.0,12.188547579508043,False,False
+KWF6,"Motor current axis 3, Max (A)",52300,0,0.0,False,-0.490196198225021,19.1666660308838,False,False
+KWF6,"Motor current axis 3, Min (A)",52300,0,0.0,False,-0.490196198225021,4.90196084976196,False,False
+KWF6,"Motor current axis 3, StdDev (A)",52300,0,0.0,False,0.0,5.126589942704092,False,False
+KWF6,Rotor speed (RPM),52300,0,0.0,False,0.0,15.33203575015067,False,False
+KWF6,Generator RPM (RPM),52300,0,0.0,False,-16.00369583863843,1815.6451263427743,False,False
+KWF6,Gearbox speed (RPM),52300,0,0.0,False,0.0,1819.4348373413093,False,False
+KWF6,"Generator RPM, Max (RPM)",52300,0,0.0,False,-0.821152813732624,1925.68153381348,False,False
+KWF6,"Generator RPM, Min (RPM)",52300,0,0.0,False,-583.70641708374,1797.08198547363,False,False
+KWF6,"Generator RPM, Standard deviation (RPM)",52300,0,0.0,False,0.0,866.1184365919072,False,False
+KWF6,"Rotor speed, Max (RPM)",52300,0,0.0,False,0.0,16.2963420152664,False,False
+KWF6,"Rotor speed, Min (RPM)",52300,0,0.0,False,0.0,15.1204830408096,False,False
+KWF6,"Rotor speed, Standard deviation (RPM)",52300,0,0.0,False,0.0,7.328664186691002,False,False
+KWF6,"Gearbox speed, Max (RPM)",52300,0,0.0,False,0.0,1926.77764892578,False,False
+KWF6,"Gearbox speed, Min (RPM)",52300,0,0.0,False,0.0,1798.54568481445,False,False
+KWF6,"Gearbox speed, StdDev (RPM)",52300,0,0.0,False,0.0,867.5669339252541,False,False
+KWF6,Capacity factor,52300,776,1.4837476099426385,False,0.0,1.205853658536585,False,False
+KWF6,Data Availability,52300,0,0.0,True,1.0,1.0,False,True
+KWF6,Time-based Contractual Avail.,52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Time-based IEC B.2.2 (Users View),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Time-based IEC B.2.3 (Users View),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Time-based IEC B.2.4 (Users View),52300,93,0.17782026768642448,False,0.0,1.0,False,False
+KWF6,Time-based IEC B.3.2 (Manufacturers View),52300,132,0.25239005736137665,False,0.0,1.0,False,False
+KWF6,Production-based IEC B.2.2 (Users View),52300,1065,2.0363288718929256,False,0.0,1.0,False,False
+KWF6,Production-based IEC B.2.3 (Users View),52300,8442,16.141491395793498,False,0.0,1.0,False,False
+KWF6,Production-based IEC B.3.2 (Manufacturers View),52300,906,1.7323135755258126,False,0.0,1.0,False,False
+KWF6,Time-based System Avail.,52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Production-based System Avail.,52300,776,1.4837476099426385,False,0.0,1.0,False,False
+KWF6,Production-based Contractual Avail.,52300,776,1.4837476099426385,False,0.0,1.0,False,False
+KWF6,Time-based System Avail. (Planned),52300,0,0.0,True,1.0,1.0,False,True
+KWF6,Production-based System Avail. (virtual),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Time-based Contractual Avail. (Global),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Time-based Contractual Avail. (Custom),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Production-based Contractual Avail. (Global),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Production-based Contractual Avail. (Custom),52300,0,0.0,False,0.0,1.0,False,False
+KWF6,Reactive Energy Export (kvarh),52300,1359,2.598470363288719,False,0.0,1.0,False,False
+KWF6,Reactive Energy Export counter (kvarh),52300,50829,97.18738049713193,False,122442.0,123915.0,False,False
+KWF6,Reactive Energy Import (kvarh),52300,776,1.4837476099426385,False,0.0,124.0,False,False
+KWF6,Reactive Energy Import counter (kvarh),52300,10381,19.848948374760994,False,10971045.0,12666297.0,False,False
+KWF6,Blade angle (pitch position) A (°),52300,43,0.08221797323135756,False,0.0,92.5,False,False
+KWF6,Blade angle (pitch position) B (°),52300,43,0.08221797323135756,False,0.0,92.5800018310547,False,False
+KWF6,Blade angle (pitch position) C (°),52300,43,0.08221797323135756,False,0.0,105.12000274658202,False,False
+KWF6,Yaw bearing angle (°),52300,43,0.08221797323135756,False,0.0877755401165814,359.92708751961976,False,False
+KWF6,"Blade angle (pitch position) A, Max (°)",52300,43,0.08221797323135756,False,0.0,92.5299987792969,False,False
+KWF6,"Blade angle (pitch position) A, Min (°)",52300,43,0.08221797323135756,False,0.0,92.5,False,False
+KWF6,"Blade angle (pitch position) A, Standard deviation (°)",52300,43,0.08221797323135756,False,0.0,46.15853411632894,False,False
+KWF6,"Blade angle (pitch position) B, Max (°)",52300,43,0.08221797323135756,False,0.0,92.5999984741211,False,False
+KWF6,"Blade angle (pitch position) B, Min (°)",52300,43,0.08221797323135756,False,-0.0199999995529652,92.5800018310547,False,False
+KWF6,"Blade angle (pitch position) B, Standard deviation (°)",52300,43,0.08221797323135756,False,0.0,46.17605943967672,False,False
+KWF6,"Blade angle (pitch position) C, Max (°)",52300,43,0.08221797323135756,False,0.0,105.120002746582,False,False
+KWF6,"Blade angle (pitch position) C, Min (°)",52300,43,0.08221797323135756,False,-0.0099999997764825,105.120002746582,False,False
+KWF6,"Blade angle (pitch position) C, Standard deviation (°)",52300,43,0.08221797323135756,False,0.0,46.0216800175408,False,False
+KWF6,"Yaw bearing angle, Max (°)",52300,43,0.08221797323135756,False,0.21478271484375,359.940307617188,False,False
+KWF6,"Yaw bearing angle, Min (°)",52300,43,0.08221797323135756,False,0.0395447164773941,359.1176757812499,False,False
+KWF6,"Yaw bearing angle, StdDev (°)",52300,43,0.08221797323135756,False,0.0,96.28182280106046,False,False
+KWF6,Gear oil inlet pressure (bar),52300,0,0.0,False,-2.4272522985935217,427.1428939819337,False,False
+KWF6,Gear oil pump pressure (bar),52300,0,0.0,False,0.100000001490116,1144.4234375,False,False
+KWF6,"Gear oil inlet pressure, Max (bar)",52300,0,0.0,False,-1.78530538082123,524.470886230469,False,False
+KWF6,"Gear oil inlet pressure, Min (bar)",52300,0,0.0,False,-4.53498077392578,403.997863769531,False,False
+KWF6,"Gear oil inlet pressure, StdDev (bar)",52300,0,0.0,False,0.0,224.8306813337682,False,False
+KWF6,"Gear oil pump pressure, Max (bar)",52300,0,0.0,False,0.100000001490116,1373.46154785156,False,False
+KWF6,"Gear oil pump pressure, Min (bar)",52300,0,0.0,False,0.100000001490116,1122.95422363281,False,False
+KWF6,"Gear oil pump pressure, StdDev (bar)",52300,0,0.0,False,0.0,570.8908302197505,False,False
+KWF6,Grid frequency (Hz),52300,0,0.0,False,0.0,50.194089387592506,False,False
+KWF6,"Grid frequency, Max (Hz)",52300,0,0.0,False,0.0,50.3365020751953,False,False
+KWF6,"Grid frequency, Min (Hz)",52300,0,0.0,False,0.0,50.1221008300781,False,False
+KWF6,"Grid frequency, Standard deviation (Hz)",52300,0,0.0,False,0.0,24.77634473644636,False,False
+KWF6,Equivalent Full Load Hours (s),52300,776,1.4837476099426385,False,0.0,723.512195121951,False,False
+KWF6,Equivalent Full Load Hours counter (s),52300,52300,100.0,True,,,True,False
+KWF6,Production Factor,52300,0,0.0,False,0.0,6.107792038034881,False,False
+KWF6,Performance Index,52300,3862,7.384321223709369,False,0.0,6.107792038034881,False,False
+KWF6,Investment Performance Ratio,52300,0,0.0,False,-0.0396504921988873,5.675553164201373,False,False
+KWF6,Operating Performance Ratio,52300,8143,15.5697896749522,False,-0.2715607333126338,5.178323839242487,False,False
+KWF6,Apparent power (kVA),52300,0,0.0,False,0.0,2161.02331542969,False,False
+KWF6,"Apparent power, Max (kVA)",52300,0,0.0,False,0.0,2296.6298828125,False,False
+KWF6,"Apparent power, Min (kVA)",52300,0,0.0,False,0.0,2132.2744140625,False,False
+KWF6,"Apparent power, StdDev (kVA)",52300,0,0.0,False,0.0,1012.4401095304092,False,False
+KWF6,Cable windings from calibration point,52300,43,0.08221797323135756,False,-0.9221550971269608,1.7424753904342698,False,False
+KWF6,Metal particle count,52300,0,0.0,False,0.0,3.0,False,False
+KWF6,Metal particle count counter,52300,43,0.08221797323135756,False,665.0,690.0,False,False
+KWF6,"Cable windings from calibration point, Max",52300,43,0.08221797323135756,False,-0.9221550822258,1.74247539043427,False,False
+KWF6,"Cable windings from calibration point, Min",52300,43,0.08221797323135756,False,-0.940447807312012,1.74247539043427,False,False
+KWF6,"Cable windings from calibration point, StdDev",52300,43,0.08221797323135756,False,0.0,0.2669591405055278,False,False
+KWF6,Drive train acceleration (mm/ss),52300,12,0.022944550669216062,False,0.379999995231628,51.3405685424805,False,False
+KWF6,Tower Acceleration X (mm/ss),52300,43,0.08221797323135756,False,2.800356483459473,280.3903339385987,False,False
+KWF6,Tower Acceleration y (mm/ss),52300,43,0.08221797323135756,False,3.0835250645875942,207.9641981124877,False,False
+KWF6,"Tower Acceleration X, Min (mm/ss)",52300,43,0.08221797323135756,False,0.848628997802734,159.184494018555,False,False
+KWF6,"Tower Acceleration X, Max (mm/ss)",52300,43,0.08221797323135756,False,5.09180784225464,800.887939453125,False,False
+KWF6,"Tower Acceleration Y, Min (mm/ss)",52300,43,0.08221797323135756,False,0.653282225131989,69.4669876098633,False,False
+KWF6,"Tower Acceleration Y, Max (mm/ss)",52300,43,0.08221797323135756,False,4.52204608917236,517.862487792969,False,False
+KWF6,"Drive train acceleration, Max (mm/ss)",52300,12,0.022944550669216062,False,0.519999980926514,51.3405685424805,False,False
+KWF6,"Drive train acceleration, Min (mm/ss)",52300,12,0.022944550669216062,False,0.219999998807907,51.3405685424805,False,False
+KWF6,"Drive train acceleration, StdDev (mm/ss)",52300,12,0.022944550669216062,False,0.0,1.38313245773315,False,False
+KWF6,"Tower Acceleration X, StdDev (mm/ss)",52300,43,0.08221797323135756,False,0.0,176.92383264846578,False,False
+KWF6,"Tower Acceleration Y, StdDev (mm/ss)",52300,43,0.08221797323135756,False,0.0,116.79583986333446,False,False

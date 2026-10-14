@@ -1,0 +1,3 @@
+,wind__mean,power__mean,reactive__mean,ambient__mean,bearing__mean,oil__mean,rotor__mean,generator__mean,pitch__mean,frequency__mean,direction_sin__mean,direction_cos__mean,n
+0,5.976,433.804,-154.35,14.028,41.051,56.181,11.026,1307.708,0.054,49.991,-0.466,-0.512,21989
+1,2.539,-1.298,0.0,13.778,37.808,42.058,0.618,73.529,44.99,49.991,-0.141,0.094,4371
